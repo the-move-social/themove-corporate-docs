@@ -61,17 +61,29 @@ The following provisions are for the management of the business and for the cond
 
 ## SEVENTH
 
+### Renouncement of Corporate Opportunities
+
+To the fullest extent permitted by Section 122(17) of the Delaware General Corporation Law, the corporation renounces any interest or expectancy of the corporation in, or in being offered an opportunity to participate in, any business opportunity that is from time to time presented to any director or officer of the corporation who is also a director, officer, employee, or agent of Present Tense Labs, Inc. or any other entity (each, a "Covered Person"). No Covered Person shall have any duty to communicate or offer any such business opportunity to the corporation, and no such Covered Person shall be liable to the corporation or its stockholders for breach of any fiduciary or other duty by reason of the fact that such person pursues or acquires such business opportunity, directs such opportunity to another person or entity, or fails to present such opportunity to the corporation. This Article SEVENTH shall not limit any duty of a Covered Person with respect to a business opportunity that is expressly offered to such person solely in their capacity as a director or officer of the corporation.
+
+## EIGHTH
+
 ### Limitation of Liability
 
 To the fullest extent permitted by the Delaware General Corporation Law as it now exists or as it may hereafter be amended, a director of the corporation shall not be personally liable to the corporation or its stockholders for monetary damages for breach of fiduciary duty as a director.
 
-## EIGHTH
+## NINTH
+
+### Exclusive Forum
+
+Unless the corporation consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware (or, if the Court of Chancery does not have jurisdiction, the federal district court for the District of Delaware) shall be the sole and exclusive forum for (a) any derivative action or proceeding brought on behalf of the corporation, (b) any action asserting a claim of breach of a fiduciary duty owed by any director, officer, or other employee of the corporation to the corporation or its stockholders, (c) any action asserting a claim arising pursuant to any provision of the Delaware General Corporation Law, the Certificate of Incorporation, or the Bylaws, or (d) any action asserting a claim governed by the internal affairs doctrine. Any person or entity purchasing or otherwise acquiring any interest in shares of capital stock of the corporation shall be deemed to have notice of and consented to the provisions of this Article NINTH.
+
+## TENTH
 
 The corporation reserves the right to amend, alter, change, or repeal any provision contained in this Certificate of Incorporation, in the manner now or hereafter prescribed by statute, and all rights conferred upon stockholders herein are granted subject to this reservation.
 
 ---
 
-**IN WITNESS WHEREOF**, the incorporator has executed this Certificate of Incorporation on this ___ day of _________, 2026.
+**IN WITNESS WHEREOF**, the incorporator has executed this Certificate of Incorporation on this 9th day of March, 2026.
 
 ```
 ________________________________________
