@@ -1,7 +1,7 @@
 # Bylaws of The Move Social, Inc.
 
 *A Delaware Corporation*
-*A Wholly Owned Subsidiary of Present Tense Labs, Inc.*
+*A Delaware Corporation*
 
 Adopted: _________, 2026
 
@@ -67,14 +67,14 @@ The number of directors shall be two (2). Directors need not be stockholders or 
 
 ### Section 3.3 — Initial Directors
 
-The initial directors of the corporation, appointed by the sole stockholder Present Tense Labs, Inc., shall be:
+The initial directors of the corporation, appointed by the Class A stockholders, shall be:
 
 1. **Altin Lecaj**
 2. **Eric Garcia**
 
 ### Section 3.4 — Election and Appointment
 
-Directors shall be elected by the holders of Class A Common Stock at each annual meeting. So long as Present Tense Labs, Inc. holds a majority of the outstanding Class A Common Stock, it shall have the right to appoint all directors.
+Directors shall be elected by the holders of a majority of the outstanding Class A Common Stock at each annual meeting.
 
 ### Section 3.5 — Term of Office
 
@@ -123,7 +123,7 @@ The officers of the corporation shall be:
 - **Chief Executive Officer (CEO):** Altin Lecaj
 - **Chief Technology Officer (CTO):** Eric Garcia
 
-Each of the CEO and CTO also holds the titles of **Secretary** and **Treasurer**. Both the CEO and CTO must sign any contract, agreement, or instrument obligating the corporation in an amount exceeding $500. Either the CEO or CTO may sign routine operational documents not exceeding $500. In no event shall either officer individually authorize aggregate expenditures exceeding $2,000 in any calendar month across the corporation and all subsidiaries (including the parent corporation, Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, expenditures authorized at the parent corporation or any other subsidiary shall be attributed to the authorizing officer. Expense reimbursements to any officer exceeding $250 per expense item require the approval of both the CEO and CTO.
+Each of the CEO and CTO also holds the titles of **Secretary** and **Treasurer**. Both the CEO and CTO must sign any contract, agreement, or instrument obligating the corporation in an amount exceeding $500. Either the CEO or CTO may sign routine operational documents not exceeding $500. In no event shall either officer individually authorize aggregate expenditures exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, expenditures authorized at any affiliated entity shall be attributed to the authorizing officer. Expense reimbursements to any officer exceeding $250 per expense item require the approval of both the CEO and CTO.
 
 ### Section 4.2 — Authority of CEO and CTO
 
@@ -207,11 +207,11 @@ The fiscal year of the corporation shall be the calendar year (January 1 through
 
 ### Section 7.2 — Checks and Drafts
 
-All checks, drafts, or other orders for the payment of money in amounts exceeding $500 shall require the signatures of both the CEO and CTO. For amounts of $500 or less, either the CEO or CTO may sign. In no event shall either officer individually authorize aggregate check or draft disbursements exceeding $2,000 in any calendar month across the corporation and all related entities (including the parent corporation, Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, disbursements authorized at the parent corporation or any other subsidiary shall be attributed to the authorizing officer. The Board of Directors may designate other officers or agents to sign checks within these limits.
+All checks, drafts, or other orders for the payment of money in amounts exceeding $500 shall require the signatures of both the CEO and CTO. For amounts of $500 or less, either the CEO or CTO may sign. In no event shall either officer individually authorize aggregate check or draft disbursements exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, disbursements authorized at any affiliated entity shall be attributed to the authorizing officer. The Board of Directors may designate other officers or agents to sign checks within these limits.
 
 ### Section 7.3 — Contracts
 
-No contract or instrument obligating the corporation in excess of $500 shall be executed without the signatures of both the CEO and CTO, unless specifically authorized by unanimous board resolution. Either the CEO or CTO may enter into contracts or execute instruments obligating the corporation in amounts of $500 or less in the ordinary course of business. In no event shall either officer individually enter into contracts or instruments with aggregate obligations exceeding $2,000 in any calendar month across the corporation and all related entities (including the parent corporation, Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, contracts and instruments entered into at the parent corporation or any other subsidiary shall be attributed to the authorizing officer. For purposes of this Section, the aggregate monthly obligation of any recurring contract shall be counted against the month in which it is entered into and each month thereafter in which payment is due.
+No contract or instrument obligating the corporation in excess of $500 shall be executed without the signatures of both the CEO and CTO, unless specifically authorized by unanimous board resolution. Either the CEO or CTO may enter into contracts or execute instruments obligating the corporation in amounts of $500 or less in the ordinary course of business. In no event shall either officer individually enter into contracts or instruments with aggregate obligations exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, contracts and instruments entered into at any affiliated entity shall be attributed to the authorizing officer. For purposes of this Section, the aggregate monthly obligation of any recurring contract shall be counted against the month in which it is entered into and each month thereafter in which payment is due.
 
 ### Section 7.4 — Amendments
 
@@ -219,7 +219,7 @@ These Bylaws may be altered, amended, or repealed only by the **unanimous vote o
 
 ### Section 7.5 — Bank Accounts
 
-All bank accounts of the corporation shall require dual authorization for withdrawals, transfers, or payments exceeding $500. Either the CEO or CTO may authorize withdrawals, transfers, or payments of $500 or less. In no event shall either officer individually authorize aggregate withdrawals, transfers, or payments exceeding $2,000 in any calendar month across the corporation and all related entities (including the parent corporation, Present Tense Labs, Inc.), without the authorization of both the CEO and CTO. For purposes of this aggregate cap, withdrawals, transfers, or payments authorized at the parent corporation or any other subsidiary shall be attributed to the authorizing officer.
+All bank accounts of the corporation shall require dual authorization for withdrawals, transfers, or payments exceeding $500. Either the CEO or CTO may authorize withdrawals, transfers, or payments of $500 or less. In no event shall either officer individually authorize aggregate withdrawals, transfers, or payments exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the authorization of both the CEO and CTO. For purposes of this aggregate cap, withdrawals, transfers, or payments authorized at any affiliated entity shall be attributed to the authorizing officer.
 
 ### Section 7.6 — Dispute Resolution
 
@@ -229,9 +229,7 @@ Any dispute arising under these Bylaws or relating to the governance of the corp
 
 (a) TMS board deadlocks shall first be submitted to mediation per the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated _________, 2026.
 
-(b) If mediation is unsuccessful within thirty (30) days, the matter shall be escalated to the Board of Directors of Present Tense Labs, Inc. for resolution.
-
-(c) Only if the PTL Board is also deadlocked for thirty (30) consecutive days on the same matter may either director invoke the buy-sell provisions of Section 3 of the Founders' Agreement of Present Tense Labs, Inc.
+(b) If mediation is unsuccessful within thirty (30) days, either director may invoke the buy-sell provisions of Section 3 of the Founders' Agreement of Present Tense Labs, Inc.
 
 ### Section 7.8 — Financial Reporting
 

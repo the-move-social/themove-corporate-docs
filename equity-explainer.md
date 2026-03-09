@@ -109,7 +109,7 @@ This payment happens **before liquidation preferences**. It cannot be reduced or
 
 ## Protection 2: Equal Treatment Per Share
 
-Your Class B shares receive the **exact same per-share payout** as Class A shares (held by the parent company) in any acquisition. No class of stock gets a better deal per share than yours.
+Your Class B shares receive the **exact same per-share payout** as Class A shares (held by the founders) in any acquisition. No class of stock gets a better deal per share than yours.
 
 The company has committed to never entering into any deal where Class B holders receive less per share than Class A holders.
 

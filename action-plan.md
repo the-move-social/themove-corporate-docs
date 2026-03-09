@@ -29,7 +29,7 @@ Altin Lecaj & Eric Garcia | March 2026
 
 - [x] Entity formed: **The Move Social, Inc.** — Delaware C-Corp
 - [x] Dual-class structure in Certificate of Incorporation:
-  - Class A Common Stock (voting): 8,500,000 shares — held by PTL
+  - Class A Common Stock (voting): 8,500,000 shares — 4,250,000 each to Altin and Eric
   - Class B Common Stock (non-voting): 1,500,000 shares — EIP pool
 - [x] Registered agent: Northwest (Delaware)
 - [x] Certificate of Incorporation received
@@ -40,6 +40,26 @@ Altin Lecaj & Eric Garcia | March 2026
 ## Phase 4: Corporate Housekeeping — PTL
 
 **Target: March 10-14, 2026**
+
+### S-Corp Election — **HARD DEADLINE: March 15, 2026**
+
+PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-through). This eliminates double taxation and enables founders to receive pass-through losses in early years.
+
+- [ ] Draft board resolution authorizing S-Corp election
+- [ ] **File IRS Form 2553** — signed by both founders, effective January 1, 2026
+  - Both shareholders must consent in Part IV (Election by a Small Business Corporation)
+  - Mail or fax to IRS by **March 15, 2026**
+  - Keep proof of timely filing (certified mail receipt or fax confirmation)
+- [ ] Confirm S-Corp eligibility:
+  - [ ] Both founders are US citizens or residents
+  - [ ] Single class of stock (PTL Common Stock — confirmed)
+  - [ ] No corporate or entity shareholders (both individuals — confirmed)
+  - [ ] Calendar tax year (confirmed)
+- [ ] Set up minimal founder payroll (S-Corp reasonable compensation requirement)
+  - Even $1,000/month per founder establishes W-2 employment relationship
+  - Use Gusto, Rippling, or similar payroll provider
+  - This also addresses founder worker misclassification risk
+- [ ] Notify accountant/tax preparer of S-Corp election for 2026 filing (Form 1120-S instead of 1120)
 
 ### Bylaws & Board
 
@@ -94,12 +114,12 @@ Altin Lecaj & Eric Garcia | March 2026
 
 - [ ] Draft and adopt TMS Bylaws
 - [ ] Execute Board Consent in Lieu of First Meeting
-- [ ] Execute Stock Subscription Agreement: PTL purchases 8,500,000 Class A shares ($85)
+- [ ] Execute Stock Subscription Agreement: Founders purchase 4,250,000 Class A shares each ($42.50 each, $85 total)
 - [ ] Open TMS business bank account (dual authorization for amounts > $500)
 
 ---
 
-## Phase 6: Parent-Subsidiary Agreements
+## Phase 6: PTL-TMS Agreements
 
 **Target: March 17-21, 2026**
 
@@ -193,7 +213,7 @@ Altin Lecaj & Eric Garcia | March 2026
 
 **Target: Q2-Q3 2026 (after product launch)**
 
-- [ ] Amend TMS Certificate of Incorporation to increase authorized Class B shares (PTL consent as sole Class A holder)
+- [ ] Amend TMS Certificate of Incorporation to increase authorized Class B shares (Class A stockholder consent required)
 - [ ] Prepare investor data room (cap table, formation docs, financials, product metrics)
 - [ ] Draft term sheet framework (non-participating preferred, option holder carve-outs, capped liquidation preferences per EIP Section 8.5 covenant)
 - [ ] Engage startup counsel for fundraising documentation
@@ -205,7 +225,7 @@ Altin Lecaj & Eric Garcia | March 2026
 | Date | Milestone | Hard Deadlines |
 |------|-----------|----------------|
 | **March 5** | Decisions finalized, doc updates complete | — |
-| **March 10-14** | Phase 4 & 5: Bylaws, board consents, founder stock purchases, banking | 83(b) elections within 30 days of stock purchase |
+| **March 10-14** | Phase 4 & 5: Bylaws, board consents, founder stock purchases, banking | **March 15: IRS Form 2553 (S-Corp election)**; 83(b) elections within 30 days of stock purchase |
 | **March 17-21** | Phase 6 & 7: IP agreements, EIP adoption, template finalization | — |
 | **March 24** | Phase 8: Commission 409A valuation | — |
 | **April 7-14** | Phase 8 complete, Phase 9 begins: Contractor agreements, option grants, early exercise | — |
@@ -223,9 +243,11 @@ Altin Lecaj & Eric Garcia | March 2026
 | Delaware filing fees x2 | ~$178 | 2-3 |
 | Northwest registered agent x2 (annual) | ~$250/yr | 2-3 |
 | Founder stock purchases (PTL) | $100 | 4 |
-| TMS stock subscription (PTL → TMS) | $85 | 5 |
+| TMS stock subscription (founders → TMS) | $85 | 5 |
 | 409A valuation | $1,000-$3,000 | 8 |
 | Option exercise costs (4 x $1K-$5K) | $4,000-$20,000 | 9 |
+| Payroll provider (annual, Gusto/Rippling) | $500-$1,000/yr | 4 |
+| Founder payroll (minimal, $1K/mo x2) | $24,000/yr + payroll taxes | 4 |
 | Lawyer review of formation docs (recommended) | $3,000-$7,000 | 4-7 |
 | D&O insurance (annual) | $1,000-$3,000/yr | 4 |
 | Key-person insurance (annual, per founder) | $500-$1,500/yr | 4 |
@@ -243,6 +265,8 @@ Altin Lecaj & Eric Garcia | March 2026
 | 2026-03-05 | All grants as NSOs (no employees at TMS) | Altin & Eric |
 | 2026-03-05 | Independent contractor structure for Dana Vines and Paul Wand | Altin & Eric |
 | 2026-03-05 | Equity-only compensation for contractors (no cash retainer) | Altin & Eric |
+| 2026-03-09 | PTL S-Corp election (Form 2553) — pass-through taxation, stay as C-Corp entity | Altin & Eric |
+| 2026-03-09 | Minimal founder payroll to satisfy S-Corp reasonable compensation requirement | Altin & Eric |
 | 2026-03-05 | No non-compete clauses in contractor agreements | Altin & Eric |
 | 2026-03-05 | Early-exercise + 83(b) election as standard for all grants | Altin & Eric |
 | | 409A provider selected | Altin & Eric |

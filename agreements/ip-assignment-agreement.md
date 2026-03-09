@@ -18,7 +18,7 @@ Each of Assignor 1 and Assignor 2 may be referred to individually as an "Assigno
 
 ## Recitals
 
-A. The Company is a Delaware C-Corporation and the parent corporation of The Move Social, Inc. ("TMS"), a wholly owned subsidiary.
+A. The Company is a Delaware C-Corporation. The Move Social, Inc. ("TMS") is a Delaware corporation whose Class A Common Stock is held directly by the Assignors.
 
 B. The Assignors are the founders of the Company and have been developing technology for "The Move" — an IRL social/adventure application — including the Reputation Engine, Vector Matching system, Experience Generation system, Safety Layer, and related infrastructure (collectively, the "Technology").
 

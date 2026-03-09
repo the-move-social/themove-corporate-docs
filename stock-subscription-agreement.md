@@ -9,7 +9,10 @@
 This Stock Subscription Agreement (the "Agreement") is entered into between:
 
 - **The Move Social, Inc.**, a Delaware corporation (the "Company")
-- **Present Tense Labs, Inc.**, a Delaware corporation (the "Subscriber")
+- **Altin Lecaj**, an individual ("Subscriber 1")
+- **Eric Garcia**, an individual ("Subscriber 2")
+
+Subscriber 1 and Subscriber 2 are each referred to herein as a "Subscriber" and collectively as the "Subscribers."
 
 ---
 
@@ -17,9 +20,9 @@ This Stock Subscription Agreement (the "Agreement") is entered into between:
 
 A. The Company has been incorporated under the laws of the State of Delaware.
 
-B. The Subscriber desires to subscribe for shares of the Company's Class A Common Stock (voting), and the Company desires to issue such shares to the Subscriber.
+B. Each Subscriber desires to subscribe for shares of the Company's Class A Common Stock (voting), and the Company desires to issue such shares to the Subscribers.
 
-C. The Subscriber is the parent corporation of the Company and, upon issuance of the shares, will be the sole holder of all issued and outstanding voting shares of the Company.
+C. Upon issuance of the shares, the Subscribers will be the sole holders of all issued and outstanding voting shares of the Company, each holding 50% of the outstanding Class A Common Stock.
 
 ---
 
@@ -27,35 +30,36 @@ C. The Subscriber is the parent corporation of the Company and, upon issuance of
 
 ### 1.1 Subscription for Shares
 
-The Subscriber hereby subscribes for and agrees to purchase **8,500,000 shares** of the Company's **Class A Common Stock** (voting), par value $0.00001 per share (the "Shares").
+Each Subscriber hereby subscribes for and agrees to purchase shares of the Company's **Class A Common Stock** (voting), par value $0.00001 per share (the "Shares"), as follows:
+
+| Subscriber | Shares | Total Consideration |
+|------------|--------|-------------------|
+| Altin Lecaj | 4,250,000 | $42.50 |
+| Eric Garcia | 4,250,000 | $42.50 |
 
 ### 1.2 Purchase Price
 
-The aggregate purchase price for the Shares shall be **$85.00** ($0.00001 per share), payable to the Company in cash, check, or wire transfer upon execution of this Agreement.
+The aggregate purchase price for all Shares is **$85.00** ($0.00001 per share), with each Subscriber paying $42.50 for their respective Shares, payable to the Company in cash, check, or wire transfer upon execution of this Agreement.
 
 ### 1.3 Reserved Shares
 
 The parties acknowledge that the Company has authorized two classes of Common Stock:
 
-(a) **Class A Common Stock** (voting): 8,500,000 shares authorized, all of which are being issued to the Subscriber.
+(a) **Class A Common Stock** (voting): 8,500,000 shares authorized, all of which are being issued to the Subscribers.
 
 (b) **Class B Common Stock** (non-voting): 1,500,000 shares authorized, reserved for issuance under the Company's Equity Incentive Plan. Class B Common Stock carries no voting rights but has identical economic rights to Class A Common Stock.
 
 ---
 
-## 2. Representations of the Subscriber
+## 2. Representations of the Subscribers
 
-The Subscriber represents and warrants to the Company that:
+Each Subscriber represents and warrants to the Company that:
 
-### 2.1 Organization
+### 2.1 Capacity
 
-The Subscriber is a corporation duly organized, validly existing, and in good standing under the laws of the State of Delaware.
+Such Subscriber has full legal capacity to enter into this Agreement and to purchase the Shares.
 
-### 2.2 Authorization
-
-The execution and delivery of this Agreement and the purchase of the Shares have been duly authorized by the Board of Directors of the Subscriber.
-
-### 2.3 Investment Intent
+### 2.2 Investment Intent
 
 The Shares are being acquired for investment purposes and not with a view toward distribution or resale.
 
@@ -63,7 +67,7 @@ The Shares are being acquired for investment purposes and not with a view toward
 
 ## 3. Representations of the Company
 
-The Company represents and warrants to the Subscriber that:
+The Company represents and warrants to the Subscribers that:
 
 ### 3.1 Organization
 
@@ -83,18 +87,12 @@ Upon issuance of the Shares, no other shares of capital stock of the Company wil
 
 ---
 
-## 4. Parent-Subsidiary Relationship
+## 4. Related Agreements
 
-### 4.1 Control
+The parties acknowledge that the Company will enter into the following related agreements:
 
-Upon issuance of the Shares, the Subscriber will hold 100% of the issued and outstanding Class A Common Stock (voting shares) of the Company and will have the right to elect all members of the Company's Board of Directors. No shares of Class B Common Stock will be issued and outstanding at closing.
-
-### 4.2 Related Agreements
-
-The parties acknowledge that the Company and the Subscriber will enter into the following related agreements:
-
-(a) Intellectual Property License Agreement
-(b) Intercompany Services Agreement
+(a) Intellectual Property License Agreement with Present Tense Labs, Inc.
+(b) Intercompany Services Agreement with Present Tense Labs, Inc.
 
 ---
 
@@ -142,14 +140,16 @@ ________________________________________
 By: Eric Garcia, CTO
 ```
 
-**SUBSCRIBER:**
+**SUBSCRIBER 1:**
 
 ```
-Present Tense Labs, Inc.
-
 ________________________________________
-By: Altin Lecaj, CEO
+Altin Lecaj
+```
 
+**SUBSCRIBER 2:**
+
+```
 ________________________________________
-By: Eric Garcia, CTO
+Eric Garcia
 ```

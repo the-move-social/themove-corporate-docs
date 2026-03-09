@@ -55,7 +55,7 @@ New York, NY 10044
 The following provisions are for the management of the business and for the conduct of the affairs of the corporation:
 
 1. The business and affairs of the corporation shall be managed by or under the direction of the Board of Directors.
-2. Present Tense Labs, Inc., as the sole holder of Class A Common Stock, shall have the exclusive right to appoint and remove directors and to fix the number of directors from time to time.
+2. The holders of a majority of the outstanding Class A Common Stock shall have the exclusive right to appoint and remove directors and to fix the number of directors from time to time.
 3. Holders of Class B Common Stock shall have no right to appoint, remove, or vote for the election of directors.
 4. The directors need not be elected by written ballot unless the Bylaws so provide.
 

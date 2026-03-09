@@ -17,7 +17,7 @@ Prepared for submission to 409A valuation provider.
 | **EIN** | [EIN] |
 | **Principal Office** | 10 River Rd Apt 10C, New York, NY 10044 |
 | **Fiscal Year End** | December 31 |
-| **Parent Company** | Present Tense Labs, Inc. (Delaware C-Corp) |
+| **IP Licensor** | Present Tense Labs, Inc. (Delaware C-Corp) |
 | **Industry** | Consumer social / mobile application |
 | **Website** | themovesocial.com |
 
@@ -25,7 +25,7 @@ Prepared for submission to 409A valuation provider.
 
 ## 2. Business Description
 
-The Move Social operates **The Move**, a social adventure app that turns real-world meetups into AI-generated quests. The company is a wholly owned subsidiary of Present Tense Labs, Inc. (PTL), which owns and licenses the core technology platform.
+The Move Social operates **The Move**, a social adventure app that turns real-world meetups into AI-generated quests. The company's core technology platform is owned by Present Tense Labs, Inc. (PTL) and licensed to TMS under an IP License Agreement.
 
 **Stage:** Pre-revenue, pre-launch. No product in market. No users.
 
@@ -37,7 +37,7 @@ The Move Social operates **The Move**, a social adventure app that turns real-wo
 
 **Revenue model:** Not yet established. No revenue to date.
 
-**Funding:** No outside investment. Bootstrapped by founders. The only capital is par value stock purchases from the parent company ($85 for 8,500,000 Class A shares).
+**Funding:** No outside investment. Bootstrapped by founders. The only capital is par value stock purchases by the founders ($42.50 each for 4,250,000 Class A shares each, $85 total).
 
 ---
 
@@ -47,7 +47,8 @@ The Move Social operates **The Move**, a social adventure app that turns real-wo
 
 | Class | Authorized | Issued | Par Value | Holder |
 |-------|-----------|--------|-----------|--------|
-| Class A Common (Voting) | 8,500,000 | 8,500,000 | $0.00001 | Present Tense Labs, Inc. |
+| Class A Common (Voting) | 8,500,000 | 4,250,000 | $0.00001 | Altin Lecaj |
+| Class A Common (Voting) | — | 4,250,000 | $0.00001 | Eric Garcia |
 | Class B Common (Non-Voting) | 1,500,000 | 0 | $0.00001 | Reserved for Equity Incentive Plan |
 | **Total** | **10,000,000** | **8,500,000** | | |
 
@@ -91,13 +92,15 @@ All grants are NSOs. All optionees are independent contractors (no W-2 employees
 
 ---
 
-## 5. Parent Company Relationship
+## 5. Relationship to Present Tense Labs, Inc.
 
-Present Tense Labs, Inc. (PTL) is the sole Class A stockholder and controls TMS through:
-- 100% of voting shares
-- Right to appoint and remove all directors
+TMS Class A Common Stock is held directly by the founders (Altin Lecaj and Eric Garcia, 4,250,000 shares each). PTL is not a stockholder of TMS.
+
+PTL provides the following to TMS:
 - IP License Agreement — PTL licenses core technology to TMS (exclusive within real-world social meetup field)
 - Intercompany Services Agreement — PTL provides infrastructure, ML/AI operations, DevOps, security, and administrative services (currently at $0/month)
+
+The founders are officers and directors of both PTL and TMS.
 
 ### PTL Capital Structure (for reference)
 
@@ -122,7 +125,7 @@ Present Tense Labs, Inc. (PTL) is the sole Class A stockholder and controls TMS 
 | **Tangible assets** | None |
 | **Intangible assets** | Licensed IP from PTL (not owned by TMS) |
 
-The company has no operating history, no revenue, no customers, and no material assets. The core technology is owned by the parent company and licensed to TMS.
+The company has no operating history, no revenue, no customers, and no material assets. The core technology is owned by Present Tense Labs, Inc. and licensed to TMS.
 
 ---
 
@@ -130,8 +133,8 @@ The company has no operating history, no revenue, no customers, and no material 
 
 | Agreement | Counterparty | Summary |
 |-----------|-------------|---------|
-| Stock Subscription Agreement | PTL | PTL purchased 8,500,000 Class A shares for $85 |
-| IP License Agreement | PTL | Exclusive license to PTL's platform IP within real-world social field; $0 royalty; perpetual while PTL holds majority voting shares |
+| Stock Subscription Agreement | Altin Lecaj, Eric Garcia | Founders purchased 4,250,000 Class A shares each ($42.50 each, $85 total) |
+| IP License Agreement | PTL | Exclusive license to PTL's platform IP within real-world social field; $0 royalty; perpetual while under Common Control |
 | Intercompany Services Agreement | PTL | PTL provides infrastructure, DevOps, ML/AI, security, admin services; $0/month initially; arm's length when costs become material |
 | Equity Incentive Plan | — | 1,500,000 Class B shares reserved for option grants |
 
@@ -141,7 +144,7 @@ The company has no operating history, no revenue, no customers, and no material 
 
 - **Pre-revenue, pre-product** — no operating history or financial performance data
 - **No outside funding** — no third-party price signal for valuation
-- **Subsidiary structure** — core IP owned by parent, licensed to TMS
+- **IP structure** — core IP owned by PTL, licensed to TMS
 - **No tangible assets** — all technology is licensed, not owned
 - **Contractor-only team** — no W-2 employees; all team members are independent contractors on equity-only compensation
 - **No debt** — clean balance sheet
@@ -165,7 +168,7 @@ The following documents are available for the appraiser's review upon request:
 - [x] Certificate of Incorporation (dual-class structure, authorized shares)
 - [x] Bylaws (to be adopted prior to valuation)
 - [x] Board Consent in Lieu of First Meeting (authorizes 409A, option grants, EIP)
-- [x] Stock Subscription Agreement (PTL → TMS, 8.5M Class A shares)
+- [x] Stock Subscription Agreement (founders → TMS, 4.25M Class A shares each)
 - [x] Equity Incentive Plan (1.5M Class B shares, NSOs, early exercise)
 - [x] Stock Option Grant Agreement template
 - [x] IP License Agreement (PTL → TMS)

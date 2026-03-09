@@ -9,13 +9,13 @@ This Intercompany Services Agreement (the "Agreement") is entered into between:
 - **Present Tense Labs, Inc.**, a Delaware corporation (the "Provider")
 - **The Move Social, Inc.**, a Delaware corporation (the "Recipient")
 
-The Provider is the parent corporation and majority stockholder of the Recipient.
+The Provider and the Recipient are under common control, with the same individuals (Altin Lecaj and Eric Garcia) serving as the officers and directors of both entities.
 
 ---
 
 ## Recitals
 
-A. The Provider owns and maintains certain technology infrastructure, systems, and resources that are shared across its subsidiaries.
+A. The Provider owns and maintains certain technology infrastructure, systems, and resources that are shared with its affiliated entities.
 
 B. The Recipient desires to receive certain services from the Provider, and the Provider is willing to provide such services, on the terms set forth herein.
 
@@ -126,7 +126,7 @@ This Agreement may be terminated:
 
 (b) By the Recipient upon ninety (90) days' written notice. The Provider may terminate this Agreement only upon one hundred eighty (180) days' written notice, and only if a reasonable transition plan has been provided to the Recipient. Notwithstanding the foregoing, so long as the IP License Agreement between the parties remains in effect, the Provider may not terminate this Agreement without the Recipient's written consent;
 
-(c) Automatically upon the Provider ceasing to hold a majority of the outstanding shares of the Recipient;
+(c) Automatically upon the Provider and the Recipient ceasing to be under Common Control (as defined in the Intellectual Property License Agreement between the parties);
 
 (d) Immediately by either party if the other party materially breaches this Agreement and fails to cure such breach within thirty (30) days of written notice.
 
@@ -138,7 +138,7 @@ Upon termination, the Provider shall provide reasonable assistance to the Recipi
 
 ## 7. Independent Contractors
 
-The parties are independent entities. Nothing in this Agreement creates a partnership, joint venture, or agency relationship between the parties (other than the existing parent-subsidiary relationship).
+The parties are independent entities. Nothing in this Agreement creates a partnership, joint venture, or agency relationship between the parties.
 
 ---
 

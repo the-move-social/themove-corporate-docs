@@ -9,7 +9,7 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 | Entity | Type | State of Incorporation | EIN |
 |--------|------|----------------------|-----|
 | Present Tense Labs, Inc. (PTL) | Delaware C-Corp | Delaware | _________ |
-| The Move Social, Inc. (TMS) | Delaware C-Corp (subsidiary of PTL) | Delaware | _________ |
+| The Move Social, Inc. (TMS) | Delaware C-Corp | Delaware | _________ |
 
 ---
 
@@ -20,13 +20,12 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 - **Due:** April 15 (or next business day) for prior calendar year
 - **Extension:** File Form 7004 for automatic 6-month extension (to October 15)
 - **Applies to:** PTL and TMS (separate returns, or consolidated return if elected)
-- **Consolidated filing:** PTL may elect to file a consolidated return with TMS since PTL owns 80%+ of TMS voting stock. Evaluate annually whether consolidated or separate filing is more advantageous.
+- **Filing:** PTL and TMS file separate federal returns. PTL does not own TMS stock (the founders hold TMS Class A shares directly), so consolidated filing is not available.
 - **Key items to report:**
-  - PTL's ownership of 8,500,000 Class A shares in TMS
   - Intercompany services (arm's length pricing per Intercompany Services Agreement)
   - IP license fees between PTL and TMS (per IP License Agreement)
   - Stock option exercises and repurchases
-  - Any intercompany eliminations if filing consolidated
+  - Related-party transactions between PTL and TMS (common officers/directors)
 
 ### Delaware Franchise Tax
 

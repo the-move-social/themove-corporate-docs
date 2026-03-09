@@ -18,7 +18,7 @@ This Founders' Agreement (the "Agreement") is entered into as of the date first 
 in connection with the governance and operation of:
 
 - **Present Tense Labs, Inc.** ("PTL" or the "Company"), a Delaware C-Corporation; and
-- **The Move Social, Inc.** ("TMS"), a Delaware corporation and wholly owned subsidiary of PTL.
+- **The Move Social, Inc.** ("TMS"), a Delaware corporation.
 
 **Principal Office:** 10 River Rd Apt 10C, New York, NY 10044
 
@@ -34,7 +34,7 @@ C. Both Founders serve as directors of PTL and TMS.
 
 D. Both Founders serve as officers of PTL and TMS, with Lecaj serving as CEO and Garcia serving as CTO. Both Founders jointly hold the titles of Secretary and Treasurer of both PTL and TMS.
 
-E. TMS is a wholly owned subsidiary of PTL.
+E. Each Founder holds 4,250,000 shares of Class A Common Stock of TMS directly, representing a 50/50 split of TMS voting shares.
 
 F. All equity grants at TMS are Non-Qualified Stock Options ("NSOs") issued to consultants and independent contractors; TMS has no employees.
 
@@ -114,7 +114,7 @@ The buy-sell mechanism described in this Section 3 may only be invoked after the
 
 (b) The deadlocked matter has been submitted to mediation pursuant to Section 6.2 and mediation has been unsuccessful within thirty (30) days;
 
-(c) If the deadlock originated at TMS, the matter has been escalated to the PTL Board pursuant to TMS Bylaws Section 7.7(b) and the PTL Board has also been deadlocked for thirty (30) consecutive days on the same matter.
+(c) If the deadlock originated at the TMS Board, it shall be treated as a deadlock at both the TMS and PTL Board levels for purposes of this Section 3.
 
 ### 3.2 Shotgun Mechanism
 
@@ -305,7 +305,7 @@ All decisions of the Board of Directors of PTL shall require the unanimous affir
 
 ### 11.9 Subsidiary Governance
 
-The Founders acknowledge that TMS is a wholly owned subsidiary of PTL and that the Bylaws of TMS cross-reference specific provisions of this Agreement, including but not limited to Section 1.5 (Incapacity/Disability), Section 3 (Buy-Sell Provisions), and Section 11.6 (Spousal Consents). Any amendment to these referenced sections shall require concurrent review and, if applicable, conforming amendments to the TMS Bylaws.
+The Founders acknowledge that the Bylaws of TMS cross-reference specific provisions of this Agreement, including but not limited to Section 1.5 (Incapacity/Disability), Section 3 (Buy-Sell Provisions), and Section 11.6 (Spousal Consents). Any amendment to these referenced sections shall require concurrent review and, if applicable, conforming amendments to the TMS Bylaws.
 
 ---
 

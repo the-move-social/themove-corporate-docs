@@ -9,7 +9,7 @@ This Intellectual Property License Agreement (the "Agreement") is entered into b
 - **Present Tense Labs, Inc.**, a Delaware corporation (the "Licensor")
 - **The Move Social, Inc.**, a Delaware corporation (the "Licensee")
 
-The Licensor is the parent corporation and sole stockholder of the Licensee.
+The Licensor and the Licensee are under common control, with the same individuals (Altin Lecaj and Eric Garcia) serving as the officers and directors of both entities.
 
 ---
 
@@ -110,7 +110,7 @@ This Agreement shall commence on the date first written above and shall continue
 
 This Agreement shall terminate automatically upon the occurrence of any of the following:
 
-(a) The Licensor ceases to hold a majority of the outstanding voting shares (Class A Common Stock) of the Licensee. For purposes of this section, shares of Class B Common Stock (non-voting) issued under any equity incentive plan shall not be counted toward the determination of majority control;
+(a) The Licensor and the Licensee cease to be under Common Control. "Common Control" means that the same individuals collectively hold a majority of the outstanding voting shares (Class A Common Stock) of both the Licensor and the Licensee. For purposes of this section, shares of Class B Common Stock (non-voting) issued under any equity incentive plan shall not be counted toward the determination of majority control;
 
 (b) The Licensee is acquired by a third party (whether by merger, stock purchase, or asset purchase);
 

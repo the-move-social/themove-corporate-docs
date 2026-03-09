@@ -3,7 +3,7 @@
 ## The Move Social, Inc.
 
 *A Delaware Corporation*
-*A Wholly Owned Subsidiary of Present Tense Labs, Inc.*
+*A Delaware Corporation*
 
 **Date:** _________, 2026
 
@@ -15,9 +15,9 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 **RESOLVED**, that the Bylaws attached hereto are hereby adopted as the Bylaws of the Corporation.
 
-### 2. Sole Stockholder
+### 2. Initial Stockholders
 
-**RESOLVED**, that the Board acknowledges that Present Tense Labs, Inc. is the sole stockholder of the Corporation, having subscribed for shares pursuant to the Stock Subscription Agreement dated _________, 2026.
+**RESOLVED**, that the Board acknowledges Altin Lecaj and Eric Garcia as the initial Class A stockholders of the Corporation, having subscribed for shares pursuant to the Stock Subscription Agreements dated _________, 2026.
 
 ### 3. Appointment of Officers
 
@@ -46,11 +46,12 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 | Recipient | Shares | Class | Par Value | Total Consideration |
 |-----------|--------|-------|-----------|-------------------|
-| Present Tense Labs, Inc. | 8,500,000 | Class A Common Stock (Voting) | $0.00001 | $85.00 |
+| Altin Lecaj | 4,250,000 | Class A Common Stock (Voting) | $0.00001 | $42.50 |
+| Eric Garcia | 4,250,000 | Class A Common Stock (Voting) | $0.00001 | $42.50 |
 
 **FURTHER RESOLVED**, that 1,500,000 shares of Class B Common Stock (Non-Voting) are hereby reserved for issuance under the Corporation's Equity Incentive Plan, to be adopted by separate resolution.
 
-**FURTHER RESOLVED**, that upon receipt of the consideration specified above, the officers of the Corporation are authorized and directed to issue the shares to Present Tense Labs, Inc.
+**FURTHER RESOLVED**, that upon receipt of the consideration specified above, the officers of the Corporation are authorized and directed to issue the shares to Altin Lecaj and Eric Garcia, respectively.
 
 ### 7. Equity Incentive Plan
 
@@ -113,7 +114,7 @@ The undersigned, being all of the directors of The Move Social, Inc. (the "Corpo
 
 (c) Before or concurrent with any seed or Series A financing, the Board shall seek an amendment to the Certificate of Incorporation to increase the authorized Class B Common Stock as needed to maintain a competitive option pool;
 
-(d) Present Tense Labs, Inc., as the sole Class A stockholder, shall provide the stockholder consent required for any such amendment.
+(d) The Class A stockholders shall provide the stockholder consent required for any such amendment.
 
 ### 17. Omnibus Resolution
 

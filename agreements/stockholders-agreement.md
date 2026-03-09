@@ -26,7 +26,7 @@ B. Lecaj holds **5,000,000 shares** of Common Stock of the Company, representing
 
 C. Lecaj serves as Chief Executive Officer and Director of the Company. Garcia serves as Chief Technology Officer and Director of the Company.
 
-D. The Company is the sole stockholder of The Move Social, Inc., a Delaware corporation and wholly owned subsidiary ("TMS").
+D. The Move Social, Inc. ("TMS") is a Delaware corporation. The Stockholders hold all issued and outstanding Class A Common Stock of TMS directly (4,250,000 shares each, representing a 50/50 split).
 
 E. This Agreement is entered into contemporaneously with the execution of the Stock Purchase Agreements by each Stockholder and the Founders' Agreement among the parties.
 
