@@ -96,6 +96,11 @@ The Corporation reserves the right to amend, alter, change, or repeal any provis
 
 ```
 ________________________________________
+Altin Lecaj
+Director
+
+
+________________________________________
 Eric Garcia
-Sole Director
+Director
 ```
