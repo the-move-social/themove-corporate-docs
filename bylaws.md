@@ -1,7 +1,6 @@
 # Bylaws of The Move Social, Inc.
 
 *A Delaware Corporation*
-*A Delaware Corporation*
 
 Adopted: _________, 2026
 
@@ -11,7 +10,7 @@ Adopted: _________, 2026
 
 ### Section 1.1 — Registered Office
 
-The registered office of the corporation in the State of Delaware shall be at the office of its registered agent, Northwest Registered Agent, Inc., 131 Continental Dr, Suite 305, Newark, Delaware 19713.
+The registered office of the corporation in the State of Delaware shall be at the office of its registered agent, Northwest Registered Agent Service, Inc., 8 The Green, Suite B, Dover, Delaware 19901, County of Kent.
 
 ### Section 1.2 — Principal Office
 

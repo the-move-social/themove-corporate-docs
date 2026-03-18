@@ -3,7 +3,6 @@
 ## The Move Social, Inc.
 
 *A Delaware Corporation*
-*A Delaware Corporation*
 
 **Date:** _________, 2026
 
