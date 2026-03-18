@@ -1,0 +1,80 @@
+@page {
+  size: letter;
+  margin: 1in;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  line-height: 1.5;
+  color: #000;
+}
+
+h1 {
+  font-size: 18pt;
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 14pt;
+  margin-top: 1.5em;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 12pt;
+  margin-top: 1em;
+  page-break-after: avoid;
+}
+
+p {
+  text-align: justify;
+  orphans: 3;
+  widows: 3;
+}
+
+pre, code {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  background: none;
+  border: none;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #000;
+  width: 50%;
+  margin: 1.5em auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  page-break-inside: avoid;
+}
+
+th, td {
+  border: 1px solid #000;
+  padding: 6px 10px;
+  text-align: left;
+  font-size: 11pt;
+}
+
+th {
+  font-weight: bold;
+}
+
+/* Keep signature blocks together */
+pre:last-of-type {
+  page-break-inside: avoid;
+  page-break-before: avoid;
+}
+
+/* Keep "IN WITNESS WHEREOF" with signature block */
+p:last-of-type {
+  page-break-after: avoid;
+}

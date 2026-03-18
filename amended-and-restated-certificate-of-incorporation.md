@@ -92,7 +92,7 @@ The Corporation reserves the right to amend, alter, change, or repeal any provis
 
 ---
 
-**IN WITNESS WHEREOF**, the Corporation has caused this Amended and Restated Certificate of Incorporation to be executed on this _____ day of __________, 2026.
+**IN WITNESS WHEREOF**, the Corporation has caused this Amended and Restated Certificate of Incorporation to be executed on this 18th day of March, 2026.
 
 ```
 ________________________________________
