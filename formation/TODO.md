@@ -8,7 +8,7 @@ Updated: March 18, 2026
 
 - [x] **Get EIN** — Applied online at IRS.gov (Form SS-4), EIN received March 18, 2026
 - [x] **Verify Certificate of Incorporation** — Northwest filed basic single-class. Amended and Restated Certificate drafted.
-  - [ ] **File Amended and Restated Certificate of Incorporation** with Delaware (dual-class structure required before issuing stock)
+  - [x] **File Amended and Restated Certificate of Incorporation** — Filed with Delaware via Northwest on March 18, 2026 (standard processing, ~6 business days). Waiting on state confirmation.
 - [ ] **Adopt custom Bylaws** — Replace Northwest's generic bylaws with the custom bylaws.md via board resolution
 - [ ] **Execute Board Consent in Lieu of First Meeting** — Sign board-consent.md (supersedes Northwest's generic initial resolutions)
 - [ ] **Open TMS business bank account** — Requires EIN; dual authorization for amounts > $500

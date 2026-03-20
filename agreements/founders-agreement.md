@@ -57,15 +57,19 @@ A "Change of Control" means (a) the sale of all or substantially all of the asse
 
 "Board" means the Board of Directors of the Company.
 
-### 1.5 Incapacity and Disability
+### 1.5 "Governing Founders"
 
-(a) **Incapacity (15+ consecutive days).** If a Founder is unable to perform the essential functions of their role, with or without reasonable accommodation, for fifteen (15) or more consecutive days due to physical or mental illness, injury, or impairment, the incapacity proxy designated by such Founder pursuant to Section 1.5(d) may act on the incapacitated Founder's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations. The incapacity proxy shall not have authority to bind the Company to new material obligations or to vote on Board matters beyond routine operations.
+"Governing Founders" means those Founders who (a) hold shares of Class A Common Stock (voting) of the Company and (b) serve as directors of the Company. Upon a Founder's resignation or removal from the Board, or the conversion or transfer of all of such Founder's Class A Common Stock, such Founder shall cease to be a Governing Founder. References to actions requiring both Governing Founders shall require only the remaining Governing Founder(s) if the number of Governing Founders is reduced to one.
 
-(b) **Extended Incapacity (90+ consecutive days).** If a Founder's incapacity exceeds ninety (90) consecutive days, the remaining director and the independent tiebreaker designated by the incapacitated Founder pursuant to Section 1.5(d) shall together constitute a quorum of the Board for all purposes and may take any actions reasonably necessary for the continued operation of the Company.
+### 1.6 Incapacity and Disability
+
+(a) **Incapacity (15+ consecutive days).** If a Founder is unable to perform the essential functions of their role, with or without reasonable accommodation, for fifteen (15) or more consecutive days due to physical or mental illness, injury, or impairment, the incapacity proxy designated by such Founder pursuant to Section 1.6(d) may act on the incapacitated Founder's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations. The incapacity proxy shall not have authority to bind the Company to new material obligations or to vote on Board matters beyond routine operations.
+
+(b) **Extended Incapacity (90+ consecutive days).** If a Founder's incapacity exceeds ninety (90) consecutive days, the remaining director and the independent tiebreaker designated by the incapacitated Founder pursuant to Section 1.6(d) shall together constitute a quorum of the Board for all purposes and may take any actions reasonably necessary for the continued operation of the Company.
 
 (c) **Disability (180+ consecutive days).** If a Founder's incapacity exceeds one hundred eighty (180) consecutive days ("Disability"), the remaining Founder shall have the right (but not the obligation) to purchase the Disabled Founder's shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3. The remaining Founder shall deliver written notice of election to purchase within thirty (30) days of the Disability determination, and the closing shall occur within sixty (60) days thereafter. If the remaining Founder does not elect to purchase, the Disabled Founder (or their representative) shall retain their shares, subject to the other provisions of this Agreement.
 
-(d) **Designations.** Within thirty (30) days of the execution of this Agreement, each Founder shall designate in writing: (i) an incapacity proxy who may act on such Founder's behalf in the event of incapacity under Section 1.5(a); and (ii) an independent tiebreaker who shall serve alongside the remaining director in the event of extended incapacity under Section 1.5(b). Each Founder may update these designations at any time by written notice to the other Founder and to the Company. The designations shall be maintained in the Company's corporate records.
+(d) **Designations.** Within thirty (30) days of the execution of this Agreement, each Founder shall designate in writing: (i) an incapacity proxy who may act on such Founder's behalf in the event of incapacity under Section 1.6(a); and (ii) an independent tiebreaker who shall serve alongside the remaining director in the event of extended incapacity under Section 1.6(b). Each Founder may update these designations at any time by written notice to the other Founder and to the Company. The designations shall be maintained in the Company's corporate records.
 
 ---
 
@@ -93,7 +97,7 @@ The CTO shall be responsible for: (a) technology strategy, architecture, and tec
 
 ### 3.3 Joint Responsibilities
 
-Both Founders shall jointly be responsible for: (a) corporate governance and compliance; (b) financial oversight and budgeting; (c) hiring and compensation decisions; and (d) all material decisions affecting the Company's direction, consistent with the consensus voting requirement in Section 15.7.
+All Governing Founders shall jointly be responsible for: (a) corporate governance and compliance; (b) financial oversight and budgeting; (c) hiring and compensation decisions; and (d) all material decisions affecting the Company's direction, consistent with the consensus voting requirement in Section 15.7.
 
 ### 3.4 Time Commitment
 
@@ -101,7 +105,7 @@ The obligations in this Section 3.4 shall apply only during periods in which the
 
 ### 3.5 Good Faith and Best Efforts
 
-Each Founder agrees to act in good faith and use their best efforts to advance the business interests of the Company. Each Founder shall promptly disclose to the other Founder any matter that may reasonably be expected to affect the Company's business, operations, or financial condition.
+Each Governing Founder agrees to act in good faith and use their best efforts to advance the business interests of the Company. Each Governing Founder shall promptly disclose to the other Governing Founder(s) any matter that may reasonably be expected to affect the Company's business, operations, or financial condition.
 
 ---
 
@@ -131,9 +135,11 @@ Within thirty (30) days of receipt of the Shotgun Notice, the Receiving Founder 
 
 (a) **Accept:** Sell all of the Receiving Founder's shares to the Offering Founder at the Offer Price; or
 
-(b) **Reverse:** Purchase all of the Offering Founder's shares at the same Offer Price per share.
+(b) **Reverse:** Purchase all of the Offering Founder's shares at the same Offer Price per share; or
 
-If the Receiving Founder fails to respond within the thirty (30) day period, the Receiving Founder shall be deemed to have elected to sell at the Offer Price.
+(c) **Accept with Conversion Election:** Sell a portion of the Receiving Founder's Class A Common Stock to the Offering Founder at the Offer Price and convert the remainder into Class C Common Stock (non-voting) pursuant to Section 4.6.
+
+If the Receiving Founder fails to respond within the thirty (30) day period, the Receiving Founder shall be deemed to have elected to sell all shares at the Offer Price under Section 4.3(a).
 
 ### 4.4 Payment and Closing
 
@@ -141,11 +147,27 @@ If the Receiving Founder fails to respond within the thirty (30) day period, the
 
 (b) Closing shall occur within sixty (60) days of the Receiving Founder's election (or deemed election) under Section 4.3.
 
-(c) At closing, the selling Founder shall deliver all shares, duly endorsed for transfer, free and clear of all liens and encumbrances, and shall execute all documents reasonably necessary to effect the transfer.
+(c) At closing, the selling Founder shall deliver all Class A shares being sold, duly endorsed for transfer, free and clear of all liens and encumbrances, and shall execute all documents reasonably necessary to effect the transfer and, if applicable, the conversion of remaining shares under Section 4.6.
 
 ### 4.5 Effect of Buy-Sell
 
-Upon closing of the buy-sell transaction, the selling Founder shall resign from all positions as director, officer, and any other role with the Company, and the non-compete and non-solicitation provisions of Sections 5 and 6 shall apply.
+Upon closing of the buy-sell transaction, the selling Founder shall resign from all positions as director, officer, and any other role with the Company, and shall cease to be a Governing Founder. The non-compete and non-solicitation provisions of Sections 5 and 6 shall apply. This requirement applies regardless of whether the selling Founder retains Class C Common Stock under Section 4.6.
+
+### 4.6 Conversion Election
+
+(a) **Election.** A selling Founder who elects Section 4.3(c) shall specify in their response the number of Class A shares to be converted to Class C Common Stock (non-voting). The remaining Class A shares shall be sold to the buying Founder at the Offer Price.
+
+(b) **Minimum Sale.** The selling Founder must sell at least the number of Class A shares necessary to give the buying Founder a majority of the outstanding Class A Common Stock. In no event may the selling Founder retain any Class A (voting) shares following the closing.
+
+(c) **Conversion.** At closing, the selling Founder's retained shares shall automatically convert from Class A Common Stock to Class C Common Stock (non-voting) on a one-for-one basis. Class C Common Stock shall carry the same economic rights as Class A Common Stock (including dividends and liquidation preferences on a per-share parity basis) but shall carry no voting rights. Class C Common Stock is a separate class from the Class B Common Stock reserved for the Equity Incentive Plan under Recital E.
+
+(d) **Certificate Amendment.** The Founders acknowledge that the Company's Certificate of Incorporation does not currently authorize Class C Common Stock. Prior to any closing involving a Conversion Election, the Company shall file an amendment to its Certificate of Incorporation authorizing a sufficient number of shares of Class C Common Stock to effect the conversion. Both Governing Founders shall take all actions necessary to approve and file such amendment.
+
+(e) **No Governance Rights.** A selling Founder who retains Class C shares shall have no right to a Board seat, no right to vote on any matter submitted to stockholders, and no right to participate in the management or operations of the Company. Such Founder shall retain access solely to financial information reasonably necessary to value such Founder's Class C shares.
+
+(f) **Tag-Along Right.** If the buying Founder subsequently receives a bona fide offer from a third party to purchase a majority of the Company's outstanding stock, the selling Founder holding Class C shares shall have the right to sell a pro rata portion of such Class C shares in the same transaction, on the same terms and at the same price per share as the buying Founder.
+
+(g) **Symmetry.** The Conversion Election is available to whichever Founder becomes the selling Founder under this Section 4, whether as the Receiving Founder electing Section 4.3(c) or as the Offering Founder following a reversal under Section 4.3(b).
 
 ---
 
@@ -219,11 +241,17 @@ The Company may maintain key-person life insurance policies on each Founder. Any
 
 A Founder who voluntarily departs the Company shall provide ninety (90) days' prior written notice to the other Founder and to the Company (the "Notice Period").
 
-### 9.2 Shares Upon Departure
+### 9.2 Resignation from Governance
 
-Shares held by the departing Founder shall remain subject to the other provisions of this Agreement.
+Upon voluntary departure, the departing Founder shall resign from all positions as director, officer, and any other governance role with the Company. Such Founder shall cease to be a Governing Founder.
 
-### 9.3 Surviving Obligations
+### 9.3 Shares Upon Departure — Conversion Election
+
+(a) Upon voluntary departure, the departing Founder may elect to convert all of such Founder's Class A Common Stock to Class C Common Stock (non-voting) on the terms set forth in Section 4.6(c), (d), and (f).
+
+(b) If the departing Founder does not elect conversion, the departing Founder's Class A shares shall remain outstanding but the departing Founder shall have no right to a Board seat or to participate in the management or operations of the Company. The remaining Governing Founder shall have the right, at any time thereafter, to purchase all of the departing Founder's Class A shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3, by delivering written notice of election to purchase. Closing shall occur within sixty (60) days of such notice.
+
+### 9.4 Surviving Obligations
 
 The non-compete provisions of Section 5 and the non-solicitation provisions of Section 6 shall survive voluntary departure and remain in effect for the periods specified therein.
 
@@ -243,7 +271,7 @@ Either Founder may be removed from all officer positions for Cause (as defined i
 
 ### 10.2 Effect on Shares
 
-Removal for Cause shall not, by itself, require the terminated Founder to sell or forfeit any shares. The terminated Founder's shares shall remain subject to the other provisions of this Agreement and the right of first refusal provisions therein.
+Removal for Cause shall not, by itself, require the terminated Founder to sell or forfeit any shares. The terminated Founder's shares shall remain subject to the other provisions of this Agreement.
 
 ### 10.3 Effect on Board Seat
 
@@ -259,15 +287,15 @@ The non-compete provisions of Section 5, the non-solicitation provisions of Sect
 
 ### 11.1 Access to Records
 
-Both Founders shall be entitled to full access to all books, records, bank statements, tax filings, and financial records of the Company at all times. Neither Founder may restrict, limit, or deny the other Founder's access to any financial information of the Company.
+All Governing Founders shall be entitled to full access to all books, records, bank statements, tax filings, and financial records of the Company at all times. No Governing Founder may restrict, limit, or deny another Governing Founder's access to any financial information of the Company.
 
 ### 11.2 Quarterly Financial Summary
 
-The Company shall produce a quarterly financial summary, including income, expenses, and bank balances, within fifteen (15) business days of the end of each calendar quarter. Such summary shall be provided to both Founders.
+The Company shall produce a quarterly financial summary, including income, expenses, and bank balances, within fifteen (15) business days of the end of each calendar quarter. Such summary shall be provided to all Governing Founders.
 
 ### 11.3 Audit Right
 
-Either Founder may request an independent audit of the Company's books and records at the Company's expense, no more than once per calendar year. If the audit reveals material discrepancies or unauthorized expenditures, the cost of additional audits within the same calendar year shall also be borne by the Company.
+Any Governing Founder may request an independent audit of the Company's books and records at the Company's expense, no more than once per calendar year. If the audit reveals material discrepancies or unauthorized expenditures, the cost of additional audits within the same calendar year shall also be borne by the Company.
 
 ---
 
@@ -288,6 +316,10 @@ Expense reimbursements to any officer exceeding two hundred fifty dollars ($250)
 ### 12.4 Bank Accounts
 
 All bank accounts of the Company shall require dual authorization for withdrawals, transfers, or payments exceeding five hundred dollars ($500). Either the CEO or CTO may authorize withdrawals, transfers, or payments of five hundred dollars ($500) or less, subject to the monthly aggregate cap in Section 12.2.
+
+### 12.5 Transition
+
+The dual-authorization requirements in this Section 12 apply while two or more Governing Founders serve as officers of the Company. If the number of Governing Founders is reduced to one, the remaining Governing Founder may establish replacement spending controls by Board resolution.
 
 ---
 
@@ -356,7 +388,7 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 
 ### 15.7 Consensus Voting
 
-All decisions of the Board of Directors of the Company shall require the unanimous affirmative vote of all directors, consistent with the Bylaws of the Company. Neither Founder may act unilaterally on any material matter affecting the Company.
+While two or more Governing Founders serve as directors, all decisions of the Board of Directors of the Company shall require the unanimous affirmative vote of all Governing Founders serving as directors, consistent with the Bylaws of the Company. No Governing Founder may act unilaterally on any material matter affecting the Company. If the number of Governing Founders is reduced to one, that Governing Founder shall constitute the Board and may act by sole vote.
 
 ---
 
