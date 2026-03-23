@@ -22,7 +22,7 @@ Lecaj and Garcia are each referred to herein as a "Stockholder" and collectively
 
 A. The Company is a corporation duly organized under the laws of the State of Delaware, with an authorized capital of **10,000,000 shares** of Common Stock, par value **$0.00001** per share.
 
-B. Lecaj holds **5,000,000 shares** of Common Stock of the Company, representing 50% of the issued and outstanding shares. Garcia holds **5,000,000 shares** of Common Stock of the Company, representing 50% of the issued and outstanding shares.
+B. Lecaj holds **4,250,000 shares** of Class A Common Stock (voting) of the Company, representing 50% of the issued and outstanding Class A Common Stock. Garcia holds **4,250,000 shares** of Class A Common Stock (voting) of the Company, representing 50% of the issued and outstanding Class A Common Stock.
 
 C. Lecaj serves as President, Chief Executive Officer, and Director of the Company. Garcia serves as Secretary, Treasurer, Chief Technology Officer, and Director of the Company.
 
