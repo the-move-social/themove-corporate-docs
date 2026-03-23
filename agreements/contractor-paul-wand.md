@@ -146,17 +146,9 @@ Either party may terminate this Agreement at any time, for any reason or no reas
 
 ### 7.3 Termination for Cause
 
-The Company may terminate this Agreement immediately upon written notice if the Contractor:
+"Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
 
-(a) Is convicted of, or pleads guilty or no contest to, a felony or any crime involving moral turpitude;
-
-(b) Commits fraud, embezzlement, or misappropriation against the Company;
-
-(c) Willfully and materially breaches this Agreement and fails to cure such breach within thirty (30) days of written notice;
-
-(d) Willfully fails to perform agreed-upon services for a period of thirty (30) days after written notice from the Company;
-
-(e) Engages in willful misconduct that is materially injurious to the Company.
+The Company may terminate this Agreement immediately upon written notice if Cause exists.
 
 ### 7.4 Effect on Equity
 
@@ -184,7 +176,7 @@ The Contractor shall indemnify and hold harmless the Company from any claims, da
 
 ### 9.1 Mediation
 
-Any dispute arising out of or relating to this Agreement shall first be submitted to mandatory mediation. The parties shall select a mutually agreeable mediator within fifteen (15) days of either party's written request for mediation.
+Any dispute arising out of or relating to this Agreement shall first be submitted to mandatory mediation. The parties shall select a mutually agreeable mediator within ten (10) days of either party's written request for mediation. The mediation shall be completed within thirty (30) days of the mediator's appointment.
 
 ### 9.2 Binding Arbitration
 
@@ -224,7 +216,7 @@ The Contractor may not assign this Agreement without the Company's prior written
 The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, CEO
+By: Altin Lecaj, President and CEO
 ```
 
 **CONTRACTOR:**

@@ -10,8 +10,8 @@
 
 This Founders' Agreement (the "Agreement") is entered into as of the date first written above, by and between:
 
-- **Altin Lecaj** ("Lecaj"), an individual, serving as Chief Executive Officer; and
-- **Eric Garcia** ("Garcia"), an individual, serving as Chief Technology Officer
+- **Altin Lecaj** ("Lecaj"), an individual, serving as President and Chief Executive Officer; and
+- **Eric Garcia** ("Garcia"), an individual, serving as Secretary, Treasurer, and Chief Technology Officer
 
 (each a "Founder" and collectively the "Founders")
 
@@ -31,7 +31,7 @@ B. Upon the filing of the Amended and Restated Certificate of Incorporation and 
 
 C. Both Founders serve as directors of the Company.
 
-D. Both Founders serve as officers of the Company, with Lecaj serving as CEO and Garcia serving as CTO. Both Founders jointly hold the titles of Secretary and Treasurer.
+D. Both Founders serve as officers of the Company. Lecaj serves as President and CEO. Garcia serves as Secretary, Treasurer, and CTO.
 
 E. The Company intends to adopt an Equity Incentive Plan reserving 1,500,000 shares of Class B Common Stock (non-voting) for issuance as Non-Qualified Stock Options ("NSOs") to consultants and independent contractors; the Company has no employees.
 
@@ -153,13 +153,13 @@ Upon a Founder's departure from the Company (whether by voluntary departure unde
 
 ## 3. Roles and Duties
 
-### 3.1 CEO — Altin Lecaj
+### 3.1 President and CEO — Altin Lecaj
 
-The CEO shall be responsible for: (a) overall business strategy and vision; (b) business development, partnerships, and external relationships; (c) fundraising and investor relations; (d) marketing and brand strategy; and (e) such other duties as may be assigned by unanimous resolution of the Board.
+The President and CEO shall be responsible for: (a) overall business strategy and vision; (b) business development, partnerships, and external relationships; (c) fundraising and investor relations; (d) marketing and brand strategy; and (e) such other duties as may be assigned by unanimous resolution of the Board.
 
-### 3.2 CTO — Eric Garcia
+### 3.2 Secretary, Treasurer, and CTO — Eric Garcia
 
-The CTO shall be responsible for: (a) technology strategy, architecture, and technical direction; (b) product development and engineering; (c) technical infrastructure and operations; (d) technical hiring and team management; and (e) such other duties as may be assigned by unanimous resolution of the Board.
+The Secretary, Treasurer, and CTO shall be responsible for: (a) technology strategy, architecture, and technical direction; (b) product development and engineering; (c) technical infrastructure and operations; (d) technical hiring and team management; (e) maintaining corporate records and minutes of Board proceedings; (f) custody of the corporate seal and corporate funds; and (g) such other duties as may be assigned by unanimous resolution of the Board.
 
 ### 3.3 Joint Responsibilities
 
@@ -525,13 +525,13 @@ The drag-along rights set forth in Section 2.6 shall extend to any transaction a
 ```
 ________________________________________
 Altin Lecaj
-Chief Executive Officer, Secretary, and Treasurer
+President and Chief Executive Officer
 The Move Social, Inc.
 Director, The Move Social, Inc.
 
 ________________________________________
 Eric Garcia
-Chief Technology Officer, Secretary, and Treasurer
+Secretary, Treasurer, and Chief Technology Officer
 The Move Social, Inc.
 Director, The Move Social, Inc.
 ```

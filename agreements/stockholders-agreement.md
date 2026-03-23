@@ -1,6 +1,6 @@
 # Stockholders' Agreement
 
-## Present Tense Labs, Inc.
+## The Move Social, Inc.
 
 *A Delaware Corporation*
 
@@ -12,7 +12,7 @@ This Stockholders' Agreement (the "Agreement") is entered into by and among:
 
 - **Altin Lecaj**, an individual ("Lecaj")
 - **Eric Garcia**, an individual ("Garcia")
-- **Present Tense Labs, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social, Inc.**, a Delaware corporation (the "Company")
 
 Lecaj and Garcia are each referred to herein as a "Stockholder" and collectively as the "Stockholders."
 
@@ -24,7 +24,7 @@ A. The Company is a corporation duly organized under the laws of the State of De
 
 B. Lecaj holds **5,000,000 shares** of Common Stock of the Company, representing 50% of the issued and outstanding shares. Garcia holds **5,000,000 shares** of Common Stock of the Company, representing 50% of the issued and outstanding shares.
 
-C. Lecaj serves as Chief Executive Officer and Director of the Company. Garcia serves as Chief Technology Officer and Director of the Company.
+C. Lecaj serves as President, Chief Executive Officer, and Director of the Company. Garcia serves as Secretary, Treasurer, Chief Technology Officer, and Director of the Company.
 
 D. The Move Social, Inc. ("TMS") is a Delaware corporation. The Stockholders hold all issued and outstanding Class A Common Stock of TMS directly (4,250,000 shares each, representing a 50/50 split).
 
@@ -38,7 +38,7 @@ G. The Stockholders desire to set forth their agreements regarding the transfer 
 
 ## 1. Definitions
 
-**"Change of Control"** means (a) a merger or consolidation of the Company with or into another entity, (b) a sale or transfer of all or substantially all of the assets of the Company, or (c) any transaction or series of related transactions in which more than 50% of the voting power of the Company is transferred to a third party.
+**"Change of Control"** means (a) the sale of all or substantially all of the assets of the Company; (b) a merger, consolidation, or other business combination in which the stockholders of the Company immediately prior to such transaction hold less than 50% of the voting power of the surviving entity; or (c) a transaction or series of related transactions in which any person or group acquires more than 50% of the outstanding voting stock of the Company.
 
 **"Equity Incentive Plan"** or **"EIP"** means any equity incentive plan of TMS, or any equity compensation plan of the Company or TMS approved by the Board of Directors.
 
@@ -64,19 +64,27 @@ Before any Stockholder (the "Transferring Stockholder") may Transfer any Shares 
 
 (d) A copy of the bona fide written offer from the proposed transferee, if any.
 
-### 2.2 Company Right of First Refusal
+### 2.2 Class A Common Stock — Founders' Agreement ROFR Controls
 
-The Company shall have the right, exercisable by written notice to the Transferring Stockholder within **thirty (30) days** after receipt of the Transfer Notice, to purchase all (but not less than all) of the Shares subject to the Transfer Notice at the same price and on the same terms as set forth in the Transfer Notice.
+With respect to transfers of Class A Common Stock of TMS, the right of first refusal provisions set forth in Section 2.5 of the Founders' Agreement shall govern. In the event of any conflict between this Section 2 and Section 2.5 of the Founders' Agreement with respect to Class A Common Stock, the Founders' Agreement shall control.
 
-### 2.3 Stockholder Right of First Refusal
+### 2.3 Other Classes — Stockholder Right of First Refusal
 
-If the Company does not exercise its right under Section 2.2 within the thirty (30) day period, each remaining Stockholder shall have the right, exercisable by written notice to the Transferring Stockholder within **fifteen (15) additional days**, to purchase all (but not less than all) of the Shares subject to the Transfer Notice at the same price and on the same terms as set forth in the Transfer Notice, pro rata based on such Stockholder's ownership of the outstanding Shares (excluding the Shares held by the Transferring Stockholder).
+With respect to transfers of shares other than Class A Common Stock (including Class B Common Stock and Class C Common Stock, if any), the following ROFR mechanism shall apply:
 
-### 2.4 Completion of Transfer
+(a) **Stockholder Priority.** Each remaining Stockholder shall have the right, exercisable by written notice to the Transferring Stockholder within **thirty (30) days** after receipt of the Transfer Notice, to purchase all (but not less than all) of the Shares subject to the Transfer Notice at the same price and on the same terms as set forth in the Transfer Notice. If more than one remaining Stockholder elects to purchase, the Shares shall be allocated pro rata based on each electing Stockholder's proportionate ownership of the outstanding Shares (excluding the Shares held by the Transferring Stockholder). The remaining Stockholders' right shall have priority over the Company's right under Section 2.4.
 
-If neither the Company nor any remaining Stockholder exercises its right of first refusal in full, the Transferring Stockholder may, within sixty (60) days following the expiration of the Stockholder right of first refusal period, Transfer the Shares to the proposed transferee at a price not less than, and on terms no more favorable to the transferee than, those set forth in the Transfer Notice.
+(b) If both a remaining Stockholder and the Company elect to purchase, the remaining Stockholder shall purchase the Shares.
 
-### 2.5 Exceptions
+### 2.4 Company Right of First Refusal
+
+If no remaining Stockholder exercises its right under Section 2.3 within the thirty (30) day period, the Company shall have the right, exercisable by written notice to the Transferring Stockholder within the same **thirty (30) day** period (running concurrently with the Stockholder exercise period), to purchase all (but not less than all) of the Shares subject to the Transfer Notice at the same price and on the same terms as set forth in the Transfer Notice.
+
+### 2.5 Completion of Transfer
+
+If neither any remaining Stockholder nor the Company exercises its right of first refusal in full, the Transferring Stockholder may, within sixty (60) days following the expiration of the exercise period, Transfer the Shares to the proposed transferee at a price not less than, and on terms no more favorable to the transferee than, those set forth in the Transfer Notice. If the transfer is not completed within such sixty (60) day period, the Transferring Stockholder must again comply with this Section 2 before transferring the Shares.
+
+### 2.6 Exceptions
 
 The right of first refusal provisions of this Section 2 shall not apply to:
 
@@ -110,7 +118,7 @@ The Selling Stockholder shall not consummate the proposed sale unless the Tag-Al
 
 ### 4.1 Drag-Along Obligation
 
-If Stockholders holding at least **seventy-five percent (75%)** of the outstanding Shares approve a Change of Control transaction (the "Approved Sale"), all Stockholders shall be required to participate in such Approved Sale on the same terms and conditions, including selling their Shares to the proposed acquirer.
+If holders of more than **fifty percent (50%)** of the outstanding Class A Common Stock approve a Change of Control transaction (the "Approved Sale"), all other holders of Class A Common Stock, Class B Common Stock, and Class C Common Stock (if any) shall be required to participate in such Approved Sale on the same terms and conditions, including selling or exchanging their Shares at the same price per share (adjusted for class-specific economic rights, if applicable).
 
 ### 4.2 Bona Fide Arm's Length Transaction
 
@@ -118,11 +126,15 @@ The drag-along rights under this Section 4 may only be exercised in connection w
 
 ### 4.3 Equal Treatment
 
-In any Approved Sale, all Stockholders shall receive the same per-share consideration for their Shares.
+In any Approved Sale, all Stockholders shall receive consideration on a per-share basis identically, such that each share of the same class receives the same per-share consideration. Any stockholder subject to the drag-along obligation shall receive the same price per share and the same protections (including representations, warranties, indemnification caps, and escrow terms) as the stockholders who approved the transaction.
 
 ### 4.4 Cooperation
 
 Each Stockholder shall take all actions reasonably requested in connection with the consummation of an Approved Sale, including executing any purchase agreements, merger agreements, or other documents, and making any representations and warranties, as may be reasonably required.
+
+### 4.5 Acquisition Carve-Out
+
+In any Change of Control transaction, the acquisition carve-out provisions of Section 2.8 of the Founders' Agreement shall apply. Without limiting the foregoing, no less than ten percent (10%) of the aggregate consideration payable to stockholders in any Change of Control transaction shall be allocated to holders of vested Class B Common Stock (and vested options exercisable for Class B Common Stock) on a pro rata basis according to their respective holdings, prior to the application of any liquidation preference, participation right, or other priority payment owed to holders of Preferred Stock. Subject to such floor allocation, shares of Class B Common Stock shall be treated on a per-share basis identically to shares of Class A Common Stock, with Class B holders receiving the same per-share consideration as Class A holders, less the applicable exercise price (if any). In the event of any conflict between this Section 4.5 and Section 2.8 of the Founders' Agreement, the Founders' Agreement shall govern.
 
 ---
 
@@ -154,7 +166,7 @@ The preemptive rights under this Section 5 shall not apply to:
 
 ### 6.1 Lock-Up Period
 
-For a period of **twelve (12) months** from the date of this Agreement (the "Lock-Up Period"), no Stockholder shall Transfer any Shares, except as permitted under Section 6.2.
+For a period of **twelve (12) months** from the date of this Agreement (the "Lock-Up Period"), no Stockholder shall Transfer any Shares, except as permitted under Section 6.2. The Lock-Up Period operates alongside, and not in place of, the right of first refusal provisions set forth in Section 2.5 of the Founders' Agreement. Upon expiration of the Lock-Up Period, any proposed Transfer of Class A Common Stock shall remain subject to the right of first refusal set forth in Section 2.5 of the Founders' Agreement and, with respect to other classes of stock, the right of first refusal provisions of Section 2 of this Agreement.
 
 ### 6.2 Permitted Transfers During Lock-Up
 
@@ -162,7 +174,7 @@ Notwithstanding Section 6.1, the following Transfers shall be permitted during t
 
 (a) Involuntary transfers by operation of law (including transfers resulting from death or bankruptcy);
 
-(b) Transfers to a trust established by a Stockholder for estate planning purposes, subject to the consent requirement set forth in Section 2.5(a); and
+(b) Transfers to a trust established by a Stockholder for estate planning purposes, subject to the consent requirement set forth in Section 2.6(a); and
 
 (c) Transfers required by the buy-sell provisions of the Founders' Agreement.
 
@@ -271,6 +283,10 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 
 No waiver of any provision of this Agreement shall be effective unless in writing and signed by the waiving party. No failure or delay in exercising any right shall operate as a waiver thereof.
 
+### 11.10 Conflict with Founders' Agreement
+
+In the event of any conflict or inconsistency between the terms of this Agreement and the terms of the Founders' Agreement, the Founders' Agreement shall govern and control.
+
 ---
 
 **IN WITNESS WHEREOF**, the parties have executed this Stockholders' Agreement as of the date first written above.
@@ -280,21 +296,21 @@ No waiver of any provision of this Agreement shall be effective unless in writin
 ```
 ________________________________________
 Altin Lecaj
-CEO and Director
+President, CEO, and Director
 
 ________________________________________
 Eric Garcia
-CTO and Director
+Secretary, Treasurer, CTO, and Director
 ```
 
 **COMPANY:**
 
 ```
-Present Tense Labs, Inc.
+The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, CEO
+By: Altin Lecaj, President and CEO
 
 ________________________________________
-By: Eric Garcia, CTO
+By: Eric Garcia, Secretary, Treasurer, and CTO
 ```

@@ -76,7 +76,7 @@ If the Optionee exercises this option with respect to Unvested Shares, such shar
 
 (a) The Company shall have the right, but not the obligation, to repurchase any Unvested Shares at the original exercise price paid per share;
 
-(b) The Company must exercise this repurchase right within ninety (90) days following the date of termination;
+(b) The Company must exercise this repurchase right within sixty (60) days following the date of termination;
 
 (c) If the Company does not exercise the repurchase right within such period, the repurchase right shall lapse and the shares shall be free of such restriction.
 
@@ -120,17 +120,7 @@ In no event may the option be exercised after the Expiration Date specified in S
 
 ### 4.5 Definition of Cause
 
-For purposes of this Agreement, "Cause" means:
-
-(a) Conviction of, or plea of guilty or no contest to, a felony or any crime involving moral turpitude;
-
-(b) Commission of fraud, embezzlement, or misappropriation against the Company;
-
-(c) Willful and material breach of any written agreement with the Company;
-
-(d) Willful failure to perform assigned duties for a period of thirty (30) days after written notice from the Board;
-
-(e) Willful misconduct that is materially injurious to the Company.
+For purposes of this Agreement, "Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
 
 ---
 
@@ -152,9 +142,11 @@ The Optionee acknowledges that all shares issuable upon exercise of this option 
 
 ## 6. Change of Control
 
+A "Change of Control" means (a) the sale of all or substantially all of the assets of the Company; (b) a merger, consolidation, or other business combination in which the stockholders of the Company immediately prior to such transaction hold less than 50% of the voting power of the surviving entity; or (c) a transaction or series of related transactions in which any person or group acquires more than 50% of the outstanding voting stock of the Company.
+
 ### 6.1 Floor Payout
 
-In any Change of Control (as defined in Section 8.1 of the Plan), the Optionee shall receive, at minimum, a cash payment equal to the positive difference (if any) between (i) the per-share consideration paid to stockholders in the transaction and (ii) the Exercise Price, multiplied by the number of vested shares subject to this option (the "Floor Payment"). The Floor Payment shall be made at the closing of the Change of Control transaction and shall not be subject to or reduced by any liquidation preference, participation right, or other priority payment owed to holders of preferred stock or any other class of securities.
+In any Change of Control, the Optionee shall receive, at minimum, a cash payment equal to the positive difference (if any) between (i) the per-share consideration paid to stockholders in the transaction and (ii) the Exercise Price, multiplied by the number of vested shares subject to this option (the "Floor Payment"). The Floor Payment shall be made at the closing of the Change of Control transaction and shall not be subject to or reduced by any liquidation preference, participation right, or other priority payment owed to holders of preferred stock or any other class of securities. This provision is subject to and consistent with the acquisition carve-out set forth in Section 2.8 of the Founders' Agreement, which provides that no less than ten percent (10%) of the aggregate consideration payable to stockholders in any Change of Control transaction shall be allocated to holders of vested Class B Common Stock (and vested options exercisable for Class B Common Stock) on a pro rata basis, prior to the application of any liquidation preference.
 
 ### 6.2 Pari Passu Treatment
 
@@ -226,7 +218,7 @@ This Agreement and the Plan constitute the entire agreement between the parties 
 
 ### 12.1 Mediation
 
-Any dispute arising out of or relating to this Agreement, or the breach, termination, or validity thereof, shall first be submitted to mandatory mediation. The parties shall select a mutually agreeable mediator within fifteen (15) days of either party's written request for mediation. The mediation shall be completed within thirty (30) days of the mediator's appointment.
+Any dispute arising out of or relating to this Agreement, or the breach, termination, or validity thereof, shall first be submitted to mandatory mediation. The parties shall select a mutually agreeable mediator within ten (10) days of either party's written request for mediation. The mediation shall be completed within thirty (30) days of the mediator's appointment.
 
 ### 12.2 Binding Arbitration
 
@@ -242,7 +234,7 @@ If mediation is unsuccessful, the dispute shall be submitted to binding arbitrat
 The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, CEO
+By: Altin Lecaj, President and CEO
 ```
 
 **OPTIONEE:**

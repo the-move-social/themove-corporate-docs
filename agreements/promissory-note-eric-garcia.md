@@ -57,7 +57,7 @@ ________________________________________
 The Move Social, Inc.
 
 By: Altin Lecaj
-Title: Chief Executive Officer
+Title: President and Chief Executive Officer
 Date: _______________
 ```
 

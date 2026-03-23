@@ -1,6 +1,6 @@
 # Restricted Stock Purchase Agreement
 
-## Present Tense Labs, Inc.
+## The Move Social, Inc.
 
 ---
 
@@ -8,20 +8,20 @@
 
 This Restricted Stock Purchase Agreement (the "Agreement") is entered into between:
 
-- **Present Tense Labs, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social, Inc.**, a Delaware corporation (the "Company")
 - **Altin Lecaj**, an individual (the "Purchaser")
 
 ---
 
 ## Recitals
 
-A. The Company has been incorporated under the laws of the State of Delaware with authority to issue 10,000,000 shares of Common Stock, par value $0.00001 per share.
+A. The Company has been incorporated under the laws of the State of Delaware. The Company intends to file an Amended and Restated Certificate of Incorporation authorizing 10,000,000 shares of capital stock, divided into 8,500,000 shares of Class A Common Stock (voting), par value $0.00001 per share, and 1,500,000 shares of Class B Common Stock (non-voting), par value $0.00001 per share.
 
-B. The Purchaser serves as Chief Executive Officer and as a director of the Company.
+B. The Purchaser serves as President, Chief Executive Officer, and as a director of the Company.
 
-C. The Company desires to sell, and the Purchaser desires to purchase, shares of the Company's Common Stock, subject to the vesting and repurchase terms set forth herein, in order to align the Purchaser's interests with those of the Company.
+C. The Company desires to sell, and the Purchaser desires to purchase, shares of the Company's Class A Common Stock (voting), subject to the vesting and repurchase terms set forth herein, in order to align the Purchaser's interests with those of the Company.
 
-D. Upon consummation of this purchase and the concurrent purchase by Eric Garcia of an equal number of shares, the Purchaser will hold 50% of the issued and outstanding shares of the Company.
+D. Upon consummation of this purchase and the concurrent purchase by Eric Garcia of an equal number of shares, the Purchaser will hold 50% of the outstanding voting shares of the Company.
 
 ---
 
@@ -29,11 +29,11 @@ D. Upon consummation of this purchase and the concurrent purchase by Eric Garcia
 
 ### 1.1 Sale of Shares
 
-Subject to the terms and conditions of this Agreement, the Company hereby sells to the Purchaser, and the Purchaser hereby purchases from the Company, **5,000,000 shares** of the Company's **Common Stock**, par value $0.00001 per share (the "Shares").
+Subject to the terms and conditions of this Agreement, the Company hereby sells to the Purchaser, and the Purchaser hereby purchases from the Company, **4,250,000 shares** of the Company's **Class A Common Stock (voting)**, par value $0.00001 per share (the "Shares").
 
 ### 1.2 Purchase Price
 
-The aggregate purchase price for the Shares shall be **$50.00** ($0.00001 per share) (the "Purchase Price"), payable to the Company in cash, check, or wire transfer upon execution of this Agreement.
+The aggregate purchase price for the Shares shall be **$42.50** ($0.00001 per share) (the "Purchase Price"), payable to the Company in cash, check, or wire transfer upon execution of this Agreement.
 
 ### 1.3 Payment
 
@@ -51,14 +51,19 @@ The vesting commencement date shall be _________________ (the date of this Agree
 
 The Shares shall vest according to the following schedule:
 
-| Milestone | Shares Vested | Cumulative |
-|-----------|--------------|------------|
-| 1st anniversary of Vesting Commencement Date | 25% of total Shares (1,250,000) | 25% |
-| Each month thereafter for 36 months | 1/48 of total Shares (~104,167) per month | 25% to 100% |
+(a) **Initial Vesting.** Twenty-five percent (25%) of the Shares (1,062,500 shares) shall be vested as of the Vesting Commencement Date.
 
-### 2.3 Cliff
+(b) **Monthly Vesting.** The remaining seventy-five percent (75%) of the Shares (3,187,500 shares) shall vest in thirty-six (36) equal monthly installments of 88,541 shares (with the final installment adjusted for rounding), beginning on the one-month anniversary of the Vesting Commencement Date and continuing on the same day of each subsequent month thereafter.
 
-No Shares shall vest before the first anniversary of the Vesting Commencement Date (the "Cliff"). If the Purchaser's service with the Company terminates before the first anniversary, no Shares shall have vested and all Shares shall be subject to the Company's repurchase right under Section 3.
+(c) **Full Vesting.** All Shares shall be fully vested on the three-year anniversary of the Vesting Commencement Date, at which point the Company's repurchase right under Section 3 shall expire.
+
+### 2.3 Acceleration of Vesting
+
+All unvested Shares shall immediately vest in full upon the occurrence of any of the following events:
+
+(a) A Change of Control (as defined in Section 3.4); or
+
+(b) The Purchaser's removal from all officer positions without Cause. For purposes of this Agreement, "Cause" means (i) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (ii) willful misconduct or gross negligence in the performance of duties; (iii) material breach of this Agreement or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (iv) willful failure to perform duties after written notice and a reasonable cure period.
 
 ### 2.4 Continued Service Required
 
@@ -74,7 +79,7 @@ Upon termination of the Purchaser's service with the Company for any reason (whe
 
 ### 3.2 Exercise Period
 
-The Company must exercise the repurchase right by delivering written notice to the Purchaser (or the Purchaser's estate or legal representative) within ninety (90) days following the date of termination of service (the "Repurchase Period"). The closing of the repurchase shall occur within ten (10) days after delivery of such notice.
+The Company must exercise the repurchase right by delivering written notice to the Purchaser (or the Purchaser's estate or legal representative) within sixty (60) days following the date of termination of service (the "Repurchase Period"). The closing of the repurchase shall occur within ten (10) days after delivery of such notice.
 
 ### 3.3 Lapse of Repurchase Right
 
@@ -82,7 +87,7 @@ If the Company does not exercise the repurchase right within the Repurchase Peri
 
 ### 3.4 Termination Upon Change of Control
 
-The Company's repurchase right under this Section 3 shall terminate immediately upon the consummation of a Change of Control. For purposes of this Agreement, "Change of Control" means (a) a merger or consolidation of the Company with or into another entity in which the stockholders of the Company immediately prior to such transaction do not hold a majority of the voting power of the surviving entity, (b) a sale of all or substantially all of the Company's assets, or (c) a transaction or series of related transactions in which a person or group acquires more than 50% of the Company's outstanding voting stock.
+The Company's repurchase right under this Section 3 shall terminate immediately upon the consummation of a Change of Control. For purposes of this Agreement, a "Change of Control" means (a) the sale of all or substantially all of the assets of the Company; (b) a merger, consolidation, or other business combination in which the stockholders of the Company immediately prior to such transaction hold less than 50% of the voting power of the surviving entity; or (c) a transaction or series of related transactions in which any person or group acquires more than 50% of the outstanding voting stock of the Company.
 
 ### 3.5 Escrow of Unvested Shares
 
@@ -176,7 +181,7 @@ Each certificate or book entry representing the Shares shall bear the following 
 
 ### 8.2 Vesting/Repurchase Legend
 
-> THE SHARES REPRESENTED HEREBY ARE SUBJECT TO A RESTRICTED STOCK PURCHASE AGREEMENT BETWEEN THE HOLDER AND PRESENT TENSE LABS, INC. DATED _________, 2026, WHICH PROVIDES FOR VESTING AND A COMPANY REPURCHASE RIGHT WITH RESPECT TO UNVESTED SHARES. A COPY OF SUCH AGREEMENT IS ON FILE AT THE PRINCIPAL OFFICE OF THE COMPANY.
+> THE SHARES REPRESENTED HEREBY ARE SUBJECT TO A RESTRICTED STOCK PURCHASE AGREEMENT BETWEEN THE HOLDER AND THE MOVE SOCIAL, INC. DATED _________, 2026, WHICH PROVIDES FOR VESTING AND A COMPANY REPURCHASE RIGHT WITH RESPECT TO UNVESTED SHARES. A COPY OF SUCH AGREEMENT IS ON FILE AT THE PRINCIPAL OFFICE OF THE COMPANY.
 
 ### 8.3 Stockholders' Agreement Legend
 
@@ -190,27 +195,39 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ---
 
-## 10. Miscellaneous
+## 10. Relationship to Founders' Agreement
 
-### 10.1 Entire Agreement
+### 10.1 Subject to Founders' Agreement
 
-This Agreement constitutes the entire agreement between the parties with respect to the purchase and sale of the Shares; provided, however, that this Agreement is subject to the terms of any Founders' Agreement and any Stockholders' Agreement entered into by the parties.
+This Agreement is subject to the terms of the Founders' Agreement dated March 20, 2026, by and between Eric Garcia and Altin Lecaj (the "Founders' Agreement"). In the event of any conflict or inconsistency between the terms of this Agreement and the terms of the Founders' Agreement, the Founders' Agreement shall govern and control.
 
-### 10.2 Amendment
+### 10.2 Dispute Resolution
+
+Any dispute arising out of or relating to this Agreement shall be resolved in accordance with the dispute resolution provisions set forth in Section 7 of the Founders' Agreement.
+
+---
+
+## 11. Miscellaneous
+
+### 11.1 Entire Agreement
+
+This Agreement, together with the Founders' Agreement and any Stockholders' Agreement entered into by the parties, constitutes the entire agreement between the parties with respect to the purchase and sale of the Shares.
+
+### 11.2 Amendment
 
 This Agreement may not be amended, modified, or supplemented except by a written instrument signed by both parties.
 
-### 10.3 Severability
+### 11.3 Severability
 
 If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid or unenforceable provision shall be reformed to the minimum extent necessary to make it valid and enforceable.
 
-### 10.4 Notices
+### 11.4 Notices
 
 All notices required or permitted under this Agreement shall be in writing and shall be deemed given when delivered personally, sent by email with confirmation of receipt, or sent by certified mail, return receipt requested, to the addresses set forth below (or such other address as a party may designate in writing):
 
 **If to the Company:**
 
-Present Tense Labs, Inc.
+The Move Social, Inc.
 10 River Rd Apt 10C
 New York, NY 10044
 
@@ -220,7 +237,7 @@ Altin Lecaj
 10 River Rd Apt 10C
 New York, NY 10044
 
-### 10.5 Counterparts
+### 11.5 Counterparts
 
 This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
 
@@ -231,10 +248,10 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 **COMPANY:**
 
 ```
-Present Tense Labs, Inc.
+The Move Social, Inc.
 
 ________________________________________
-By: Eric Garcia, CTO
+By: Eric Garcia, Secretary, Treasurer, and CTO
 ```
 
 **PURCHASER:**
@@ -254,17 +271,20 @@ Email: ________________________________________
 
 | Date | Event | Shares Vested | Cumulative Vested |
 |------|-------|---------------|-------------------|
-| Vesting Commencement Date | Shares purchased | 0 | 0 |
-| VCD + 12 months | Cliff vests | 1,250,000 (25%) | 1,250,000 (25%) |
-| VCD + 13 months | Monthly vest | +104,167 (1/48) | ~1,354,167 (~27%) |
-| ... | Monthly vest | +104,167 (1/48) | ... |
-| VCD + 48 months | Fully vested | +104,167 (1/48) | 5,000,000 (100%) |
+| Vesting Commencement Date | Initial vesting (25%) | 1,062,500 (25%) | 1,062,500 (25%) |
+| VCD + 1 month | Monthly vest | +88,541 | 1,151,041 |
+| VCD + 2 months | Monthly vest | +88,541 | 1,239,582 |
+| ... | Monthly vest | +88,541 | ... |
+| VCD + 36 months | Final monthly vest (adjusted for rounding) | +88,565 | 4,250,000 (100%) |
 
 **Notes:**
 
 - VCD = Vesting Commencement Date
-- Monthly vesting amounts are rounded; any fractional shares resulting from the 1/48 calculation shall vest on the final vesting date
+- 25% of Shares (1,062,500) vest immediately on the Vesting Commencement Date; there is no cliff
+- Remaining 75% (3,187,500 shares) vest in 36 equal monthly installments of 88,541 shares, with the final installment adjusted for rounding
+- All Shares fully vested on the 3-year anniversary of the Vesting Commencement Date
 - Vesting ceases immediately upon termination of all service relationships
+- All unvested Shares accelerate upon Change of Control or removal without Cause
 
 ---
 
@@ -280,16 +300,16 @@ The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Interna
 | Taxpayer Address | 10 River Rd Apt 10C, New York, NY 10044 |
 | Social Security Number | [SSN] |
 | Taxable Year | [YEAR] |
-| Description of Property | 5,000,000 shares of Common Stock of Present Tense Labs, Inc., a Delaware corporation |
+| Description of Property | 4,250,000 shares of Class A Common Stock (voting) of The Move Social, Inc., a Delaware corporation |
 | Date of Transfer | [DATE OF PURCHASE] |
-| Nature of Restriction | Shares subject to vesting schedule (4-year vesting, 1-year cliff) and company repurchase right at original purchase price ($0.00001 per share) for unvested shares |
-| Fair Market Value at Transfer | $0.00001 per share x 5,000,000 shares = $50.00 |
-| Amount Paid | $0.00001 per share x 5,000,000 shares = $50.00 |
+| Nature of Restriction | Shares subject to vesting schedule (3-year vesting, 25% immediate vesting) and company repurchase right at original purchase price ($0.00001 per share) for unvested shares |
+| Fair Market Value at Transfer | $0.00001 per share x 4,250,000 shares = $42.50 |
+| Amount Paid | $0.00001 per share x 4,250,000 shares = $42.50 |
 | Amount to Include in Gross Income | $0.00 |
 
-The undersigned has submitted a copy of this statement to the person for whom the services were performed (Present Tense Labs, Inc.). The undersigned is the person who performed the services in connection with which the property was transferred.
+The undersigned has submitted a copy of this statement to the person for whom the services were performed (The Move Social, Inc.). The undersigned is the person who performed the services in connection with which the property was transferred.
 
-A copy of this election has been furnished to Present Tense Labs, Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
+A copy of this election has been furnished to The Move Social, Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
 
 ```
 ________________________________________
@@ -302,5 +322,5 @@ Date: ________________________
 1. Mail the original to the IRS Service Center where you file your tax return within **30 days** of the date of purchase
 2. Send via **certified mail** with return receipt requested
 3. Keep the certified mail receipt as proof of timely filing
-4. Deliver a copy to Present Tense Labs, Inc. within 35 days of purchase
+4. Deliver a copy to The Move Social, Inc. within 35 days of purchase
 5. Attach a copy to your federal income tax return for the year of purchase

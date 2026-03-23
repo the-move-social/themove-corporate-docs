@@ -8,7 +8,7 @@ This Intellectual Property Assignment Agreement (the "Agreement") is entered int
 
 - **Altin Lecaj** ("Assignor 1")
 - **Eric Garcia** ("Assignor 2")
-- **Present Tense Labs, Inc.**, a Delaware corporation (the "Company" or "Assignee")
+- **The Move Social, Inc.**, a Delaware corporation (the "Company" or "Assignee")
 
 Each of Assignor 1 and Assignor 2 may be referred to individually as an "Assignor" and collectively as the "Assignors."
 
@@ -191,13 +191,13 @@ Date
 **COMPANY:**
 
 ```
-Present Tense Labs, Inc.
+The Move Social, Inc.
 
 ________________________________________
-By: Altin Lecaj, CEO
+By: Altin Lecaj, President and CEO
 
 ________________________________________
-By: Eric Garcia, CTO
+By: Eric Garcia, Secretary, Treasurer, and CTO
 ```
 
 ---
