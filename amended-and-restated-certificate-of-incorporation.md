@@ -1,12 +1,12 @@
-# Amended and Restated Certificate of Incorporation of The Move Social, Inc.
+# Amended and Restated Certificate of Incorporation of The Move Social Inc.
 
 *(A Delaware Corporation)*
 
 ---
 
-The Move Social, Inc., a corporation organized and existing under the laws of the State of Delaware (the "Corporation"), hereby certifies as follows:
+The Move Social Inc., a corporation organized and existing under the laws of the State of Delaware (the "Corporation"), hereby certifies as follows:
 
-1. The name of the Corporation is **The Move Social, Inc.** The original Certificate of Incorporation of the Corporation was filed with the Secretary of State of the State of Delaware on March 10, 2026, under file number 20261109063.
+1. The name of the Corporation is **The Move Social Inc.** The original Certificate of Incorporation of the Corporation was filed with the Secretary of State of the State of Delaware on March 10, 2026, under file number 10540347.
 
 2. This Amended and Restated Certificate of Incorporation has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law of the State of Delaware by the written consent of the incorporator of the Corporation, acting as the sole director pursuant to Section 108 of the General Corporation Law, no shares of stock having been issued.
 
@@ -16,7 +16,7 @@ The Move Social, Inc., a corporation organized and existing under the laws of th
 
 ## ARTICLE I — NAME
 
-The name of the corporation is **The Move Social, Inc.**
+The name of the corporation is **The Move Social Inc.**
 
 ## ARTICLE II — REGISTERED AGENT
 
