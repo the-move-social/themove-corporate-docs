@@ -67,7 +67,7 @@ A "Change of Control" means (a) the sale of all or substantially all of the asse
 
 (b) **Extended Incapacity (90+ consecutive days).** If a Founder's incapacity exceeds ninety (90) consecutive days, the remaining director and the independent tiebreaker designated by the incapacitated Founder pursuant to Section 1.6(d) shall together constitute a quorum of the Board for all purposes and may take any actions reasonably necessary for the continued operation of the Company.
 
-(c) **Disability (180+ consecutive days).** If a Founder's incapacity exceeds one hundred eighty (180) consecutive days ("Disability"), the remaining Founder shall have the right (but not the obligation) to purchase the Disabled Founder's shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3. The remaining Founder shall deliver written notice of election to purchase within thirty (30) days of the Disability determination, and the closing shall occur within sixty (60) days thereafter. If the remaining Founder does not elect to purchase, the Disabled Founder (or their representative) shall retain their shares, subject to the other provisions of this Agreement.
+(c) **Disability (180+ consecutive days).** If a Founder's incapacity exceeds one hundred eighty (180) consecutive days ("Disability"), the Company may first exercise the Repurchase Right (as defined in Section 2.2) with respect to any unvested shares at the original purchase price. The remaining Founder shall then have the right (but not the obligation) to purchase the Disabled Founder's vested shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3. The remaining Founder shall deliver written notice of election to purchase within thirty (30) days of the Disability determination, and the closing shall occur within sixty (60) days thereafter. If the remaining Founder does not elect to purchase the vested shares, the Disabled Founder (or their representative) shall retain such vested shares, subject to the other provisions of this Agreement.
 
 (d) **Designations.** Within thirty (30) days of the execution of this Agreement, each Founder shall designate in writing: (i) an incapacity proxy who may act on such Founder's behalf in the event of incapacity under Section 1.6(a); and (ii) an independent tiebreaker who shall serve alongside the remaining director in the event of extended incapacity under Section 1.6(b). Each Founder may update these designations at any time by written notice to the other Founder and to the Company. The designations shall be maintained in the Company's corporate records.
 
@@ -79,9 +79,75 @@ A "Change of Control" means (a) the sale of all or substantially all of the asse
 
 Upon the filing of the Amended and Restated Certificate of Incorporation and the issuance of founder shares, each Founder shall hold 4,250,000 shares of Class A Common Stock of the Company, par value $0.00001 per share, representing 50% of the outstanding voting shares. Each Founder shall purchase such shares at par value ($42.50 total per Founder).
 
-### 2.2 Fully Vested
+### 2.2 Reverse Vesting
 
-Each Founder's shares shall be fully vested and non-forfeitable as of the date of issuance.
+Each Founder's 4,250,000 shares of Class A Common Stock shall be subject to the Company's right to repurchase unvested shares at the original purchase price ($0.00001 per share) if such Founder ceases to provide services to the Company for any reason (the "Repurchase Right"). The vesting schedule is as follows:
+
+(a) **Initial Vesting.** Twenty-five percent (25%) of each Founder's shares (1,062,500 shares) shall be vested as of the date of issuance.
+
+(b) **Monthly Vesting.** The remaining seventy-five percent (75%) of each Founder's shares (3,187,500 shares) shall vest in thirty-six (36) equal monthly installments of 88,541 shares (with the final installment adjusted for rounding), beginning on the one-month anniversary of the date of issuance and continuing on the same day of each subsequent month thereafter.
+
+(c) **Full Vesting.** All shares shall be fully vested on the three-year anniversary of the date of issuance, at which point the Repurchase Right shall expire.
+
+### 2.3 Acceleration of Vesting
+
+All unvested shares shall immediately vest in full upon the occurrence of any of the following events:
+
+(a) A Change of Control (as defined in Section 1.1); or
+
+(b) A Founder's removal from all officer positions without Cause (as defined in Section 1.2).
+
+### 2.4 Effect on Departure
+
+Upon a Founder's departure from the Company (whether by voluntary departure under Section 9, removal for Cause under Section 10, or otherwise), the Company may exercise the Repurchase Right with respect to any unvested shares by delivering written notice within sixty (60) days of the departure date. If the Company does not exercise the Repurchase Right within such period, the Repurchase Right shall lapse and the shares shall be deemed fully vested. Only vested shares shall be subject to the conversion, retention, and purchase mechanics of Sections 4 and 9.
+
+### 2.5 Right of First Refusal
+
+(a) **Restriction on Transfer.** No Founder may transfer, sell, assign, pledge, or otherwise dispose of any shares of Class A Common Stock to any third party without first complying with this Section 2.5.
+
+(b) **Offer Notice.** A Founder wishing to transfer shares (the "Transferring Founder") shall deliver written notice (the "Offer Notice") to the other Founder and the Company, specifying: (i) the number of shares proposed to be transferred; (ii) the identity of the proposed transferee; (iii) the proposed price per share; and (iv) all other material terms and conditions of the proposed transfer.
+
+(c) **Exercise Period.** The other Founder and the Company shall each have thirty (30) days from receipt of the Offer Notice to elect to purchase all (but not less than all) of the offered shares at the same price and on the same terms specified in the Offer Notice. The other Founder's right shall have priority over the Company's right. If both elect to purchase, the other Founder shall purchase the shares.
+
+(d) **Third-Party Sale.** If neither the other Founder nor the Company exercises the right of first refusal within the thirty (30) day period, the Transferring Founder may proceed with the transfer to the proposed transferee, but only at the price and on the terms set forth in the Offer Notice. If the transfer is not completed within sixty (60) days after the expiration of the exercise period, the Transferring Founder must again comply with this Section 2.5 before transferring the shares.
+
+(e) **Excluded Transfers.** This Section 2.5 shall not apply to: (i) transfers pursuant to the buy-sell mechanism in Section 4; (ii) repurchases by the Company under the Repurchase Right in Section 2.2; (iii) purchases by the remaining Founder under Section 1.6(c) (Disability), Section 8 (Death), or Section 9.3(b) (Voluntary Departure); or (iv) transfers required by operation of law.
+
+(f) **Void Transfers.** Any transfer of shares in violation of this Section 2.5 shall be void and of no effect, and the Company shall not register any such transfer on its books.
+
+### 2.6 Drag-Along Rights
+
+(a) **Drag-Along Obligation.** If holders of more than fifty percent (50%) of the outstanding Class A Common Stock approve a Change of Control transaction (as defined in Section 1.1), all other holders of Class A Common Stock, Class B Common Stock, and Class C Common Stock (if any) shall be required to participate in such transaction on the same terms and conditions, including selling or exchanging their shares at the same price per share (adjusted for class-specific economic rights, if applicable).
+
+(b) **Equal Treatment.** Any stockholder subject to the drag-along obligation shall receive the same price per share and the same protections (including representations, warranties, indemnification caps, and escrow terms) as the stockholders who approved the transaction, on a pro rata basis.
+
+(c) **Cooperation.** Each stockholder subject to the drag-along obligation shall execute all documents and take all actions reasonably necessary to consummate the transaction, including voting in favor of the transaction if a stockholder vote is required.
+
+(d) **Conditions.** The drag-along right may only be exercised if: (i) the transaction is a bona fide arm's-length transaction with an unaffiliated third party; and (ii) no stockholder is required to agree to non-competition, non-solicitation, or other post-closing restrictive covenants beyond those already applicable under this Agreement, unless such stockholder consents.
+
+### 2.7 Anti-Dilution / Preemptive Rights
+
+(a) **Right to Participate.** In any issuance of new equity securities by the Company — including common stock, preferred stock, convertible notes, SAFEs, or any other instrument convertible into equity — each Founder shall have the right to purchase up to such Founder's pro rata share of the new securities, on the same terms and at the same price offered to other purchasers, in order to maintain such Founder's percentage ownership of the Company.
+
+(b) **Pro Rata Share.** A Founder's pro rata share shall be calculated as the ratio of such Founder's outstanding shares of Class A Common Stock (vested and unvested) to the total outstanding shares of all classes of capital stock immediately prior to the new issuance (on an as-converted basis).
+
+(c) **Notice and Exercise.** The Company shall provide each Founder with written notice of any proposed issuance at least fifteen (15) days prior to the expected closing, specifying the number of securities to be issued, the price, and all material terms. Each Founder shall have fifteen (15) days from receipt of such notice to exercise the preemptive right by delivering written notice and payment (or commitment to pay) to the Company.
+
+(d) **Waiver.** A Founder's failure to exercise the preemptive right within the fifteen (15) day period shall constitute a waiver of such right with respect to that particular issuance only and shall not affect the Founder's preemptive right in any future issuance.
+
+(e) **Exclusions.** This Section 2.7 shall not apply to: (i) shares issued under the Company's Equity Incentive Plan (Class B Common Stock) as described in Recital E; (ii) shares issued upon conversion of convertible securities already issued in compliance with this Section; or (iii) shares issued in connection with a Change of Control transaction.
+
+### 2.8 Acquisition Carve-Out for Equity Incentive Plan Participants
+
+(a) **Floor Allocation.** In any Change of Control transaction (as defined in Section 1.1), no less than ten percent (10%) of the aggregate consideration payable to stockholders shall be allocated to holders of vested Class B Common Stock (and vested options exercisable for Class B Common Stock) on a pro rata basis according to their respective holdings, prior to the application of any liquidation preference, participation right, or other priority payment owed to holders of Preferred Stock.
+
+(b) **Per-Share Parity.** Subject to the floor allocation in Section 2.8(a), shares of Class B Common Stock shall be treated on a per-share basis identically to shares of Class A Common Stock in any Change of Control transaction. Class B holders shall receive the same per-share consideration as Class A holders, less the applicable exercise price (if any).
+
+(c) **Source of Floor Payment.** The floor allocation shall be funded from the gross transaction proceeds before distribution to any class of stockholders. If the aggregate consideration is insufficient to provide the floor allocation and satisfy all liquidation preferences in full, the floor allocation shall be paid first.
+
+(d) **No Reduction.** The floor allocation shall not be subject to or reduced by any liquidation preference, participation right, or other priority payment owed to holders of Preferred Stock issued in any future financing. Any investment documents authorizing Preferred Stock shall expressly acknowledge and preserve this Section 2.8.
+
+(e) **Adjustment.** The ten percent (10%) floor allocation may be adjusted by unanimous Board resolution, provided that (i) the adjusted percentage is not less than five percent (5%), and (ii) the adjustment is made at least ninety (90) days prior to the closing of any Change of Control transaction.
 
 ---
 
@@ -123,11 +189,13 @@ The buy-sell mechanism described in this Section 4 may only be invoked after the
 
 Upon satisfaction of the preconditions in Section 4.1, either Founder (the "Offering Founder") may initiate the buy-sell process by delivering a written offer (the "Shotgun Notice") to the other Founder (the "Receiving Founder") specifying:
 
-(a) The price per share at which the Offering Founder offers to purchase all of the Receiving Founder's shares of Class A Common Stock (the "Offer Price"); and
+(a) The price per share at which the Offering Founder offers to purchase all of the Receiving Founder's vested shares of Class A Common Stock (the "Offer Price"); and
 
 (b) The material terms of the proposed transaction.
 
-By delivering the Shotgun Notice, the Offering Founder irrevocably commits to either purchase the Receiving Founder's shares at the Offer Price or, if the Receiving Founder elects to reverse under Section 4.3(b), sell all of the Offering Founder's shares to the Receiving Founder at the same Offer Price. The Offering Founder may not withdraw the Shotgun Notice once delivered.
+The shotgun mechanism applies only to vested shares. Any unvested shares held by the selling Founder shall be subject to the Company's Repurchase Right under Section 2.2 and shall be repurchased at the original purchase price, not the Offer Price.
+
+By delivering the Shotgun Notice, the Offering Founder irrevocably commits to either purchase the Receiving Founder's vested shares at the Offer Price or, if the Receiving Founder elects to reverse under Section 4.3(b), sell all of the Offering Founder's vested shares to the Receiving Founder at the same Offer Price. The Offering Founder may not withdraw the Shotgun Notice once delivered.
 
 ### 4.3 Response
 
@@ -223,11 +291,11 @@ If mediation is unsuccessful, the dispute shall be submitted to binding arbitrat
 
 ### 8.1 Company Repurchase Right
 
-Upon the death of a Founder, the Company shall have the right (but not the obligation) to repurchase the deceased Founder's shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3.
+Upon the death of a Founder, any unvested shares held by the deceased Founder shall be subject to the Company's Repurchase Right under Section 2.2 at the original purchase price. The Company shall then have the right (but not the obligation) to repurchase the deceased Founder's vested shares at Fair Market Value, determined by an independent appraiser in accordance with Section 1.3.
 
 ### 8.2 Estate Sale Right
 
-The estate of the deceased Founder shall have one hundred eighty (180) days from the date of death to sell the deceased Founder's shares back to the Company or to the remaining Founder at Fair Market Value. If the estate does not exercise this right within the 180-day period, the shares shall remain subject to the other provisions of this Agreement.
+The estate of the deceased Founder shall have one hundred eighty (180) days from the date of death to sell the deceased Founder's vested shares back to the Company or to the remaining Founder at Fair Market Value. If the estate does not exercise this right within the 180-day period, the vested shares shall remain subject to the other provisions of this Agreement.
 
 ### 8.3 Key-Person Life Insurance
 
@@ -271,7 +339,7 @@ Either Founder may be removed from all officer positions for Cause (as defined i
 
 ### 10.2 Effect on Shares
 
-Removal for Cause shall not, by itself, require the terminated Founder to sell or forfeit any shares. The terminated Founder's shares shall remain subject to the other provisions of this Agreement.
+Removal for Cause shall not, by itself, require the terminated Founder to sell or forfeit any vested shares. However, removal for Cause constitutes a departure for purposes of Section 2.4, and the Company may exercise the Repurchase Right with respect to any unvested shares. The terminated Founder's vested shares shall remain subject to the other provisions of this Agreement.
 
 ### 10.3 Effect on Board Seat
 
@@ -320,6 +388,32 @@ All bank accounts of the Company shall require dual authorization for withdrawal
 ### 12.5 Transition
 
 The dual-authorization requirements in this Section 12 apply while two or more Governing Founders serve as officers of the Company. If the number of Governing Founders is reduced to one, the remaining Governing Founder may establish replacement spending controls by Board resolution.
+
+### 12.6 Credit and Debt Restrictions
+
+(a) The Company shall not incur any indebtedness — including loans, lines of credit, corporate credit cards, guarantees, or any other obligation to repay borrowed money — without the unanimous written approval of both Governing Founders, regardless of the amount.
+
+(b) Neither Founder may execute a personal guarantee on behalf of the Company without the unanimous written approval of both Governing Founders.
+
+(c) Any indebtedness incurred in violation of this Section 12.6 shall be the sole personal responsibility of the Founder who authorized it, and such Founder shall indemnify the Company and the other Founder against all liability arising therefrom.
+
+### 12.7 Founder Loans
+
+(a) Any loan, advance, or out-of-pocket expenditure by a Founder on behalf of the Company exceeding two hundred fifty dollars ($250) must be: (i) documented in a written promissory note approved by both Founders; and (ii) bear interest at the applicable federal rate (AFR) published by the IRS at the time of the advance.
+
+(b) Founder loans shall be repaid before any dividends or distributions to stockholders, unless both Founders agree otherwise in writing.
+
+(c) Neither Founder may demand repayment of a founder loan during any period in which repayment would render the Company unable to meet its ordinary operating expenses for the following sixty (60) days.
+
+### 12.8 Initial Founder Loan
+
+(a) Garcia shall advance ten thousand dollars ($10,000) to the Company as a loan (the "Initial Founder Loan") within thirty (30) days of the execution of this Agreement, to fund initial operating expenses.
+
+(b) The Initial Founder Loan shall be documented in a promissory note executed by the Company and shall bear interest at the applicable federal rate (AFR) as of the date of the advance.
+
+(c) The Initial Founder Loan shall be subject to all provisions of Section 12.7, including repayment priority over dividends and distributions.
+
+(d) The Initial Founder Loan shall not constitute a capital contribution and shall not entitle Garcia to any additional equity, voting rights, or preferential treatment beyond the repayment terms set forth herein.
 
 ---
 
@@ -389,6 +483,38 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 ### 15.7 Consensus Voting
 
 While two or more Governing Founders serve as directors, all decisions of the Board of Directors of the Company shall require the unanimous affirmative vote of all Governing Founders serving as directors, consistent with the Bylaws of the Company. No Governing Founder may act unilaterally on any material matter affecting the Company. If the number of Governing Founders is reduced to one, that Governing Founder shall constitute the Board and may act by sole vote.
+
+---
+
+## 16. Future Financing Provisions
+
+### 16.1 Preemptive Rights
+
+In any future financing, the preemptive rights set forth in Section 2.7 shall apply, ensuring each Founder has the opportunity to maintain their percentage ownership by participating in the round on the same terms as outside investors.
+
+### 16.2 Board Expansion
+
+(a) In connection with a "Qualified Financing" (defined as the Company raising five hundred thousand dollars ($500,000) or more in a single round or series of related closings), the Board may be expanded to include one (1) investor-designated director.
+
+(b) Both Founders must approve the specific individual proposed for the investor board seat. Neither Founder may unreasonably withhold such approval.
+
+(c) If the investor (or investor group) whose financing triggered the board expansion ceases to hold at least five percent (5%) of the Company's outstanding capital stock (on an as-converted basis), the investor board seat shall be vacated and the Board shall revert to its prior composition.
+
+### 16.3 Preferred Stock Authorization
+
+(a) Both Founders commit to cooperating in good faith to amend the Certificate of Incorporation to authorize one or more series of Preferred Stock when a Qualified Financing is imminent or in progress.
+
+(b) The Preferred Stock shall carry rights customary for the applicable stage of financing, which may include: liquidation preference, anti-dilution price protection, protective provisions (veto rights on specified major decisions), and conversion rights to Common Stock.
+
+(c) Neither Founder may unreasonably withhold, condition, or delay consent to such amendment. A refusal shall be deemed unreasonable if the proposed terms are consistent with market-standard terms for comparable financings of companies at a similar stage.
+
+### 16.4 Information Rights
+
+The Company shall provide investors with customary information rights as negotiated in the applicable investment documents, which may include: (a) annual audited financial statements; (b) quarterly unaudited financial statements; (c) monthly budget-to-actual reports; and (d) an annual operating plan. The specific scope and frequency of information rights shall be determined in the investment documents for each financing.
+
+### 16.5 Drag-Along in Financing
+
+The drag-along rights set forth in Section 2.6 shall extend to any transaction approved in connection with a future financing or exit, ensuring that minority stockholders cannot block a transaction approved by the requisite majority.
 
 ---
 
