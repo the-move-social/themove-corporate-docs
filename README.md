@@ -1,6 +1,6 @@
-# The Move Social, Inc. — Corporate Documents
+# The Move Social Inc. — Corporate Documents
 
-Delaware C-Corp corporate documents for The Move Social, Inc.
+Delaware C-Corp corporate documents for The Move Social Inc.
 
 ## Structure
 

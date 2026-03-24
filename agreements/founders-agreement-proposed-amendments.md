@@ -1,6 +1,6 @@
 # Proposed Amendments to the Founders' Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 **Prepared:** March 20, 2026
 

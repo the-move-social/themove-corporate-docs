@@ -1,6 +1,6 @@
 # Restricted Stock Purchase Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This Restricted Stock Purchase Agreement (the "Agreement") is entered into between:
 
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **Eric Garcia**, an individual (the "Purchaser")
 
 ---
@@ -227,7 +227,7 @@ All notices required or permitted under this Agreement shall be in writing and s
 
 **If to the Company:**
 
-The Move Social, Inc.
+The Move Social Inc.
 10 River Rd Apt 10C
 New York, NY 10044
 
@@ -248,7 +248,7 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, President and CEO
@@ -300,16 +300,16 @@ The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Interna
 | Taxpayer Address | 10 River Rd Apt 10C, New York, NY 10044 |
 | Social Security Number | [SSN] |
 | Taxable Year | [YEAR] |
-| Description of Property | 4,250,000 shares of Class A Common Stock (voting) of The Move Social, Inc., a Delaware corporation |
+| Description of Property | 4,250,000 shares of Class A Common Stock (voting) of The Move Social Inc., a Delaware corporation |
 | Date of Transfer | [DATE OF PURCHASE] |
 | Nature of Restriction | Shares subject to vesting schedule (3-year vesting, 25% immediate vesting) and company repurchase right at original purchase price ($0.00001 per share) for unvested shares |
 | Fair Market Value at Transfer | $0.00001 per share x 4,250,000 shares = $42.50 |
 | Amount Paid | $0.00001 per share x 4,250,000 shares = $42.50 |
 | Amount to Include in Gross Income | $0.00 |
 
-The undersigned has submitted a copy of this statement to the person for whom the services were performed (The Move Social, Inc.). The undersigned is the person who performed the services in connection with which the property was transferred.
+The undersigned has submitted a copy of this statement to the person for whom the services were performed (The Move Social Inc.). The undersigned is the person who performed the services in connection with which the property was transferred.
 
-A copy of this election has been furnished to The Move Social, Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
+A copy of this election has been furnished to The Move Social Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
 
 ```
 ________________________________________
@@ -322,5 +322,5 @@ Date: ________________________
 1. Mail the original to the IRS Service Center where you file your tax return within **30 days** of the date of purchase
 2. Send via **certified mail** with return receipt requested
 3. Keep the certified mail receipt as proof of timely filing
-4. Deliver a copy to The Move Social, Inc. within 35 days of purchase
+4. Deliver a copy to The Move Social Inc. within 35 days of purchase
 5. Attach a copy to your federal income tax return for the year of purchase

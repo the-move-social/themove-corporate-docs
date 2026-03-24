@@ -1,12 +1,12 @@
 # Board Consent in Lieu of First Meeting
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 *A Delaware Corporation*
 
 **Date:** _________, 2026
 
-The undersigned, being all of the directors of The Move Social, Inc. (the "Corporation"), hereby consent to and adopt the following resolutions in lieu of holding the first meeting of the Board of Directors of the Corporation, pursuant to Section 141(f) of the Delaware General Corporation Law:
+The undersigned, being all of the directors of The Move Social Inc. (the "Corporation"), hereby consent to and adopt the following resolutions in lieu of holding the first meeting of the Board of Directors of the Corporation, pursuant to Section 141(f) of the Delaware General Corporation Law:
 
 ---
 

@@ -1,4 +1,4 @@
-# The Move Social, Inc.
+# The Move Social Inc.
 
 [Overview](index.md)
 

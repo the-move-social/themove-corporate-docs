@@ -1,4 +1,4 @@
-# Tax Obligations — Present Tense Labs, Inc. & The Move Social, Inc.
+# Tax Obligations — Present Tense Labs, Inc. & The Move Social Inc.
 
 Ongoing reference for annual, quarterly, and event-driven tax filings.
 
@@ -9,7 +9,7 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 | Entity | Type | State of Incorporation | EIN |
 |--------|------|----------------------|-----|
 | Present Tense Labs, Inc. (PTL) | Delaware C-Corp | Delaware | _________ |
-| The Move Social, Inc. (TMS) | Delaware C-Corp | Delaware | _________ |
+| The Move Social Inc. (TMS) | Delaware C-Corp | Delaware | _________ |
 
 ---
 

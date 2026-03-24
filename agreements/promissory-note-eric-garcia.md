@@ -6,7 +6,7 @@
 
 ---
 
-FOR VALUE RECEIVED, **The Move Social, Inc.**, a Delaware corporation (the "Company"), hereby promises to pay to the order of **Eric Garcia** (the "Lender"), the principal sum of Ten Thousand Dollars ($10,000.00), together with accrued interest thereon, subject to the terms set forth below.
+FOR VALUE RECEIVED, **The Move Social Inc.**, a Delaware corporation (the "Company"), hereby promises to pay to the order of **Eric Garcia** (the "Lender"), the principal sum of Ten Thousand Dollars ($10,000.00), together with accrued interest thereon, subject to the terms set forth below.
 
 ---
 
@@ -46,7 +46,7 @@ This Note shall be governed by and construed in accordance with the laws of the 
 
 ## 7. Cross-Reference
 
-This Note is the promissory note referenced in Section 12.8 of the Founders' Agreement of The Move Social, Inc., dated March 20, 2026, and is subject to the terms and conditions thereof.
+This Note is the promissory note referenced in Section 12.8 of the Founders' Agreement of The Move Social Inc., dated March 20, 2026, and is subject to the terms and conditions thereof.
 
 ---
 
@@ -54,7 +54,7 @@ This Note is the promissory note referenced in Section 12.8 of the Founders' Agr
 
 ```
 ________________________________________
-The Move Social, Inc.
+The Move Social Inc.
 
 By: Altin Lecaj
 Title: President and Chief Executive Officer

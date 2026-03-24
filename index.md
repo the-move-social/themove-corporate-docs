@@ -1,4 +1,4 @@
-# The Move Social, Inc.
+# The Move Social Inc.
 
 **Delaware C-Corp**
 
@@ -61,7 +61,7 @@ Present Tense Labs, Inc. (IP holder)
   │ licenses core IP
   │ provides shared services
   │
-  └──▶ The Move Social, Inc.
+  └──▶ The Move Social Inc.
         Class A: 4,250,000 (Altin Lecaj) + 4,250,000 (Eric Garcia)
         Class B: 1,500,000 (option pool, unissued)
         Product: The Move (social adventure app)

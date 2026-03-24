@@ -1,4 +1,4 @@
-# The Move Social, Inc. — Formation Next Steps
+# The Move Social Inc. — Formation Next Steps
 
 Updated: March 18, 2026
 

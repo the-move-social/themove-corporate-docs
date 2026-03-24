@@ -1,6 +1,6 @@
 # Equity Incentive Plan
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 *Adopted by the Board of Directors on _________, 2026*
 
@@ -8,7 +8,7 @@
 
 ## 1. Purpose
 
-The purpose of this Equity Incentive Plan (the "Plan") is to attract, retain, and motivate employees, contractors, and advisors of The Move Social, Inc. (the "Company") by providing them with the opportunity to acquire an equity interest in the Company.
+The purpose of this Equity Incentive Plan (the "Plan") is to attract, retain, and motivate employees, contractors, and advisors of The Move Social Inc. (the "Company") by providing them with the opportunity to acquire an equity interest in the Company.
 
 ---
 
@@ -269,7 +269,7 @@ The Plan shall be governed by and construed in accordance with the laws of the S
 
 ---
 
-*Adopted by the Board of Directors of The Move Social, Inc. on _________, 2026.*
+*Adopted by the Board of Directors of The Move Social Inc. on _________, 2026.*
 
 ```
 ________________________________________

@@ -25,9 +25,9 @@ Altin Lecaj & Eric Garcia | March 2026
 
 ---
 
-## Phase 3: Register The Move Social, Inc. — IN PROGRESS
+## Phase 3: Register The Move Social Inc. — IN PROGRESS
 
-- [ ] Entity formed: **The Move Social, Inc.** — Delaware C-Corp via Northwest Registered Agent
+- [ ] Entity formed: **The Move Social Inc.** — Delaware C-Corp via Northwest Registered Agent
 - [ ] Dual-class structure in Certificate of Incorporation:
   - Class A Common Stock (voting): 8,500,000 shares — 4,250,000 each to Altin and Eric
   - Class B Common Stock (non-voting): 1,500,000 shares — EIP pool

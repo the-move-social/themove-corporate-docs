@@ -1,4 +1,4 @@
-# Certificate of Incorporation of The Move Social, Inc.
+# Certificate of Incorporation of The Move Social Inc.
 
 *State of Delaware*
 
@@ -6,7 +6,7 @@
 
 ## FIRST
 
-The name of the corporation is **The Move Social, Inc.**
+The name of the corporation is **The Move Social Inc.**
 
 ## SECOND
 

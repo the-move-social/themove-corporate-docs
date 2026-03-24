@@ -1,10 +1,10 @@
 # Founders' Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 *A Delaware Corporation*
 
-**Date:** March 23, 2026
+**Date:** March 24, 2026
 
 ---
 
@@ -17,7 +17,7 @@ This Founders' Agreement (the "Agreement") is entered into as of the date first 
 
 in connection with the governance and operation of:
 
-- **The Move Social, Inc.** ("TMS" or the "Company"), a Delaware corporation.
+- **The Move Social Inc.** ("TMS" or the "Company"), a Delaware corporation.
 
 **Principal Office:** 10 River Rd Apt 10C, New York, NY 10044
 
@@ -526,13 +526,13 @@ The drag-along rights set forth in Section 2.6 shall extend to any transaction a
 ________________________________________
 Altin Lecaj
 President and Chief Executive Officer
-The Move Social, Inc.
-Director, The Move Social, Inc.
+The Move Social Inc.
+Director, The Move Social Inc.
 
 ________________________________________
 Eric Garcia
 Secretary, Treasurer, and Chief Technology Officer
-The Move Social, Inc.
-Director, The Move Social, Inc.
+The Move Social Inc.
+Director, The Move Social Inc.
 ```
 

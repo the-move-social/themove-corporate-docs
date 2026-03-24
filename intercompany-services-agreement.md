@@ -7,7 +7,7 @@
 This Intercompany Services Agreement (the "Agreement") is entered into between:
 
 - **Present Tense Labs, Inc.**, a Delaware corporation (the "Provider")
-- **The Move Social, Inc.**, a Delaware corporation (the "Recipient")
+- **The Move Social Inc.**, a Delaware corporation (the "Recipient")
 
 The Provider and the Recipient are under common control, with the same individuals (Altin Lecaj and Eric Garcia) serving as the officers and directors of both entities.
 
@@ -193,7 +193,7 @@ By: Eric Garcia, CTO
 **RECIPIENT:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, CEO

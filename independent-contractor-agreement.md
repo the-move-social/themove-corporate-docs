@@ -1,6 +1,6 @@
 # Independent Contractor Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This Independent Contractor Agreement (the "Agreement") is entered into between:
 
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **[CONTRACTOR NAME]**, an individual (the "Contractor")
 
 ---
@@ -213,7 +213,7 @@ The Contractor may not assign this Agreement without the Company's prior written
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: ________________________, CEO

@@ -1,6 +1,6 @@
 # Stockholders' Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 *A Delaware Corporation*
 
@@ -12,7 +12,7 @@ This Stockholders' Agreement (the "Agreement") is entered into by and among:
 
 - **Altin Lecaj**, an individual ("Lecaj")
 - **Eric Garcia**, an individual ("Garcia")
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 
 Lecaj and Garcia are each referred to herein as a "Stockholder" and collectively as the "Stockholders."
 
@@ -26,7 +26,7 @@ B. Lecaj holds **4,250,000 shares** of Class A Common Stock (voting) of the Comp
 
 C. Lecaj serves as President, Chief Executive Officer, and Director of the Company. Garcia serves as Secretary, Treasurer, Chief Technology Officer, and Director of the Company.
 
-D. The Move Social, Inc. ("TMS") is a Delaware corporation. The Stockholders hold all issued and outstanding Class A Common Stock of TMS directly (4,250,000 shares each, representing a 50/50 split).
+D. The Move Social Inc. ("TMS") is a Delaware corporation. The Stockholders hold all issued and outstanding Class A Common Stock of TMS directly (4,250,000 shares each, representing a 50/50 split).
 
 E. This Agreement is entered into contemporaneously with the execution of the Stock Purchase Agreements by each Stockholder and the Founders' Agreement among the parties.
 
@@ -306,7 +306,7 @@ Secretary, Treasurer, CTO, and Director
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, President and CEO

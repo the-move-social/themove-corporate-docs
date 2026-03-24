@@ -8,7 +8,7 @@ This Intellectual Property Assignment Agreement (the "Agreement") is entered int
 
 - **Altin Lecaj** ("Assignor 1")
 - **Eric Garcia** ("Assignor 2")
-- **The Move Social, Inc.**, a Delaware corporation (the "Company" or "Assignee")
+- **The Move Social Inc.**, a Delaware corporation (the "Company" or "Assignee")
 
 Each of Assignor 1 and Assignor 2 may be referred to individually as an "Assignor" and collectively as the "Assignors."
 
@@ -18,7 +18,7 @@ Each of Assignor 1 and Assignor 2 may be referred to individually as an "Assigno
 
 ## Recitals
 
-A. The Company is a Delaware C-Corporation. The Move Social, Inc. ("TMS") is a Delaware corporation whose Class A Common Stock is held directly by the Assignors.
+A. The Company is a Delaware C-Corporation. The Move Social Inc. ("TMS") is a Delaware corporation whose Class A Common Stock is held directly by the Assignors.
 
 B. The Assignors are the founders of the Company and have been developing technology for "The Move" — an IRL social/adventure application — including the Reputation Engine, Vector Matching system, Experience Generation system, Safety Layer, and related infrastructure (collectively, the "Technology").
 
@@ -191,7 +191,7 @@ Date
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, President and CEO

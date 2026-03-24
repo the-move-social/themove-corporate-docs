@@ -8,7 +8,7 @@ The Move Social Inc., a corporation organized and existing under the laws of the
 
 1. The name of the Corporation is **The Move Social Inc.** The original Certificate of Incorporation of the Corporation was filed with the Secretary of State of the State of Delaware on March 10, 2026, under file number 10540347.
 
-2. This Amended and Restated Certificate of Incorporation has been duly adopted in accordance with Sections 241 and 245 of the General Corporation Law of the State of Delaware by the written consent of the incorporator of the Corporation, acting as the sole director pursuant to Section 108 of the General Corporation Law, no shares of stock having been issued.
+2. This Amended and Restated Certificate of Incorporation has been duly adopted in accordance with Sections 241 and 245 of the General Corporation Law of the State of Delaware by the written consent of all of the directors of the Corporation, no shares of stock having been issued.
 
 3. This Amended and Restated Certificate of Incorporation restates, integrates, and further amends the Certificate of Incorporation of the Corporation, as heretofore amended, to read in its entirety as follows:
 
@@ -80,11 +80,13 @@ To the fullest extent permitted by Section 122(17) of the General Corporation La
 
 ## ARTICLE VII — LIMITATION OF LIABILITY
 
-To the fullest extent permitted by the General Corporation Law of the State of Delaware as it now exists or as it may hereafter be amended, no director of the Corporation shall be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director. No amendment to, repeal of, or adoption of any provision of this Certificate of Incorporation inconsistent with this Article VII shall apply to or have any effect on the liability or alleged liability of any director of the Corporation for or with respect to any acts or omissions of such director occurring prior to such amendment, repeal, or adoption.
+To the fullest extent permitted by the General Corporation Law of the State of Delaware as it now exists or as it may hereafter be amended, no director or officer of the Corporation shall be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director or officer. No amendment to, repeal of, or adoption of any provision of this Certificate of Incorporation inconsistent with this Article VII shall apply to or have any effect on the liability or alleged liability of any director or officer of the Corporation for or with respect to any acts or omissions of such director or officer occurring prior to such amendment, repeal, or adoption.
 
 ## ARTICLE VIII — EXCLUSIVE FORUM
 
 Unless the Corporation consents in writing to the selection of an alternative forum, the Court of Chancery of the State of Delaware (or, if the Court of Chancery does not have jurisdiction, the federal district court for the District of Delaware) shall be the sole and exclusive forum for (a) any derivative action or proceeding brought on behalf of the Corporation, (b) any action asserting a claim of breach of a fiduciary duty owed by any director, officer, or other employee of the Corporation to the Corporation or its stockholders, (c) any action asserting a claim arising pursuant to any provision of the General Corporation Law of the State of Delaware, this Certificate of Incorporation, or the Bylaws of the Corporation, or (d) any action asserting a claim governed by the internal affairs doctrine. Any person or entity purchasing or otherwise acquiring any interest in shares of capital stock of the Corporation shall be deemed to have notice of and to have consented to the provisions of this Article VIII.
+
+Unless the Corporation consents in writing to the selection of an alternative forum, the federal district courts of the United States of America shall be the exclusive forum for the resolution of any complaint asserting a cause of action arising under the Securities Act of 1933, as amended. For the avoidance of doubt, this provision is intended to benefit and may be enforced by the Corporation, its officers, directors, and underwriters, and shall apply to claims asserted in any state or federal court.
 
 ## ARTICLE IX — AMENDMENT
 

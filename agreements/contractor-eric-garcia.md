@@ -1,6 +1,6 @@
 # Independent Contractor Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This Independent Contractor Agreement (the "Agreement") is entered into between:
 
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **Eric Garcia**, an individual (the "Contractor")
 
 ---
@@ -74,7 +74,7 @@ The Contractor is solely responsible for all federal, state, and local taxes ari
 
 ### 4.3 Control
 
-The Contractor retains full control over the time, place, and manner of performing the services, subject only to the requirement that the Contractor meet agreed-upon deadlines and deliverables. The Contractor may provide services to other clients during the term of this Agreement, subject to the confidentiality obligations in Section 5 and the non-compete provisions of the Founders' Agreement of The Move Social, Inc.
+The Contractor retains full control over the time, place, and manner of performing the services, subject only to the requirement that the Contractor meet agreed-upon deadlines and deliverables. The Contractor may provide services to other clients during the term of this Agreement, subject to the confidentiality obligations in Section 5 and the non-compete provisions of the Founders' Agreement of The Move Social Inc.
 
 ### 4.4 Equipment
 
@@ -215,7 +215,7 @@ The Contractor may not assign this Agreement without the Company's prior written
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, President and CEO

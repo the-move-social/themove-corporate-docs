@@ -1,4 +1,4 @@
-# Bylaws of The Move Social, Inc.
+# Bylaws of The Move Social Inc.
 
 *A Delaware Corporation*
 

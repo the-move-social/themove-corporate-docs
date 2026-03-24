@@ -7,7 +7,7 @@
 This Intellectual Property License Agreement (the "Agreement") is entered into between:
 
 - **Present Tense Labs, Inc.**, a Delaware corporation (the "Licensor")
-- **The Move Social, Inc.**, a Delaware corporation (the "Licensee")
+- **The Move Social Inc.**, a Delaware corporation (the "Licensee")
 
 The Licensor and the Licensee are under common control, with the same individuals (Altin Lecaj and Eric Garcia) serving as the officers and directors of both entities.
 
@@ -223,7 +223,7 @@ By: Eric Garcia, CTO
 **LICENSEE:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, CEO

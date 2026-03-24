@@ -1,6 +1,6 @@
 # Stock Option Grant Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This Stock Option Grant Agreement (the "Agreement") is entered into between:
 
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **Paul Wand**, an individual (the "Optionee")
 
 This option is granted under and subject to the terms of the Company's Equity Incentive Plan (the "Plan"). In the event of any conflict between this Agreement and the Plan, the Plan shall govern.
@@ -231,7 +231,7 @@ If mediation is unsuccessful, the dispute shall be submitted to binding arbitrat
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, President and CEO
@@ -274,14 +274,14 @@ The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Interna
 | Taxpayer Address | ________________________ |
 | Social Security Number | ________________________ |
 | Taxable Year | _________ |
-| Description of Property | 100,000 shares of Class B Common Stock (non-voting) of The Move Social, Inc. |
+| Description of Property | 100,000 shares of Class B Common Stock (non-voting) of The Move Social Inc. |
 | Date of Transfer | ________________________ (date of exercise) |
 | Nature of Restriction | Shares subject to vesting schedule and company repurchase right at original exercise price for unvested shares |
 | Fair Market Value at Transfer | $_________ per share x 100,000 shares = $_________ |
 | Amount Paid | $_________ per share x 100,000 shares = $_________ |
 | Amount to Include in Gross Income | $_________ |
 
-A copy of this election has been furnished to The Move Social, Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
+A copy of this election has been furnished to The Move Social Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
 
 ```
 ________________________________________
@@ -295,5 +295,5 @@ Date: ________________________
 1. Mail the original to the IRS Service Center where you file your tax return within **30 days** of the date of exercise
 2. Send via **certified mail** with return receipt requested
 3. Keep the certified mail receipt as proof of timely filing
-4. Deliver a copy to The Move Social, Inc. within 35 days of exercise
+4. Deliver a copy to The Move Social Inc. within 35 days of exercise
 5. Attach a copy to your federal income tax return for the year of exercise

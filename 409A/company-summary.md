@@ -1,6 +1,6 @@
 # 409A Valuation — Company Information Package
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 Prepared for submission to 409A valuation provider.
 
@@ -10,7 +10,7 @@ Prepared for submission to 409A valuation provider.
 
 | Field | Value |
 |-------|-------|
-| **Legal Name** | The Move Social, Inc. |
+| **Legal Name** | The Move Social Inc. |
 | **State of Incorporation** | Delaware |
 | **Date of Incorporation** | _________, 2026 |
 | **Entity Type** | C-Corporation |

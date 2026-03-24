@@ -1,6 +1,6 @@
 # Stock Subscription Agreement
 
-## The Move Social, Inc.
+## The Move Social Inc.
 
 ---
 
@@ -8,7 +8,7 @@
 
 This Stock Subscription Agreement (the "Agreement") is entered into between:
 
-- **The Move Social, Inc.**, a Delaware corporation (the "Company")
+- **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **Altin Lecaj**, an individual ("Subscriber 1")
 - **Eric Garcia**, an individual ("Subscriber 2")
 
@@ -131,7 +131,7 @@ This Agreement may be executed in counterparts, each of which shall be deemed an
 **COMPANY:**
 
 ```
-The Move Social, Inc.
+The Move Social Inc.
 
 ________________________________________
 By: Altin Lecaj, CEO
