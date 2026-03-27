@@ -20,7 +20,7 @@ The Company engages the Contractor, and the Contractor accepts such engagement, 
 | Field | Value |
 |-------|-------|
 | Contractor | Dana Vines |
-| Role | President of Sales |
+| Role | VP of Sales |
 | Effective Date | _________________ |
 | Term | Ongoing until terminated per Section 7 |
 
@@ -48,7 +48,7 @@ The Contractor shall determine the method, details, and means of performing the 
 
 ### 3.1 Equity Compensation
 
-The Contractor's sole compensation for services under this Agreement is a stock option grant under the Company's Equity Incentive Plan, as set forth in a separate Stock Option Grant Agreement executed concurrently with this Agreement.
+The Contractor's sole compensation for services under this Agreement is a restricted stock award under the Company's Equity Incentive Plan, as set forth in a separate Restricted Stock Purchase Agreement executed concurrently with this Agreement.
 
 ### 3.2 No Cash Compensation
 
@@ -152,7 +152,7 @@ The Company may terminate this Agreement immediately upon written notice if Caus
 
 ### 7.4 Effect on Equity
 
-Upon termination of this Agreement, the Contractor's stock options shall be governed by the terms of the Stock Option Grant Agreement and the Equity Incentive Plan, including without limitation the early-exercise, repurchase, and post-termination exercise provisions therein.
+Upon termination of this Agreement, the Contractor's restricted stock shall be governed by the terms of the Restricted Stock Purchase Agreement and the Equity Incentive Plan, including without limitation the vesting, repurchase, and forfeiture provisions therein.
 
 ### 7.5 Survival
 
@@ -192,7 +192,7 @@ This Agreement shall be governed by the laws of the State of Delaware.
 
 ### 10.2 Entire Agreement
 
-This Agreement, together with the Stock Option Grant Agreement and the Equity Incentive Plan, constitutes the entire agreement between the parties with respect to the subject matter hereof.
+This Agreement, together with the Restricted Stock Purchase Agreement and the Equity Incentive Plan, constitutes the entire agreement between the parties with respect to the subject matter hereof.
 
 ### 10.3 Amendment
 

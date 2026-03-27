@@ -2,7 +2,7 @@
 
 *A Delaware Corporation*
 
-Adopted: _________, 2026
+Adopted: March 27, 2026
 
 ---
 
@@ -222,11 +222,11 @@ All bank accounts of the corporation shall require dual authorization for withdr
 
 ### Section 7.6 — Dispute Resolution
 
-Any dispute arising under these Bylaws or relating to the governance of the corporation shall be resolved pursuant to the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated _________, 2026.
+Any dispute arising under these Bylaws or relating to the governance of the corporation shall be resolved pursuant to the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026.
 
 ### Section 7.7 — Deadlock
 
-(a) TMS board deadlocks shall first be submitted to mediation per the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated _________, 2026.
+(a) TMS board deadlocks shall first be submitted to mediation per the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026.
 
 (b) If mediation is unsuccessful within thirty (30) days, either director may invoke the buy-sell provisions of Section 3 of the Founders' Agreement of Present Tense Labs, Inc.
 
@@ -240,7 +240,7 @@ Any dispute arising under these Bylaws or relating to the governance of the corp
 
 ### Section 7.9 — Incapacity
 
-(a) If the CEO or CTO is unable to perform duties for fifteen (15) or more consecutive days (as defined in Section 1.5 of the Founders' Agreement of Present Tense Labs, Inc. dated _________, 2026), the incapacity proxy designated under the Founders' Agreement may act on the incapacitated officer's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations.
+(a) If the CEO or CTO is unable to perform duties for fifteen (15) or more consecutive days (as defined in Section 1.5 of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026), the incapacity proxy designated under the Founders' Agreement may act on the incapacitated officer's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations.
 
 (b) If the CEO's or CTO's incapacity exceeds ninety (90) consecutive days, the remaining director and the designated independent tiebreaker (as provided in the Founders' Agreement) shall together constitute a quorum of the Board of Directors for all purposes, and may take any actions reasonably necessary for the continued operation of the corporation.
 
@@ -252,7 +252,7 @@ The corporation shall maintain a formal stock ledger recording all issued shares
 
 ---
 
-*Adopted by the Board of Directors on _________, 2026.*
+*Adopted by the Board of Directors on March 27, 2026.*
 
 ```
 ________________________________________

@@ -16,17 +16,17 @@
 
 ---
 
-## Step 1: Adopt Bylaws & Board Consent
+## Step 1: Adopt Bylaws & Board Resolutions — COMPLETE
 
-**Do this first — everything else depends on it.**
+**Completed at the First Board Meeting on March 27, 2026.**
 
-- [ ] Both founders review and sign the **Board Consent in Lieu of First Meeting** (`board-consent.md`)
-  - This single document adopts the bylaws, appoints officers, authorizes stock issuance, adopts the EIP, and more (Resolutions 1-17)
-- [ ] Both founders sign the **Bylaws** (`bylaws.md`)
+- [x] Both founders attended the **First Board Meeting** (`board-minutes/2026-03-27-board-meeting.md`)
+  - Adopted Bylaws, appointed officers, authorized stock issuance, adopted EIP, approved Dana Vines' restricted stock grant, and more (Resolutions 1-14)
+- [x] Both founders sign the **Bylaws** (`bylaws.md`)
   - Consensus voting, dual-authorization for spend > $500, dispute resolution tied to Founders' Agreement
 - [ ] Store signed copies in `signed/`
 
-> The Board Consent is the master resolution — it authorizes stock issuance (Resolution 6), adopts the EIP (Resolution 7), appoints officers (Resolution 3), and authorizes banking (Resolution 10). You cannot issue stock without it.
+> The Board Minutes from March 27, 2026 are the master resolution — they authorize stock issuance (Resolution 6), adopt the EIP (Resolution 7), appoint officers (Resolution 3), and authorize banking (Resolution 10). You cannot issue stock without them.
 
 ---
 
@@ -35,7 +35,7 @@
 **Required before stock can be issued (founders need somewhere to deposit purchase funds).**
 
 - [ ] Open TMS bank account at Mercury, Relay, or similar startup-friendly bank
-  - Bring: EIN confirmation (CP 575 A in `formation/`), Certificate of Incorporation, Board Consent, Bylaws
+  - Bring: EIN confirmation (CP 575 A in `formation/`), Certificate of Incorporation, Board Meeting Minutes, Bylaws
   - Set up **dual authorization** for transactions > $500 (required by Bylaws Section 7.5)
 - [ ] Both founders added as authorized signers
 - [ ] Set up online banking access for both CEO and CTO
@@ -89,86 +89,56 @@
 
 ---
 
-## Step 5: PTL-TMS Intercompany Agreements
+## Step 5: Adopt Equity Incentive Plan & Contractor Templates
 
-**These define the IP and services relationship between your two entities.**
+**Sets up the infrastructure to grant options to Dana and future team members.**
 
-- [ ] **IP Assignment Agreement** (`agreements/ip-assignment-agreement.md`) — Founders assign all existing IP to PTL
-- [ ] **IP License Agreement** (`ip-license-agreement.md`) — PTL grants TMS exclusive license to core IP within the IRL social planning field
-- [ ] **Intercompany Services Agreement** (`intercompany-services-agreement.md`) — PTL provides shared services (engineering, infrastructure) to TMS at $0 initial fee, arm's length terms
-
-> All three should be signed the same day. The Board Consent (Resolution 8-9) already authorizes the IP License and Intercompany Services agreements.
-
----
-
-## Step 6: Adopt Equity Incentive Plan & Contractor Templates
-
-**Sets up the infrastructure to grant options to Dana, Paul, and future team members.**
-
-- [ ] Confirm **Equity Incentive Plan** (`equity-incentive-plan.md`) is adopted (already authorized by Board Consent Resolution 7)
+- [ ] Confirm **Equity Incentive Plan** (`equity-incentive-plan.md`) is adopted (authorized by Board Meeting Resolution 7)
   - Pool: 1,500,000 Class B shares (non-voting, equal economic rights)
   - All grants as NSOs (Non-Qualified Stock Options)
   - Early-exercise provisions included
 - [ ] Finalize **Stock Option Grant Agreement** template (`stock-option-grant-agreement.md`)
 - [ ] Finalize **Independent Contractor Agreement** template (`independent-contractor-agreement.md`)
-  - Equity-only compensation, IP assignment + confidentiality, no non-compete
+  - Equity-only compensation, confidentiality + invention assignment, no non-compete
 
 ---
 
-## Step 7: Commission 409A Valuation
+## Step 6: Execute Contractor Agreement & Restricted Stock Grant — Dana Vines
 
-**You need a 409A before you can set the exercise price for any option grants.**
+**Dana's grant is restricted stock at par value — no 409A required. Can execute as soon as Steps 1-5 are complete.**
 
-- [ ] Select a 409A provider
-  - Carta 409A (~$1,000-$2,000) — integrates with Carta cap table
-  - Pulley 409A (~$1,000) — integrates with Pulley
-  - Independent firm (~$2,000-$3,000)
-- [ ] Commission the valuation — provide: Certificate of Incorporation, cap table, financial projections, any revenue/traction data
-- [ ] Receive final report with **per-share FMV** (expected $0.01-$0.05/share for pre-revenue startup, cost/asset method)
-- [ ] Report is valid for **12 months** or until a material event (e.g., fundraise)
+### Contractor Agreement
 
----
+- [ ] Execute Independent Contractor Agreement — **Dana Vines** (VP of Sales)
 
-## Step 8: Execute Contractor Agreements & Issue First Grants
+### Restricted Stock Purchase
 
-**Do this once the 409A is complete (estimated April 7-14, 2026).**
+- [ ] Execute Restricted Stock Purchase Agreement — **Dana Vines** (400,000 Class B at $0.00001/share, $4.00 total)
+- [ ] Dana deposits **$4.00** purchase price
+- [ ] Vesting commencement: **[start date TBD — to be agreed with Dana]**
+- [ ] Board approval already granted (Board Meeting Resolution 8, March 27, 2026)
 
-### Contractor Agreements
+### 83(b) Election — **HARD DEADLINE: 30 days from Purchase Date**
 
-- [ ] Execute Independent Contractor Agreement — **Dana Vines** (President of Sales)
-- [ ] Execute Independent Contractor Agreement — **Paul Wand** (Founding Engineer)
-
-### Stock Option Grants
-
-- [ ] Board consent approving grants (already pre-approved in Board Consent Resolution 15, effective upon 409A completion)
-- [ ] Execute Stock Option Grant Agreement — **Dana Vines** (100,000 Class B NSO, 4yr/1yr cliff)
-- [ ] Execute Stock Option Grant Agreement — **Paul Wand** (100,000 Class B NSO, 4yr/1yr cliff)
-- [ ] Exercise price = 409A FMV per share
-- [ ] Vesting commencement = date services began (can predate grant date)
-
-### Early Exercise & 83(b) Elections
-
-- [ ] Provide each optionee with early exercise package:
+- [ ] Provide Dana with 83(b) election package:
   - Pre-filled 83(b) election form
   - Certified mail instructions
-  - Payment instructions for exercise price
-- [ ] Each optionee exercises options immediately upon grant
-- [ ] Each optionee files **83(b) election via certified mail within 30 days** of exercise
-- [ ] Collect proof of 83(b) filing from each optionee within 35 days
-- [ ] Record all grants and exercises in cap table / stock ledger
+- [ ] Dana files **83(b) election via certified mail within 30 days** of purchase
+- [ ] Collect proof of 83(b) filing from Dana within 35 days
+- [ ] Record grant in cap table / stock ledger
 
 ### Pool Status After First Grants
 
 | Metric | Shares |
 |--------|--------|
 | Total Class B pool | 1,500,000 |
-| Granted (Dana + Paul) | 200,000 (13.3% of pool) |
+| Approved, pending grant (Dana Vines) | 400,000 (26.7% of pool) |
 | Reserved for seed round | 500,000 |
-| Available for future grants | 800,000 (8% fully diluted) |
+| Available for future grants | 600,000 (6% fully diluted) |
 
 ---
 
-## Step 9: PTL S-Corp Election (Overdue)
+## Step 7: PTL S-Corp Election (Overdue)
 
 **This is for Present Tense Labs, not TMS — but it's blocking.**
 
@@ -184,7 +154,7 @@
 
 ---
 
-## Step 10: State Compliance & Insurance
+## Step 8: State Compliance & Insurance
 
 **Target: within 30 days of operating (April 2026).**
 
@@ -200,7 +170,7 @@
 
 ---
 
-## Step 11: Pre-Seed / Seed Preparation (Q2-Q3 2026)
+## Step 9: Pre-Seed / Seed Preparation (Q2-Q3 2026)
 
 - [ ] Prepare investor data room:
   - Cap table (from Carta/Pulley)
@@ -216,24 +186,20 @@
 ## Quick Reference: Execution Order
 
 ```
-Week 1 (now)
-  ├── Sign Board Consent + Bylaws
-  ├── Open bank account
-  └── Execute Stock Subscription Agreements + deposit $85
+Week 1 — COMPLETE (March 27, 2026)
+  ├── First Board Meeting — all initial resolutions passed
+  └── Bylaws adopted
 
 Week 2
-  ├── Set up cap table tool (Carta or Pulley)
-  ├── Sign PTL-TMS intercompany agreements (IP Assignment, IP License, Services)
-  └── Confirm EIP adoption, finalize grant templates
+  ├── Open bank account
+  ├── Execute Stock Subscription Agreements + deposit $85
+  └── Set up cap table tool (Carta or Pulley)
 
 Week 3
-  ├── Commission 409A valuation
+  ├── Confirm EIP adoption, finalize grant templates
+  ├── Execute contractor agreement + restricted stock grant (Dana, start date TBD)
+  ├── Dana files 83(b) election within 30 days
   └── File PTL Form 2553 (late S-Corp election)
-
-Week 4-5 (upon 409A completion)
-  ├── Execute contractor agreements (Dana, Paul)
-  ├── Issue option grants
-  └── Early exercise + 83(b) elections
 
 Month 2
   ├── NY foreign qualification

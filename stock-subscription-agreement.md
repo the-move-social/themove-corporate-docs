@@ -4,7 +4,7 @@
 
 ---
 
-**Date:** _________, 2026
+**Date:** March 27, 2026
 
 This Stock Subscription Agreement (the "Agreement") is entered into between:
 
@@ -87,40 +87,31 @@ Upon issuance of the Shares, no other shares of capital stock of the Company wil
 
 ---
 
-## 4. Related Agreements
-
-The parties acknowledge that the Company will enter into the following related agreements:
-
-(a) Intellectual Property License Agreement with Present Tense Labs, Inc.
-(b) Intercompany Services Agreement with Present Tense Labs, Inc.
-
----
-
-## 5. Governing Law
+## 4. Governing Law
 
 This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to its conflict of laws principles.
 
 ---
 
-## 6. Entire Agreement
+## 5. Entire Agreement
 
 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings.
 
 ---
 
-## 7. Dispute Resolution
+## 6. Dispute Resolution
 
-### 7.1 Mediation
+### 6.1 Mediation
 
 Any dispute arising out of or relating to this Agreement, or the breach, termination, or validity thereof, shall first be submitted to mandatory mediation. The parties shall select a mutually agreeable mediator within fifteen (15) days of either party's written request for mediation. The mediation shall be completed within thirty (30) days of the mediator's appointment.
 
-### 7.2 Binding Arbitration
+### 6.2 Binding Arbitration
 
 If mediation is unsuccessful, the dispute shall be submitted to binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules. The arbitration shall be conducted in the State of Delaware by a single arbitrator selected in accordance with the AAA rules. The arbitrator's decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
 
 ---
 
-## 8. Counterparts
+## 7. Counterparts
 
 This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
 

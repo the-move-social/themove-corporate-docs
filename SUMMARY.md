@@ -6,7 +6,7 @@
 
 - [Certificate of Incorporation](certificate-of-incorporation.md)
 - [Bylaws](bylaws.md)
-- [Board Consent](board-consent.md)
+- [Board Minutes — March 27, 2026](board-minutes/2026-03-27-board-meeting.md)
 
 # Stock & Equity
 
@@ -22,10 +22,7 @@
   - [Contractor Agreement](agreements/contractor-eric-garcia.md)
 - [Altin Lecaj](agreements/altin-lecaj.md)
   - [Contractor Agreement](agreements/contractor-altin-lecaj.md)
-- [Paul Wand](agreements/paul-wand.md)
-  - [Contractor Agreement](agreements/contractor-paul-wand.md)
-  - [Stock Option Grant](agreements/option-grant-paul-wand.md)
 - [Dana Vines](agreements/dana-vines.md)
   - [Contractor Agreement](agreements/contractor-dana-vines.md)
-  - [Stock Option Grant](agreements/option-grant-dana-vines.md)
+  - [Restricted Stock Purchase Agreement](agreements/restricted-stock-dana-vines.md)
 

@@ -25,7 +25,7 @@ Prepared for submission to 409A valuation provider.
 
 ## 2. Business Description
 
-The Move Social operates **The Move**, a social adventure app that turns real-world meetups into AI-generated quests. The company's core technology platform is owned by Present Tense Labs, Inc. (PTL) and licensed to TMS under an IP License Agreement.
+The Move Social operates **The Move**, a social adventure app that turns real-world meetups into AI-generated quests.
 
 **Stage:** Pre-revenue, pre-launch. No product in market. No users.
 
@@ -77,26 +77,22 @@ The Move Social operates **The Move**, a social adventure app that turns real-wo
 | **Award Types** | NSOs (all participants are contractors, not employees) |
 | **Vesting** | 4-year, 1-year cliff, monthly thereafter |
 | **Early Exercise** | Permitted, with 83(b) election support |
-| **Grants Pending** | 200,000 shares (2 grants of 100,000 each) |
+| **Grants Pending (Options)** | 0 |
+| **Restricted Stock Approved** | 400,000 shares (1 grant, does not require 409A) |
 
 ### Planned Initial Grants (Pending 409A Completion)
 
 | Optionee | Role | Shares | % Fully Diluted |
 |----------|------|--------|-----------------|
-| Dana Vines | President of Sales | 100,000 | 1.0% |
-| Paul Wand | Founding Engineer | 100,000 | 1.0% |
+| Dana Vines | VP of Sales | 400,000 | 4.0% |
 
-All grants are NSOs. All optionees are independent contractors (no W-2 employees).
+Dana Vines' award is structured as restricted stock (not options) and does not depend on the 409A valuation. She is an independent contractor (no W-2 employee).
 
 ---
 
 ## 5. Relationship to Present Tense Labs, Inc.
 
 TMS Class A Common Stock is held directly by the founders (Altin Lecaj and Eric Garcia, 4,250,000 shares each). PTL is not a stockholder of TMS.
-
-PTL provides the following to TMS:
-- IP License Agreement — PTL licenses core technology to TMS (exclusive within real-world social meetup field)
-- Intercompany Services Agreement — PTL provides infrastructure, ML/AI operations, DevOps, security, and administrative services (currently at $0/month)
 
 The founders are officers and directors of both PTL and TMS.
 
@@ -132,9 +128,7 @@ The company has no operating history, no revenue, no customers, and no material 
 | Agreement | Counterparty | Summary |
 |-----------|-------------|---------|
 | Stock Subscription Agreement | Altin Lecaj, Eric Garcia | Founders purchased 4,250,000 Class A shares each ($42.50 each, $85 total) |
-| IP License Agreement | PTL | Exclusive license to PTL's platform IP within real-world social field; $0 royalty; perpetual while under Common Control |
-| Intercompany Services Agreement | PTL | PTL provides infrastructure, DevOps, ML/AI, security, admin services; $0/month initially; arm's length when costs become material |
-| Equity Incentive Plan | — | 1,500,000 Class B shares reserved for option grants |
+| Equity Incentive Plan | — | 1,500,000 Class B shares reserved for equity awards |
 
 ---
 
@@ -165,15 +159,13 @@ The following documents are available for the appraiser's review upon request:
 
 - [x] Certificate of Incorporation (dual-class structure, authorized shares)
 - [x] Bylaws (to be adopted prior to valuation)
-- [x] Board Consent in Lieu of First Meeting (authorizes 409A, option grants, EIP)
+- [x] Board Meeting Minutes — March 27, 2026 (authorizes EIP, restricted stock grant)
 - [x] Stock Subscription Agreement (founders → TMS, 4.25M Class A shares each)
 - [x] Equity Incentive Plan (1.5M Class B shares, NSOs, early exercise)
 - [x] Stock Option Grant Agreement template
-- [x] IP License Agreement (PTL → TMS)
-- [x] Intercompany Services Agreement (PTL → TMS)
 - [x] Founders' Agreement (PTL level)
 - [x] Stockholders' Agreement (PTL level)
-- [x] Independent Contractor Agreements (all four team members)
+- [x] Independent Contractor Agreements (all team members)
 - [ ] Balance sheet / financial statements (to be prepared)
 - [ ] Cap table (to be prepared via Carta or Pulley)
 

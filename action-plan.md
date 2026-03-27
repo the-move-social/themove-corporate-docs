@@ -7,7 +7,7 @@ Altin Lecaj & Eric Garcia | March 2026
 ## Phase 1: Pre-Registration Decisions — COMPLETE
 
 - [x] **Officer titles** — CEO (Altin Lecaj) / CTO (Eric Garcia) for both PTL and TMS
-- [x] **Secretary & Treasurer** — Altin Lecaj and Eric Garcia (jointly) for both entities
+- [x] **Secretary & Treasurer** — Eric Garcia; **President** — Altin Lecaj (updated March 27, 2026)
 - [x] **Authorized shares** — 10,000,000 per entity confirmed
 - [x] **Par value** — $0.00001 per share confirmed
 - [x] **Registered agent** — Northwest for both entities in Delaware
@@ -68,8 +68,6 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
   - Consensus voting (unanimous for all decisions)
   - Board size: 2 directors
   - Officer roles defined
-- [ ] Execute Board Consent in Lieu of First Meeting
-
 ### Founder Stock — **CRITICAL PATH: 83(b) deadline**
 
 - [ ] Execute Stock Purchase Agreements
@@ -113,89 +111,59 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 
 **Target: March 10-14, 2026** (parallel with Phase 4)
 
-- [ ] Draft and adopt TMS Bylaws
-- [ ] Execute Board Consent in Lieu of First Meeting
+- [x] Draft and adopt TMS Bylaws (adopted at First Board Meeting, March 27, 2026)
+- [x] First Board Meeting held March 27, 2026 — all initial resolutions passed (`board-minutes/2026-03-27-board-meeting.md`)
 - [ ] Execute Stock Subscription Agreement: Founders purchase 4,250,000 Class A shares each ($42.50 each, $85 total)
 - [ ] Open TMS business bank account (dual authorization for amounts > $500)
 
 ---
 
-## Phase 6: PTL-TMS Agreements
-
-**Target: March 17-21, 2026**
-
-- [ ] **IP Assignment Agreement** — Founders assign all existing IP to PTL
-- [ ] **IP License Agreement** — PTL licenses core IP to TMS (exclusive within IRL social field)
-- [ ] **Intercompany Services Agreement** — PTL provides shared services to TMS ($0 initial fee, arm's length)
-
----
-
-## Phase 7: Equity Incentive Plan & Option Infrastructure
+## Phase 6: Equity Incentive Plan & Grant Infrastructure
 
 **Target: March 17-21, 2026** (parallel with Phase 6)
 
-- [ ] TMS board adopts Equity Incentive Plan (1,500,000 Class B shares, NSOs for all participants)
-- [ ] Finalize Stock Option Grant Agreement template (NSO with early-exercise provisions)
-- [ ] Finalize Independent Contractor Agreement template (equity-only, IP assignment, no non-compete)
+- [x] TMS board adopts Equity Incentive Plan (1,500,000 Class B shares) — adopted at First Board Meeting, March 27, 2026
+- [ ] Finalize Restricted Stock Purchase Agreement template
+- [ ] Finalize Independent Contractor Agreement template (equity-only, invention assignment, no non-compete)
 
 ---
 
-## Phase 8: 409A Valuation
+## Phase 7: First Grant — Dana Vines
 
-**Target: Commission by March 24, 2026 — Receive by April 7, 2026**
-
-- [ ] Select 409A provider (Carta, Pulley, or independent firm)
-- [ ] Commission valuation ($1,000-$3,000)
-- [ ] Receive final report with per-share FMV (expected $0.01-$0.05/share, cost/asset method)
-- [ ] Report valid for 12 months or until material event
-
----
-
-## Phase 9: First Grants — Founding Team
-
-**Target: Upon 409A completion (est. April 7-14, 2026)**
+**Target: Upon Dana's start date (TBD). No 409A required — restricted stock at par value.**
 
 ### Contractor Agreements
 
-- [ ] Execute Independent Contractor Agreement — **Dana Vines** (President of Sales)
-  - Equity-only compensation, IP assignment + confidentiality, no non-compete
-- [ ] Execute Independent Contractor Agreement — **Paul Wand** (Founding Engineer)
-  - Equity-only compensation, IP assignment + confidentiality, no non-compete
+- [ ] Execute Independent Contractor Agreement — **Dana Vines** (VP of Sales)
+  - Equity-only compensation, confidentiality + invention assignment, no non-compete
 
-### Board Resolution
-
-- [ ] Board consent approving grants, 409A commissioning, and pool management covenant (Resolutions 14-16 of Board Consent)
-
-### Stock Option Grants (All NSOs with Early Exercise)
+### Restricted Stock Grant
 
 | Optionee | Role | Shares | Ownership | Relationship |
 |----------|------|--------|-----------|-------------|
-| Dana Vines | President of Sales | 100,000 | 1.0% | Independent Contractor |
-| Paul Wand | Founding Engineer | 100,000 | 1.0% | Independent Contractor |
+| Dana Vines | VP of Sales | 400,000 | 4.0% | Independent Contractor |
 
-- [ ] Execute Stock Option Grant Agreement — Dana Vines (100,000 NSO)
-- [ ] Execute Stock Option Grant Agreement — Paul Wand (100,000 NSO)
+- [ ] Execute Restricted Stock Purchase Agreement — Dana Vines (400,000 shares at par value)
 
-### Early Exercise & 83(b) Elections — **HARD DEADLINE: 30 days from exercise**
+### 83(b) Election — **HARD DEADLINE: 30 days from purchase**
 
-- [ ] Provide each optionee with early exercise package (pre-filled 83(b) form, certified mail instructions)
-- [ ] Each optionee exercises options immediately
-- [ ] Each optionee files 83(b) election via certified mail — **est. deadline: May 14, 2026**
-- [ ] Collect proof of 83(b) filing from each optionee within 35 days of exercise
-- [ ] Record all grants and exercises in stock ledger
+- [ ] Provide Dana with 83(b) election package (pre-filled form, certified mail instructions)
+- [ ] Dana files 83(b) election via certified mail — **est. deadline: May 13, 2026**
+- [ ] Collect proof of 83(b) filing within 35 days of purchase
+- [ ] Record grant in stock ledger
 
 ### Pool Status After Grants
 
 | Metric | Value |
 |--------|-------|
 | Total pool | 1,500,000 Class B shares |
-| Granted | 200,000 (13.3% of pool) |
+| Approved, pending grant (Dana Vines) | 400,000 (26.7% of pool) |
 | Reserved for seed round | 500,000 |
-| Available for future grants | 800,000 (8% fully diluted) |
+| Available for future grants | 600,000 (6% fully diluted) |
 
 ---
 
-## Phase 10: State Compliance
+## Phase 8: State Compliance
 
 **Target: Within 30 days of operating (est. April 2026)**
 
@@ -206,7 +174,7 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 
 ---
 
-## Phase 11: Pre-Seed / Seed Preparation
+## Phase 9: Pre-Seed / Seed Preparation
 
 **Target: Q2-Q3 2026 (after product launch)**
 
@@ -222,13 +190,12 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 | Date | Milestone | Hard Deadlines |
 |------|-----------|----------------|
 | **March 5** | Decisions finalized, doc updates complete | — |
-| **March 10-14** | Phase 4 & 5: Bylaws, board consents, founder stock purchases, banking | **March 15: IRS Form 2553 (S-Corp election)**; 83(b) elections within 30 days of stock purchase |
-| **March 17-21** | Phase 6 & 7: IP agreements, EIP adoption, template finalization | — |
-| **March 24** | Phase 8: Commission 409A valuation | — |
-| **April 7-14** | Phase 8 complete, Phase 9 begins: Contractor agreements, option grants, early exercise | — |
-| **May 14** | Phase 9 complete | 83(b) elections filed (30 days from exercise) |
-| **April 30** | Phase 10: State compliance (NY foreign qualification) | 30 days from operating |
-| **Q2-Q3 2026** | Phase 11: Seed preparation | — |
+| **March 10-14** | Phase 4 & 5: PTL housekeeping, founder stock purchases, banking | **March 15: IRS Form 2553 (S-Corp election)**; 83(b) elections within 30 days of stock purchase |
+| **March 27** | First Board Meeting — bylaws, officers, EIP, Dana's grant approved | — |
+| **TBD** | Phase 7: Dana starts, contractor agreement + restricted stock grant executed | — |
+| **TBD + 30 days** | 83(b) election deadline (30 days from purchase) | **83(b) filing deadline** |
+| **April 30** | Phase 8: State compliance (NY foreign qualification) | 30 days from operating |
+| **Q2-Q3 2026** | Phase 9: Seed preparation | — |
 
 ---
 
@@ -258,9 +225,9 @@ PTL remains a Delaware C-Corporation but elects S-Corp tax treatment (pass-throu
 | Date | Decision | Decided By |
 |------|----------|------------|
 | 2026-03-05 | Officer titles: CEO (Altin Lecaj) / CTO (Eric Garcia) for both entities | Altin & Eric |
-| 2026-03-05 | Equal equity: 1% (100,000 shares) for all four founding team members | Altin & Eric |
+| 2026-03-05 | Equity grants for founding team (updated 2026-03-27: Dana Vines 4%, Paul Wand removed) | Altin & Eric |
 | 2026-03-05 | All grants as NSOs (no employees at TMS) | Altin & Eric |
-| 2026-03-05 | Independent contractor structure for Dana Vines and Paul Wand | Altin & Eric |
+| 2026-03-05 | Independent contractor structure for Dana Vines | Altin & Eric |
 | 2026-03-05 | Equity-only compensation for contractors (no cash retainer) | Altin & Eric |
 | 2026-03-09 | PTL S-Corp election (Form 2553) — pass-through taxation, stay as C-Corp entity | Altin & Eric |
 | 2026-03-09 | Minimal founder payroll to satisfy S-Corp reasonable compensation requirement | Altin & Eric |

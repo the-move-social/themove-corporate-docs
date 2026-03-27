@@ -22,8 +22,6 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 - **Applies to:** PTL and TMS (separate returns, or consolidated return if elected)
 - **Filing:** PTL and TMS file separate federal returns. PTL does not own TMS stock (the founders hold TMS Class A shares directly), so consolidated filing is not available.
 - **Key items to report:**
-  - Intercompany services (arm's length pricing per Intercompany Services Agreement)
-  - IP license fees between PTL and TMS (per IP License Agreement)
   - Stock option exercises and repurchases
   - Related-party transactions between PTL and TMS (common officers/directors)
 
@@ -64,7 +62,7 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 
 - **Due:** January 31 for prior calendar year (to contractors and IRS)
 - **Applies to:** TMS for each independent contractor paid $600+ in non-employee compensation during the year
-- **Current contractors:** Dana Vines, Paul Wand (equity-only compensation — see note below)
+- **Current contractors:** Dana Vines (equity-only compensation — see note below)
 - **Equity-only note:** NSO exercises are taxable events. When a contractor exercises options, the spread (FMV minus exercise price) is reportable as non-employee compensation on Form 1099-NEC. Track exercise dates and FMV at exercise.
 
 ---
@@ -90,17 +88,6 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 
 ---
 
-## Intercompany Transfer Pricing
-
-### PTL ↔ TMS
-
-- **IP License Agreement:** PTL licenses core IP to TMS. License fees must be at arm's length. Currently $0 initial fee — revisit when TMS generates revenue.
-- **Intercompany Services Agreement:** PTL provides shared services to TMS. Currently $0 fee — revisit when TMS generates revenue.
-- **Documentation:** Maintain contemporaneous transfer pricing documentation supporting arm's length terms. This protects against IRS reallocation of income between entities under IRC Section 482.
-- **Annual review:** Review intercompany pricing annually and adjust as revenue and operations change.
-
----
-
 ## Key Deadlines Calendar
 
 | Deadline | Filing | Entities |
@@ -122,5 +109,5 @@ Ongoing reference for annual, quarterly, and event-driven tax filings.
 ## Notes
 
 - This document covers corporate tax obligations. Altin and Eric's personal tax returns (including 83(b) elections, K-1s if applicable, and reporting of option exercises) are their individual responsibility.
-- Consult a tax advisor before the first filing season to confirm consolidated vs. separate filing strategy and to set up proper accounting for intercompany transactions.
+- Consult a tax advisor before the first filing season to confirm filing strategy.
 - Update this document as new contractors are engaged, new states are entered, or corporate structure changes.
