@@ -59,11 +59,11 @@ Each Subscriber's Shares shall be subject to the Company's right to repurchase u
 
 (c) **Full Vesting.** All Shares shall be fully vested on the three-year anniversary of the date of issuance, at which point the Repurchase Right shall expire.
 
-(d) **Acceleration.** All unvested Shares shall immediately vest in full upon a Change of Control (as defined in the Founders' Agreement) or upon the mutual written agreement of both Subscribers.
+(d) **Acceleration.** All unvested Shares shall immediately vest in full upon (i) a Change of Control (as defined in the Founders' Agreement), (ii) a Subscriber's removal from all officer positions without Cause (as defined in the Founders' Agreement), or (iii) the mutual written agreement of both Subscribers.
 
 (e) **83(b) Election.** Each Subscriber shall file an election under Section 83(b) of the Internal Revenue Code within thirty (30) days of the date of issuance. The Company shall provide each Subscriber with a pre-filled 83(b) election form and filing instructions.
 
-The terms of the Repurchase Right, including the effect of departure and the exercise procedure, are set forth in Section 2 of the Founders' Agreement dated March 27, 2026, which is incorporated herein by reference.
+The terms of the Repurchase Right, including the effect of departure and the exercise procedure, are set forth in Section 2 of the Founders' Agreement dated March 24, 2026, which is incorporated herein by reference.
 
 ---
 

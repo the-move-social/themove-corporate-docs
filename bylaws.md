@@ -119,10 +119,10 @@ Directors shall not receive compensation for their services as directors unless 
 
 The officers of the corporation shall be:
 
-- **Chief Executive Officer (CEO):** Altin Lecaj
-- **Chief Technology Officer (CTO):** Eric Garcia
+- **President and Chief Executive Officer (CEO):** Altin Lecaj
+- **Chief Technology Officer (CTO), Secretary, and Treasurer:** Eric Garcia
 
-Each of the CEO and CTO also holds the titles of **Secretary** and **Treasurer**. Both the CEO and CTO must sign any contract, agreement, or instrument obligating the corporation in an amount exceeding $500. Either the CEO or CTO may sign routine operational documents not exceeding $500. In no event shall either officer individually authorize aggregate expenditures exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, expenditures authorized at any affiliated entity shall be attributed to the authorizing officer. Expense reimbursements to any officer exceeding $250 per expense item require the approval of both the CEO and CTO.
+Both the CEO and CTO must sign any contract, agreement, or instrument obligating the corporation in an amount exceeding $500. Either the CEO or CTO may sign routine operational documents not exceeding $500. In no event shall either officer individually authorize aggregate expenditures exceeding $2,000 in any calendar month across the corporation and all affiliated entities (including Present Tense Labs, Inc.), without the signature of both the CEO and CTO. For purposes of this aggregate cap, expenditures authorized at any affiliated entity shall be attributed to the authorizing officer. Expense reimbursements to any officer exceeding $250 per expense item require the approval of both the CEO and CTO.
 
 ### Section 4.2 — Authority of CEO and CTO
 
@@ -130,11 +130,11 @@ The CEO and CTO shall jointly have general supervision, direction, and control o
 
 ### Section 4.3 — Duties of Secretary
 
-The Secretary shall keep the minutes of all meetings of the stockholders and the Board of Directors, maintain the corporate records, and give all required notices. Either the CEO or CTO may perform these duties.
+The Secretary shall keep the minutes of all meetings of the stockholders and the Board of Directors, maintain the corporate records, and give all required notices. The CTO serves as Secretary; however, either the CEO or CTO may perform these duties.
 
 ### Section 4.4 — Duties of Treasurer
 
-The Treasurer shall have charge and custody of all funds and securities of the corporation, keep full and accurate accounts of receipts and disbursements, and deposit all monies in the name of the corporation. Either the CEO or CTO may perform these duties.
+The Treasurer shall have charge and custody of all funds and securities of the corporation, keep full and accurate accounts of receipts and disbursements, and deposit all monies in the name of the corporation. The CTO serves as Treasurer; however, either the CEO or CTO may perform these duties.
 
 ### Section 4.5 — Additional Officers
 
@@ -222,29 +222,29 @@ All bank accounts of the corporation shall require dual authorization for withdr
 
 ### Section 7.6 — Dispute Resolution
 
-Any dispute arising under these Bylaws or relating to the governance of the corporation shall be resolved pursuant to the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026.
+Any dispute arising under these Bylaws or relating to the governance of the corporation shall be resolved pursuant to the dispute resolution provisions of the Founders' Agreement of The Move Social Inc. dated March 24, 2026.
 
 ### Section 7.7 — Deadlock
 
-(a) TMS board deadlocks shall first be submitted to mediation per the dispute resolution provisions of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026.
+(a) TMS board deadlocks shall first be submitted to mediation per the dispute resolution provisions of the Founders' Agreement of The Move Social Inc. dated March 24, 2026.
 
-(b) If mediation is unsuccessful within thirty (30) days, either director may invoke the buy-sell provisions of Section 3 of the Founders' Agreement of Present Tense Labs, Inc.
+(b) If mediation is unsuccessful within thirty (30) days, either director may invoke the buy-sell provisions of Section 4 of the Founders' Agreement of The Move Social Inc. dated March 24, 2026.
 
 ### Section 7.8 — Financial Reporting
 
 (a) Both the CEO and CTO shall be entitled to full access to all books, records, bank statements, tax filings, and financial records of the corporation at all times.
 
-(b) The corporation shall produce a monthly financial summary, including income, expenses, and bank balances, within ten (10) business days of the end of each calendar month. Such summary shall be provided to both the CEO and CTO.
+(b) The corporation shall produce a quarterly financial summary, including income, expenses, and bank balances, within fifteen (15) business days of the end of each calendar quarter. Such summary shall be provided to both the CEO and CTO.
 
 (c) Either the CEO or CTO may request an independent audit of the corporation's books and records at the corporation's expense, no more than once per calendar year.
 
 ### Section 7.9 — Incapacity
 
-(a) If the CEO or CTO is unable to perform duties for fifteen (15) or more consecutive days (as defined in Section 1.5 of the Founders' Agreement of Present Tense Labs, Inc. dated March 27, 2026), the incapacity proxy designated under the Founders' Agreement may act on the incapacitated officer's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations.
+(a) If the CEO or CTO is unable to perform duties for fifteen (15) or more consecutive days (as defined in Section 1.6 of the Founders' Agreement of The Move Social Inc. dated March 24, 2026), the incapacity proxy designated under the Founders' Agreement may act on the incapacitated officer's behalf for routine operational matters, including: authorizing expenditures within existing spending caps, performance of existing contracts, and payment of recurring obligations.
 
 (b) If the CEO's or CTO's incapacity exceeds ninety (90) consecutive days, the remaining director and the designated independent tiebreaker (as provided in the Founders' Agreement) shall together constitute a quorum of the Board of Directors for all purposes, and may take any actions reasonably necessary for the continued operation of the corporation.
 
-(c) At one hundred eighty (180) consecutive days, the full Disability provisions of Section 1.5 of the Founders' Agreement shall apply, including the buyout right.
+(c) At one hundred eighty (180) consecutive days, the full Disability provisions of Section 1.6 of the Founders' Agreement of The Move Social Inc. dated March 24, 2026 shall apply, including the buyout right.
 
 ### Section 7.10 — Stock Ledger
 
@@ -256,8 +256,8 @@ The corporation shall maintain a formal stock ledger recording all issued shares
 
 ```
 ________________________________________
-Altin Lecaj, CEO and Director
+Altin Lecaj, President and CEO, Director
 
 ________________________________________
-Eric Garcia, CTO and Director
+Eric Garcia, CTO, Secretary, and Treasurer, Director
 ```
