@@ -2,17 +2,24 @@
 
 **Updated:** March 27, 2026
 **Entity:** The Move Social Inc. — Delaware C-Corp (dual-class)
+**DE File Number:** 10540347
 **Founders:** Altin Lecaj (CEO) / Eric Garcia (CTO)
 
 ---
 
 ## What's Done
 
-- [x] Certificate of Incorporation filed with Delaware (March 18, 2026)
-- [x] Amended and Restated Certificate of Incorporation filed (dual-class: 8.5M Class A voting + 1.5M Class B non-voting)
-- [x] EIN received from IRS (March 18, 2026)
+- [x] Certificate of Incorporation filed with Delaware (March 10, 2026) — file number 10540347
+- [x] Amended and Restated Certificate of Incorporation adopted by written consent of all directors under DGCL §§ 241/245, filed March 18, 2026 (before any stock payment received)
+  - Dual-class: 8,500,000 Class A Common (voting, $0.00001 par) + 1,500,000 Class B Common (non-voting, $0.00001 par)
+  - Pari passu economic rights — no dividend/distribution on one class without equal on the other
+  - Director + officer liability protection (Article VII)
+  - Full indemnification with expense advancement (Article VIII)
+  - Corporate opportunities renouncement for directors/officers who serve any other entity (Article VI)
+  - Exclusive forum: DE Court of Chancery for internal claims; federal courts for Securities Act of 1933 claims (Article IX)
+- [x] EIN received from IRS (March 18, 2026) — CP 575 A in `formation/`
 - [x] Founders' Agreement signed
-- [x] Registered agent: Northwest (Delaware)
+- [x] Registered agent: Northwest Registered Agent Service, Inc. — 8 The Green, Suite B, Dover, DE 19901
 
 ---
 
@@ -35,7 +42,7 @@
 **Required before stock can be issued (founders need somewhere to deposit purchase funds).**
 
 - [ ] Open TMS bank account at Mercury, Relay, or similar startup-friendly bank
-  - Bring: EIN confirmation (CP 575 A in `formation/`), Certificate of Incorporation, Board Meeting Minutes, Bylaws
+  - Bring: EIN confirmation (CP 575 A in `formation/`), A&R Certificate of Incorporation (`signed/amended-and-restated-certificate-of-incorporation.pdf`), Board Meeting Minutes, Bylaws
   - Set up **dual authorization** for transactions > $500 (required by Bylaws Section 7.5)
 - [ ] Both founders added as authorized signers
 - [ ] Set up online banking access for both CEO and CTO
@@ -45,6 +52,8 @@
 ## Step 3: Issue Founder Stock
 
 **This is how you and Eric become shareholders. Do this immediately after the bank account is open.**
+
+The A&R Certificate confirms no stock has been issued yet ("adopted before payment has been received for any stock"). The Board Meeting (Resolution 6) authorizes the issuance below.
 
 ### How Stock Issuance Works
 
@@ -59,8 +68,8 @@
 
   | Founder | Shares | Class | Price | Total |
   |---------|--------|-------|-------|-------|
-  | Altin Lecaj | 4,250,000 | Class A (Voting) | $0.00001/share | $42.50 |
-  | Eric Garcia | 4,250,000 | Class A (Voting) | $0.00001/share | $42.50 |
+  | Altin Lecaj | 4,250,000 | Class A Common (Voting) | $0.00001/share | $42.50 |
+  | Eric Garcia | 4,250,000 | Class A Common (Voting) | $0.00001/share | $42.50 |
 
 - [ ] Each founder deposits **$42.50** into the TMS bank account (check, wire, or transfer)
   - Keep the receipt / confirmation — this is your proof of payment
@@ -74,6 +83,15 @@
 
 > **Note:** TMS founder shares have **reverse vesting** per the Founders' Agreement: 25% vested immediately, 75% vesting monthly over 36 months. Each founder must file an **83(b) election within 30 days** of issuance.
 
+### Key A&R Certificate provisions governing your shares
+
+- **Voting:** 1 vote per Class A share on all matters (A&R Cert § 4.2)
+- **Economic rights:** Identical to Class B on a per-share pari passu basis (§ 4.3)
+- **Dividends:** Equal per-share; no dividend on one class without equal on the other (§ 4.4)
+- **Liquidation:** Ratable distribution regardless of class, after debts and any preferred (§ 4.5)
+- **No conversion:** Class A cannot convert to Class B and vice versa (§ 4.6)
+- **Board control:** Majority of Class A elects/removes directors; Class B has no board vote (§ 5.2)
+
 ---
 
 ## Step 4: Set Up Stock Ledger / Cap Table
@@ -84,6 +102,7 @@
   - Either works — pick one and stick with it
 - [ ] Record the founder stock issuance (Step 3)
 - [ ] Record the 1,500,000 Class B shares reserved for the Equity Incentive Plan
+- [ ] Upload signed formation docs: A&R Certificate, Board Meeting Minutes, Bylaws, Stock Subscription Agreements
 - [ ] Both CEO and CTO have admin access
 - [ ] Bylaws Section 7.10 requires quarterly reconciliation signed by both founders
 
@@ -94,7 +113,7 @@
 **Sets up the infrastructure to grant options to Dana and future team members.**
 
 - [ ] Confirm **Equity Incentive Plan** (`equity-incentive-plan.md`) is adopted (authorized by Board Meeting Resolution 7)
-  - Pool: 1,500,000 Class B shares (non-voting, equal economic rights)
+  - Pool: 1,500,000 Class B shares (non-voting per A&R Cert § 4.2, equal economic rights per § 4.3)
   - All grants as NSOs (Non-Qualified Stock Options)
   - Early-exercise provisions included
 - [ ] Finalize **Stock Option Grant Agreement** template (`stock-option-grant-agreement.md`)
@@ -131,7 +150,7 @@
 
 | Metric | Shares |
 |--------|--------|
-| Total Class B pool | 1,500,000 |
+| Total Class B pool (A&R Cert § 4.1) | 1,500,000 |
 | Approved, pending grant (Dana Vines) | 400,000 (26.7% of pool) |
 | Reserved for seed round | 500,000 |
 | Available for future grants | 600,000 (6% fully diluted) |
@@ -158,13 +177,16 @@
 
 **Target: within 30 days of operating (April 2026).**
 
+Only file in states where you have nexus (employees, office, or significant in-person sales). Right now that's just **Delaware** (state of incorporation) and **New York** (operating address). Contractors in other states do not create foreign qualification nexus.
+
 - [ ] Confirm Delaware **franchise tax** registration (both PTL and TMS)
 - [ ] **Foreign qualification in New York** — required because TMS is a DE corp operating from NY
   - File Application for Authority with NY Dept of State (~$250 filing fee)
-  - Appoint registered agent in NY
-- [ ] State tax registrations in operating states
+  - Appoint registered agent in NY (Northwest can serve in NY as well)
+- [ ] NY state tax registration
 - [ ] Set up **monthly financial reporting** process (Bylaws Section 7.8 — due within 10 business days of month end)
 - [ ] **D&O liability insurance** for both PTL and TMS
+  - The A&R Certificate (Articles VII-VIII) provides liability protection and indemnification for directors and officers, but D&O insurance covers the gap (defense costs, claims the corporation can't afford to indemnify, claims outside DGCL protection)
 - [ ] **Key-person life and disability insurance** on both founders
 - [ ] Each founder designates **incapacity proxy** and **independent tiebreaker** (per Founders' Agreement, within 30 days)
 
@@ -174,12 +196,34 @@
 
 - [ ] Prepare investor data room:
   - Cap table (from Carta/Pulley)
-  - All signed formation docs
+  - All signed formation docs (A&R Certificate, Board Meeting Minutes, Bylaws, Founders' Agreement, Stock Subscription Agreements)
   - Financials
   - Product metrics / traction
-- [ ] Amend TMS Certificate of Incorporation to increase authorized Class B shares if needed for investor option pool requirements
+- [ ] Amend TMS Certificate of Incorporation to increase authorized Class B shares if needed for investor option pool requirements (requires Class A stockholder consent per A&R Cert Article X)
 - [ ] Draft term sheet framework (non-participating preferred, option holder carve-outs)
 - [ ] Engage startup counsel for fundraising documentation
+  - Note: A&R Certificate Article IX already designates federal courts as exclusive forum for Securities Act of 1933 claims — this is investor-friendly and standard for VC-backed companies
+
+---
+
+## A&R Certificate of Incorporation — Key Provisions Reference
+
+For quick reference, here's what the signed A&R cert (filed March 18, 2026) establishes:
+
+| Article | Provision | What It Means |
+|---------|-----------|---------------|
+| IV § 4.1 | 10M authorized shares (8.5M Class A + 1.5M Class B) | Total share budget; Class B reserved for EIP |
+| IV § 4.2 | Class A: 1 vote/share; Class B: no votes | Founders control all decisions through Class A |
+| IV § 4.3 | Pari passu economic rights | Class B holders get equal dividends/distributions per share |
+| IV § 4.4 | Equal dividend requirement | Cannot pay one class without paying the other equally |
+| IV § 4.5 | Ratable liquidation | All common shares share equally in a sale/wind-down |
+| IV § 4.6 | No conversion | Classes are permanent — no A↔B conversion |
+| V § 5.2 | Class A elects/removes directors | Class B has zero board representation |
+| VI | Corporate opportunities renouncement | Directors/officers can serve other entities freely |
+| VII | Director + officer liability shield | No personal liability for breach of fiduciary duty |
+| VIII | Indemnification + expense advancement | Company pays legal costs upfront; repay only if not entitled |
+| IX | Exclusive forum (DE Chancery + federal for Securities Act) | Prevents forum shopping; standard for VC fundraising |
+| X | Amendment reservation | Can amend the cert via DGCL procedures |
 
 ---
 
