@@ -72,7 +72,7 @@
   - If issuing certificates: both officers sign, clearly label "Class A Common Stock"
   - If uncertificated: send written notice to each shareholder confirming their shares
 
-> **Note:** TMS founder shares do NOT have vesting or 83(b) requirements. That's only for PTL. The TMS Stock Subscription Agreement is a straightforward purchase — no vesting, no cliff, no repurchase right. You pay $42.50, you own the shares outright.
+> **Note:** TMS founder shares have **reverse vesting** per the Founders' Agreement: 25% vested immediately, 75% vesting monthly over 36 months. Each founder must file an **83(b) election within 30 days** of issuance.
 
 ---
 

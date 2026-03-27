@@ -49,6 +49,22 @@ The parties acknowledge that the Company has authorized two classes of Common St
 
 (b) **Class B Common Stock** (non-voting): 1,500,000 shares authorized, reserved for issuance under the Company's Equity Incentive Plan. Class B Common Stock carries no voting rights but has identical economic rights to Class A Common Stock.
 
+### 1.4 Reverse Vesting
+
+Each Subscriber's Shares shall be subject to the Company's right to repurchase unvested Shares at the original purchase price ($0.00001 per share) if such Subscriber ceases to provide services to the Company for any reason (the "Repurchase Right"). The vesting schedule is as follows:
+
+(a) **Initial Vesting.** Twenty-five percent (25%) of each Subscriber's Shares (1,062,500 shares) shall be vested as of the date of issuance.
+
+(b) **Monthly Vesting.** The remaining seventy-five percent (75%) of each Subscriber's Shares (3,187,500 shares) shall vest in thirty-six (36) equal monthly installments of 88,541 shares (with the final installment adjusted for rounding), beginning on the one-month anniversary of the date of issuance.
+
+(c) **Full Vesting.** All Shares shall be fully vested on the three-year anniversary of the date of issuance, at which point the Repurchase Right shall expire.
+
+(d) **Acceleration.** All unvested Shares shall immediately vest in full upon a Change of Control (as defined in the Founders' Agreement) or upon the mutual written agreement of both Subscribers.
+
+(e) **83(b) Election.** Each Subscriber shall file an election under Section 83(b) of the Internal Revenue Code within thirty (30) days of the date of issuance. The Company shall provide each Subscriber with a pre-filled 83(b) election form and filing instructions.
+
+The terms of the Repurchase Right, including the effect of departure and the exercise procedure, are set forth in Section 2 of the Founders' Agreement dated March 27, 2026, which is incorporated herein by reference.
+
 ---
 
 ## 2. Representations of the Subscribers
