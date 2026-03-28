@@ -1,6 +1,6 @@
 # Post-Formation Checklist — The Move Social Inc.
 
-**Updated:** March 27, 2026
+**Updated:** March 27, 2026 (post-signing)
 **Entity:** The Move Social Inc. — Delaware C-Corp (dual-class)
 **DE File Number:** 10540347
 **Founders:** Altin Lecaj (CEO) / Eric Garcia (CTO)
@@ -18,97 +18,62 @@
   - Corporate opportunities renouncement for directors/officers who serve any other entity (Article VI)
   - Exclusive forum: DE Court of Chancery for internal claims; federal courts for Securities Act of 1933 claims (Article IX)
 - [x] EIN received from IRS (March 18, 2026) — CP 575 A in `formation/`
-- [x] Founders' Agreement signed
+- [x] Founders' Agreement signed (March 24, 2026)
 - [x] Registered agent: Northwest Registered Agent Service, Inc. — 8 The Green, Suite B, Dover, DE 19901
+- [x] First Board Meeting held (March 27, 2026) — Resolutions 1-14 passed
+- [x] Bylaws adopted and signed by both founders (March 27, 2026)
+- [x] Bank account opened
+- [x] Stock Subscription Agreements signed by both founders (March 27, 2026)
+- [x] Both founders deposited $42.50 each ($85.00 total) — 8,500,000 Class A shares issued
+- [x] All signed documents stored in `signed/`
 
 ---
 
-## Step 1: Adopt Bylaws & Board Resolutions — COMPLETE
+## Steps 1-3: COMPLETE
 
-**Completed at the First Board Meeting on March 27, 2026.**
-
-- [x] Both founders attended the **First Board Meeting** (`board-minutes/2026-03-27-board-meeting.md`)
-  - Adopted Bylaws, appointed officers, authorized stock issuance, adopted EIP, approved Dana Vines' restricted stock grant, and more (Resolutions 1-14)
-- [x] Both founders sign the **Bylaws** (`bylaws.md`)
-  - Consensus voting, dual-authorization for spend > $500, dispute resolution tied to Founders' Agreement
-- [ ] Store signed copies in `signed/`
-
-> The Board Minutes from March 27, 2026 are the master resolution — they authorize stock issuance (Resolution 6), adopt the EIP (Resolution 7), appoint officers (Resolution 3), and authorize banking (Resolution 10). You cannot issue stock without them.
+- [x] Step 1 — Bylaws & Board Resolutions (March 27, 2026)
+- [x] Step 2 — Bank Account opened
+- [x] Step 3 — Founder stock issued (8,500,000 Class A shares, $85.00 deposited)
 
 ---
 
-## Step 2: Open Business Bank Account
+## Step 1: File 83(b) Elections — URGENT
 
-**Required before stock can be issued (founders need somewhere to deposit purchase funds).**
+**HARD DEADLINE: April 26, 2026 (30 days from stock issuance on March 27, 2026)**
 
-- [ ] Open TMS bank account at Mercury, Relay, or similar startup-friendly bank
-  - Bring: EIN confirmation (CP 575 A in `formation/`), A&R Certificate of Incorporation (`signed/amended-and-restated-certificate-of-incorporation.pdf`), Board Meeting Minutes, Bylaws
-  - Set up **dual authorization** for transactions > $500 (required by Bylaws Section 7.5)
-- [ ] Both founders added as authorized signers
-- [ ] Set up online banking access for both CEO and CTO
+Your shares have reverse vesting (FA § 2.2, SSA § 1.4). Without an 83(b) election, you'll owe income tax on each monthly vesting tranche at the then-current FMV — which could be catastrophic if the company appreciates. Filing 83(b) means you pay tax on the full value now ($42.50 each — negligible).
 
----
+- [ ] Altin files **83(b) election** with the IRS via **certified mail** (USPS Form 7004)
+- [ ] Eric files **83(b) election** with the IRS via **certified mail** (USPS Form 7004)
+- [ ] Each founder keeps: (a) signed copy of the 83(b) form, (b) certified mail receipt (PS Form 3800), (c) return receipt (PS Form 3811 / green card)
+- [ ] Each founder attaches a copy of the 83(b) election to their **2026 federal tax return**
+- [ ] Store proof of filing in `signed/`
 
-## Step 3: Issue Founder Stock
-
-**This is how you and Eric become shareholders. Do this immediately after the bank account is open.**
-
-The A&R Certificate confirms no stock has been issued yet ("adopted before payment has been received for any stock"). The Board Meeting (Resolution 6) authorizes the issuance below.
-
-### How Stock Issuance Works
-
-1. **Sign the Stock Subscription Agreements** — The legal contract where each founder agrees to buy shares
-2. **Pay for the shares** — Deposit the purchase price into the TMS bank account
-3. **Company records the issuance** — Update the stock ledger
-4. **You're now shareholders** — You each own 4,250,000 Class A shares (50/50)
-
-### Checklist
-
-- [ ] Both founders execute **Stock Subscription Agreement** (`stock-subscription-agreement.md`)
-
-  | Founder | Shares | Class | Price | Total |
-  |---------|--------|-------|-------|-------|
-  | Altin Lecaj | 4,250,000 | Class A Common (Voting) | $0.00001/share | $42.50 |
-  | Eric Garcia | 4,250,000 | Class A Common (Voting) | $0.00001/share | $42.50 |
-
-- [ ] Each founder deposits **$42.50** into the TMS bank account (check, wire, or transfer)
-  - Keep the receipt / confirmation — this is your proof of payment
-  - Total: $85.00 for 8,500,000 shares
-- [ ] Record issuance in the **stock ledger**
-  - If using a cap table tool (Carta, Pulley, AngelList): enter the issuance there
-  - If not yet set up: create a simple spreadsheet with: shareholder name, share class, number of shares, price paid, date issued, certificate number (if any)
-- [ ] Issue stock certificates (optional — uncertificated shares are fine per Bylaws Section 5.3)
-  - If issuing certificates: both officers sign, clearly label "Class A Common Stock"
-  - If uncertificated: send written notice to each shareholder confirming their shares
-
-> **Note:** TMS founder shares have **reverse vesting** per the Founders' Agreement: 25% vested immediately, 75% vesting monthly over 36 months. Each founder must file an **83(b) election within 30 days** of issuance.
-
-### Key A&R Certificate provisions governing your shares
-
-- **Voting:** 1 vote per Class A share on all matters (A&R Cert § 4.2)
-- **Economic rights:** Identical to Class B on a per-share pari passu basis (§ 4.3)
-- **Dividends:** Equal per-share; no dividend on one class without equal on the other (§ 4.4)
-- **Liquidation:** Ratable distribution regardless of class, after debts and any preferred (§ 4.5)
-- **No conversion:** Class A cannot convert to Class B and vice versa (§ 4.6)
-- **Board control:** Majority of Class A elects/removes directors; Class B has no board vote (§ 5.2)
+> **What goes in the 83(b) form:** Name, SSN, address, tax year (2026), description of property (4,250,000 shares of Class A Common Stock of The Move Social Inc.), date transferred (March 27, 2026), restrictions (reverse vesting per SSA § 1.4 — 25% vested, 75% over 36 months), FMV at transfer ($42.50 / $0.00001 per share), amount paid ($42.50), and a statement that you're making the election under IRC § 83(b).
 
 ---
 
-## Step 4: Set Up Stock Ledger / Cap Table
+## Step 2: Set Up Stock Ledger / Cap Table
 
 - [ ] Choose a cap table tool: **Carta**, **Pulley**, or **AngelList Stack**
   - Carta: industry standard, $0 for startups under a certain size
   - Pulley: founder-friendly, free tier available
   - Either works — pick one and stick with it
-- [ ] Record the founder stock issuance (Step 3)
+- [ ] Record the founder stock issuance:
+
+  | Shareholder | Shares | Class | Price Paid | Date Issued | Vesting |
+  |-------------|--------|-------|------------|-------------|---------|
+  | Altin Lecaj | 4,250,000 | Class A Common (Voting) | $42.50 | March 27, 2026 | 25% immediate, 75%/36mo |
+  | Eric Garcia | 4,250,000 | Class A Common (Voting) | $42.50 | March 27, 2026 | 25% immediate, 75%/36mo |
+
 - [ ] Record the 1,500,000 Class B shares reserved for the Equity Incentive Plan
-- [ ] Upload signed formation docs: A&R Certificate, Board Meeting Minutes, Bylaws, Stock Subscription Agreements
+- [ ] Upload signed formation docs: A&R Certificate, Board Meeting Minutes, Bylaws, Founders' Agreement, Stock Subscription Agreements
 - [ ] Both CEO and CTO have admin access
 - [ ] Bylaws Section 7.10 requires quarterly reconciliation signed by both founders
 
 ---
 
-## Step 5: Adopt Equity Incentive Plan & Contractor Templates
+## Step 3: Adopt Equity Incentive Plan & Contractor Templates
 
 **Sets up the infrastructure to grant options to Dana and future team members.**
 
@@ -122,9 +87,9 @@ The A&R Certificate confirms no stock has been issued yet ("adopted before payme
 
 ---
 
-## Step 6: Execute Contractor Agreement & Restricted Stock Grant — Dana Vines
+## Step 4: Execute Contractor Agreement & Restricted Stock Grant — Dana Vines
 
-**Dana's grant is restricted stock at par value — no 409A required. Can execute as soon as Steps 1-5 are complete.**
+**Dana's grant is restricted stock at par value — no 409A required. Can execute as soon as Steps 1-3 are complete.**
 
 ### Contractor Agreement
 
@@ -157,7 +122,7 @@ The A&R Certificate confirms no stock has been issued yet ("adopted before payme
 
 ---
 
-## Step 7: PTL S-Corp Election (Overdue)
+## Step 5: PTL S-Corp Election (Overdue)
 
 **This is for Present Tense Labs, not TMS — but it's blocking.**
 
@@ -173,7 +138,7 @@ The A&R Certificate confirms no stock has been issued yet ("adopted before payme
 
 ---
 
-## Step 8: State Compliance & Insurance
+## Step 6: State Compliance & Insurance
 
 **Target: within 30 days of operating (April 2026).**
 
@@ -184,7 +149,7 @@ Only file in states where you have nexus (employees, office, or significant in-p
   - File Application for Authority with NY Dept of State (~$250 filing fee)
   - Appoint registered agent in NY (Northwest can serve in NY as well)
 - [ ] NY state tax registration
-- [ ] Set up **monthly financial reporting** process (Bylaws Section 7.8 — due within 10 business days of month end)
+- [ ] Set up **quarterly financial reporting** process (Bylaws Section 7.8 — due within 15 business days of quarter end)
 - [ ] **D&O liability insurance** for both PTL and TMS
   - The A&R Certificate (Articles VII-VIII) provides liability protection and indemnification for directors and officers, but D&O insurance covers the gap (defense costs, claims the corporation can't afford to indemnify, claims outside DGCL protection)
 - [ ] **Key-person life and disability insurance** on both founders
@@ -192,7 +157,7 @@ Only file in states where you have nexus (employees, office, or significant in-p
 
 ---
 
-## Step 9: Pre-Seed / Seed Preparation (Q2-Q3 2026)
+## Step 7: Pre-Seed / Seed Preparation (Q2-Q3 2026)
 
 - [ ] Prepare investor data room:
   - Cap table (from Carta/Pulley)
@@ -230,24 +195,26 @@ For quick reference, here's what the signed A&R cert (filed March 18, 2026) esta
 ## Quick Reference: Execution Order
 
 ```
-Week 1 — COMPLETE (March 27, 2026)
-  ├── First Board Meeting — all initial resolutions passed
-  └── Bylaws adopted
+DONE (March 27, 2026)
+  ├── A&R Certificate filed, EIN received, FA signed
+  ├── First Board Meeting — Resolutions 1-14 passed
+  ├── Bylaws signed
+  ├── Bank account opened
+  └── Stock issued — SSAs signed, $85 deposited, 8.5M Class A shares
 
-Week 2
-  ├── Open bank account
-  ├── Execute Stock Subscription Agreements + deposit $85
-  └── Set up cap table tool (Carta or Pulley)
+THIS WEEK — URGENT
+  ├── File 83(b) elections via certified mail (DEADLINE: April 26, 2026)
+  └── Set up cap table (Carta or Pulley), record issuance
 
-Week 3
+Next 2 Weeks
   ├── Confirm EIP adoption, finalize grant templates
   ├── Execute contractor agreement + restricted stock grant (Dana, start date TBD)
-  ├── Dana files 83(b) election within 30 days
-  └── File PTL Form 2553 (late S-Corp election)
+  ├── Dana files 83(b) election within 30 days of her purchase
+  └── File PTL Form 2553 (late S-Corp election — already overdue)
 
 Month 2
   ├── NY foreign qualification
   ├── Delaware franchise tax confirmation
   ├── D&O and key-person insurance
-  └── Monthly financial reporting begins
+  └── Quarterly financial reporting begins
 ```
