@@ -11,7 +11,7 @@ This Restricted Stock Purchase Agreement (the "Agreement") is entered into betwe
 - **The Move Social Inc.**, a Delaware corporation (the "Company")
 - **Dana Vines**, an individual (the "Purchaser")
 
-This award is granted under and subject to the terms of the Company's Equity Incentive Plan (the "Plan"). In the event of any conflict between this Agreement and the Plan, the Plan shall govern.
+This award is granted under and subject to the terms of the Company's Equity Incentive Plan (the "Plan"). In the event of any conflict between this Agreement and the Plan, the Plan shall govern, except that Section 7 (Change of Control) of this Agreement shall control over Section 8.2 of the Plan with respect to the treatment of Shares in a Change of Control transaction.
 
 ---
 
@@ -25,6 +25,7 @@ This award is granted under and subject to the terms of the Company's Equity Inc
 | Aggregate Purchase Price | $4.00 |
 | Purchase Date | _________________ |
 | Vesting Commencement Date | _________________ |
+| Stock Certificate / Book Entry No. | _________________ |
 
 The Purchaser hereby purchases, and the Company hereby sells to the Purchaser, 400,000 shares of Class B Common Stock (non-voting) of the Company (the "Shares"), at a purchase price of $0.00001 per share, for an aggregate purchase price of $4.00, subject to the vesting conditions and restrictions set forth in this Agreement.
 
@@ -37,31 +38,29 @@ The Shares shall vest according to the following schedule, subject to the Purcha
 | Milestone | Shares Vested | Cumulative |
 |-----------|--------------|------------|
 | 1st anniversary of Vesting Commencement Date | 25% of total shares (100,000) | 25% |
-| Each month thereafter for 36 months | 1/48 of total shares (~8,333) per month | 25% → 100% |
+| Each month thereafter for 36 months | 1/36th of remaining unvested shares (~8,333) per month* | 25% → 100% |
+
+\* Any fractional shares resulting from monthly vesting calculations shall accumulate and vest in full on the final vesting date (the 48th month anniversary of the Vesting Commencement Date).
 
 **Cliff:** No Shares vest before the first anniversary of the Vesting Commencement Date. If the Purchaser's service terminates before the first anniversary, all Shares are subject to the Company's Repurchase Right under Section 3.
 
-**Vesting requires continued service.** Vesting ceases immediately upon termination of the Purchaser's service relationship with the Company.
+**Vesting requires continued service.** Vesting ceases immediately upon termination of the Purchaser's Service (as defined in Section 5.5) relationship with the Company.
 
 ---
 
 ## 3. Company Repurchase Right
 
-### 3.1 Repurchase Right on Unvested Shares
+### 3.1 Automatic Forfeiture of Unvested Shares
 
-Upon termination of the Purchaser's service for any reason other than Cause, the Company shall have the right, but not the obligation, to repurchase any Unvested Shares at the original purchase price paid per share ($0.00001 per share).
-
-(a) The Company must exercise this repurchase right within **sixty (60) days** following the date of termination;
-
-(b) If the Company does not exercise the repurchase right within such period, the repurchase right shall lapse and the Shares shall be free of such restriction.
+Upon termination of the Purchaser's Service for any reason (whether voluntary, involuntary, for Cause, or without Cause), all Unvested Shares shall be automatically forfeited to the Company and repurchased at the original purchase price paid per share ($0.00001 per share), without any action required by the Company. The Company shall pay the aggregate repurchase price for such forfeited Shares within **thirty (30) days** following the date of termination.
 
 ### 3.2 Termination for Cause
 
-Upon termination for Cause, all Shares (vested and unvested) are immediately forfeited to the Company.
+Upon termination for Cause, all **Unvested** Shares are immediately forfeited to the Company pursuant to Section 3.1. For the avoidance of doubt, vested Shares shall be retained by the Purchaser upon any termination, including termination for Cause, subject to any applicable transfer restrictions under Section 6.
 
-### 3.3 Lapse of Repurchase Right
+### 3.3 Lapse of Forfeiture Right
 
-The Company's repurchase right shall lapse with respect to each Share as it vests according to the vesting schedule in Section 2.
+The Company's forfeiture right shall lapse with respect to each Share as it vests according to the vesting schedule in Section 2.
 
 ---
 
@@ -75,7 +74,7 @@ The Purchaser acknowledges that filing a Section 83(b) election with the Interna
 
 The Company shall provide the Purchaser with:
 
-(a) A pre-filled Section 83(b) election form (attached as Exhibit B);
+(a) A pre-filled Section 83(b) election form (provided as a separate document);
 
 (b) A calendar reminder twenty (20) days before the thirty (30) day filing deadline;
 
@@ -91,23 +90,31 @@ The Purchaser shall deliver to the Company a copy of the filed 83(b) election an
 
 ### 5.1 Voluntary Resignation or Termination Without Cause
 
-If the Purchaser's service terminates for any reason other than Cause, death, or disability:
+If the Purchaser's Service terminates for any reason other than Cause, death, or disability:
 
 (a) Vested Shares are retained by the Purchaser;
 
-(b) Unvested Shares are subject to the Company's repurchase right under Section 3.
+(b) Unvested Shares are automatically forfeited pursuant to Section 3.1.
 
 ### 5.2 Termination for Cause
 
-If the Purchaser's service is terminated for Cause, all Shares (vested and unvested) are immediately forfeited.
+If the Purchaser's Service is terminated for Cause:
+
+(a) Vested Shares are retained by the Purchaser, subject to any applicable transfer restrictions under Section 6;
+
+(b) Unvested Shares are automatically forfeited pursuant to Section 3.1.
 
 ### 5.3 Death or Disability
 
-If the Purchaser's service terminates due to death or disability, vested Shares are retained by the Purchaser (or the Purchaser's estate). Unvested Shares are subject to the Company's repurchase right under Section 3.
+If the Purchaser's Service terminates due to death or disability, vested Shares are retained by the Purchaser (or the Purchaser's estate). Unvested Shares are automatically forfeited pursuant to Section 3.1.
 
 ### 5.4 Definition of Cause
 
-For purposes of this Agreement, "Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
+For purposes of this Agreement, "Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement, the CIIA, or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
+
+### 5.5 Definition of Service
+
+For purposes of this Agreement, "Service" means the Purchaser's service to the Company as an employee, officer, director, consultant, or advisor, whether pursuant to an employment agreement, consulting agreement, or other service arrangement. A change in the Purchaser's capacity (for example, from consultant to employee) shall not constitute a termination of Service, and vesting shall continue uninterrupted, provided there is no gap in Service of more than thirty (30) days.
 
 ---
 
@@ -121,6 +128,12 @@ Unvested Shares may not be sold, transferred, pledged, assigned, or otherwise al
 
 The Purchaser acknowledges that all Shares are Class B Common Stock, which carries no voting rights. The Purchaser shall have no right to vote on any matter submitted to stockholders of the Company, except as may be required by applicable law. Class B Common Stock has identical economic rights (dividends, distributions, liquidation proceeds) to Class A Common Stock on a per-share basis.
 
+### 6.3 Stock Legend
+
+All certificates or book entries representing the Shares shall bear the following legend (or substantially similar language):
+
+> "THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO A RESTRICTED STOCK PURCHASE AGREEMENT BETWEEN THE HOLDER AND THE MOVE SOCIAL INC. DATED AS OF [PURCHASE DATE], INCLUDING VESTING CONDITIONS, FORFEITURE PROVISIONS, AND TRANSFER RESTRICTIONS. A COPY OF SUCH AGREEMENT IS ON FILE AT THE PRINCIPAL OFFICE OF THE COMPANY. THE SHARES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 AND MAY NOT BE SOLD, TRANSFERRED, OR OTHERWISE DISPOSED OF WITHOUT REGISTRATION OR AN APPLICABLE EXEMPTION FROM REGISTRATION."
+
 ---
 
 ## 7. Change of Control
@@ -133,11 +146,17 @@ In any Change of Control, the Purchaser shall receive, at minimum, a cash paymen
 
 ### 7.2 Pari Passu Treatment
 
-Shares of Class B Common Stock issued under this Agreement shall be treated on a per-share basis identically to shares of Class A Common Stock in any Change of Control transaction. No liquidation preference or participation right shall reduce the per-share consideration payable to the Purchaser below the per-share consideration payable to holders of Class A Common Stock.
+Shares of Class B Common Stock issued under this Agreement shall be treated on a per-share basis identically to shares of Class A Common Stock in any Change of Control transaction. No liquidation preference or participation right shall reduce the per-share consideration payable to the Purchaser below the per-share consideration payable to holders of Class A Common Stock. In the event that the Floor Payout under Section 7.1 would result in a higher per-share payment to the Purchaser than the per-share consideration payable to holders of Class A Common Stock, the Purchaser shall receive the **greater** of (a) the per-share Floor Payout and (b) the per-share pari passu consideration.
 
-### 7.3 Acceleration
+### 7.3 Single-Trigger Acceleration
 
-If the Administrator does not take action under Section 8.2(a), (b), or (c) of the Plan within ten (10) days prior to the Change of Control, all Unvested Shares shall automatically vest in full immediately prior to the closing of the transaction.
+Unless the Unvested Shares are assumed or substituted by the acquiring entity pursuant to Section 7.4, one hundred percent (100%) of the then-Unvested Shares shall automatically vest in full immediately prior to the closing of a Change of Control.
+
+### 7.4 Double-Trigger Acceleration (Assumed or Substituted Shares)
+
+If the Unvested Shares are assumed or substituted by the acquiring entity in connection with a Change of Control (such that single-trigger acceleration under Section 7.3 does not apply), and the Purchaser's Service is terminated without Cause or the Purchaser resigns for Good Reason (as defined below) within twelve (12) months following the closing of the Change of Control, then one hundred percent (100%) of the then-Unvested Shares shall immediately vest in full.
+
+For purposes of this Section, "Good Reason" means, without the Purchaser's written consent: (a) a material diminution in the Purchaser's responsibilities, authority, or duties; (b) a material reduction in the Purchaser's base compensation; or (c) a requirement that the Purchaser relocate more than fifty (50) miles from the Purchaser's then-current principal work location. The Purchaser must provide written notice to the Company within thirty (30) days of the event constituting Good Reason, and the Company shall have thirty (30) days to cure.
 
 ---
 
@@ -181,7 +200,9 @@ The Purchaser represents that:
 
 (b) The Purchaser has had the opportunity to consult with a tax advisor regarding the tax consequences of this purchase and the Section 83(b) election;
 
-(c) The Shares are being acquired for investment purposes and not with a view toward distribution or resale.
+(c) The Shares are being acquired for investment purposes and not with a view toward distribution or resale;
+
+(d) The Purchaser has executed, or will execute concurrently with this Agreement, the Company's standard Confidential Information and Inventions Assignment Agreement (CIIA).
 
 ---
 
@@ -193,7 +214,7 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ## 12. Entire Agreement
 
-This Agreement and the Plan constitute the entire agreement between the parties with respect to the subject matter hereof.
+This Agreement, the Plan, the Confidential Information and Inventions Assignment Agreement between the Company and the Purchaser (the "CIIA"), and the Independent Contractor Agreement between the Company and the Purchaser constitute the entire agreement between the parties with respect to the subject matter hereof.
 
 ---
 
@@ -207,6 +228,10 @@ Any dispute arising out of or relating to this Agreement, or the breach, termina
 
 If mediation is unsuccessful, the dispute shall be submitted to binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules. The arbitration shall be conducted in the State of Delaware by a single arbitrator selected in accordance with the AAA rules. The arbitrator's decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
 
+### 13.3 Arbitration Costs
+
+The Company shall bear all arbitration fees, arbitrator compensation, and administrative costs that exceed the amount the Purchaser would have paid to file an equivalent action in state court in the State of Delaware. Each party shall bear its own attorneys' fees unless the arbitrator determines that one party's claims or defenses were frivolous, in which case the arbitrator may award reasonable attorneys' fees to the prevailing party.
+
 ---
 
 **IN WITNESS WHEREOF**, the parties have executed this Agreement as of the Purchase Date.
@@ -217,7 +242,7 @@ If mediation is unsuccessful, the dispute shall be submitted to binding arbitrat
 The Move Social Inc.
 
 ________________________________________
-By: Altin Lecaj, CEO
+By: Altin Lecaj, President and CEO
 ```
 
 **PURCHASER:**
@@ -239,44 +264,11 @@ Email: ________________________________________
 |------|-------|---------------|-------------------|
 | Purchase Date | Shares purchased | 0 | 0 |
 | Purchase Date + 12 months | Cliff vests | 100,000 | 100,000 (25%) |
-| Purchase Date + 13 months | Monthly vest | +8,333 | ~108,333 (27%) |
+| Purchase Date + 13 months | Monthly vest | +8,333 | 108,333 (~27%) |
 | ... | Monthly vest | +8,333 | ... |
-| Purchase Date + 48 months | Fully vested | +8,333 | 400,000 (100%) |
+| Purchase Date + 47 months | Monthly vest | +8,333 | 391,655 (~98%) |
+| Purchase Date + 48 months | Final vest (remainder) | +8,345* | 400,000 (100%) |
 
----
+\* The final monthly vest includes 12 fractional shares accumulated from rounding over months 13–47.
 
-## Exhibit B — Section 83(b) Election Form
 
-**ELECTION UNDER SECTION 83(b) OF THE INTERNAL REVENUE CODE**
-
-The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended, to include in gross income for the taxable year in which the property was transferred the excess (if any) of the fair market value of the property over the amount paid for such property:
-
-| Field | Value |
-|-------|-------|
-| Taxpayer Name | Dana Vines |
-| Taxpayer Address | ________________________ |
-| Social Security Number | ________________________ |
-| Taxable Year | 2026 |
-| Description of Property | 400,000 shares of Class B Common Stock (non-voting) of The Move Social Inc. |
-| Date of Transfer | ________________________ (Purchase Date) |
-| Nature of Restriction | Shares subject to vesting schedule and company repurchase right at original purchase price for unvested shares |
-| Fair Market Value at Transfer | $0.00001 per share x 400,000 shares = $4.00 |
-| Amount Paid | $0.00001 per share x 400,000 shares = $4.00 |
-| Amount to Include in Gross Income | $0.00 |
-
-A copy of this election has been furnished to The Move Social Inc. A copy has also been submitted with the undersigned's federal income tax return for the taxable year in which the transfer was made.
-
-```
-________________________________________
-Dana Vines
-Date: ________________________
-
-```
-
-**Filing Instructions:**
-
-1. Mail the original to the IRS Service Center where you file your tax return within **30 days** of the Purchase Date
-2. Send via **certified mail** with return receipt requested
-3. Keep the certified mail receipt as proof of timely filing
-4. Deliver a copy to The Move Social Inc. within 35 days of purchase
-5. Attach a copy to your federal income tax return for the year of purchase

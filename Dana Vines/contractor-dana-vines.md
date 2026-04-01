@@ -82,35 +82,17 @@ The Contractor shall provide all equipment, tools, and materials necessary to pe
 
 ## 5. Confidentiality and Intellectual Property
 
-### 5.1 Confidential Information
+### 5.1 CIIA Incorporation by Reference
 
-The Contractor agrees to hold in strict confidence all Confidential Information of the Company. "Confidential Information" means any non-public information relating to the Company's business, including but not limited to: technical data, trade secrets, algorithms, code, product plans, customer lists, financial information, business strategies, and any information designated as confidential by the Company.
+The Contractor has executed, or shall execute concurrently with this Agreement, the Company's Confidential Information and Inventions Assignment Agreement (the "CIIA"), which is incorporated herein by reference. The CIIA governs all matters relating to confidentiality, intellectual property assignment, non-solicitation, and return of materials.
 
-### 5.2 Exceptions
+### 5.2 Conflict
 
-Confidential Information does not include information that:
+To the extent any provision of this Section 5 conflicts with the CIIA, the CIIA shall govern.
 
-(a) Is or becomes publicly available through no fault of the Contractor;
+### 5.3 Condition Precedent
 
-(b) Was known to the Contractor prior to disclosure by the Company;
-
-(c) Is independently developed by the Contractor without use of Confidential Information;
-
-(d) Is disclosed to the Contractor by a third party with the right to make such disclosure.
-
-### 5.3 Invention Assignment
-
-All inventions, discoveries, improvements, works of authorship, designs, algorithms, code, and other intellectual property (collectively, "Inventions") that the Contractor conceives, develops, or reduces to practice in connection with the services performed under this Agreement shall be the sole and exclusive property of the Company.
-
-The Contractor hereby assigns to the Company all right, title, and interest in and to any such Inventions, including all intellectual property rights therein.
-
-### 5.4 Further Assurances
-
-The Contractor agrees to execute any documents and take any actions reasonably requested by the Company to perfect, evidence, or vest in the Company the rights assigned under this Section 5.
-
-### 5.5 Return of Materials
-
-Upon termination of this Agreement, the Contractor shall promptly return or destroy all Confidential Information and Company materials in the Contractor's possession.
+Execution of the CIIA is a condition precedent to this Agreement taking effect. This Agreement shall not be binding until the CIIA has been fully executed by both parties.
 
 ---
 
@@ -146,7 +128,7 @@ Either party may terminate this Agreement at any time, for any reason or no reas
 
 ### 7.3 Termination for Cause
 
-"Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
+"Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement, the CIIA, or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
 
 The Company may terminate this Agreement immediately upon written notice if Cause exists.
 
@@ -156,7 +138,7 @@ Upon termination of this Agreement, the Contractor's restricted stock shall be g
 
 ### 7.5 Survival
 
-Sections 5 (Confidentiality and Intellectual Property), 6 (Representations), and 9 (Dispute Resolution) shall survive termination of this Agreement.
+The CIIA (incorporated by reference in Section 5), Section 6 (Representations), and Section 9 (Dispute Resolution) shall survive termination of this Agreement.
 
 ---
 
@@ -180,7 +162,11 @@ Any dispute arising out of or relating to this Agreement shall first be submitte
 
 ### 9.2 Binding Arbitration
 
-If mediation is unsuccessful, the dispute shall be submitted to binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules, conducted in the State of Delaware by a single arbitrator.
+If mediation is unsuccessful, the dispute shall be submitted to binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules, conducted in the State of Delaware by a single arbitrator. The arbitrator's decision shall be final and binding and may be entered as a judgment in any court of competent jurisdiction.
+
+### 9.3 Arbitration Costs
+
+The Company shall bear all arbitration fees, arbitrator compensation, and administrative costs that exceed the amount the Contractor would have paid to file an equivalent action in state court in the State of Delaware. Each party shall bear its own attorneys' fees unless the arbitrator determines that one party's claims or defenses were frivolous, in which case the arbitrator may award reasonable attorneys' fees to the prevailing party.
 
 ---
 
@@ -192,7 +178,7 @@ This Agreement shall be governed by the laws of the State of Delaware.
 
 ### 10.2 Entire Agreement
 
-This Agreement, together with the Restricted Stock Purchase Agreement and the Equity Incentive Plan, constitutes the entire agreement between the parties with respect to the subject matter hereof.
+This Agreement, together with the Confidential Information and Inventions Assignment Agreement, the Restricted Stock Purchase Agreement, and the Equity Incentive Plan, constitutes the entire agreement between the parties with respect to the subject matter hereof.
 
 ### 10.3 Amendment
 
