@@ -6,7 +6,7 @@
 
 ---
 
-**Date:** _________, 2026
+**Date:** March 27, 2026
 
 This Stockholders' Agreement (the "Agreement") is entered into by and among:
 
@@ -28,7 +28,7 @@ C. Lecaj serves as President, Chief Executive Officer, and Director of the Compa
 
 D. The Move Social Inc. ("TMS") is a Delaware corporation. The Stockholders hold all issued and outstanding Class A Common Stock of TMS directly (4,250,000 shares each, representing a 50/50 split).
 
-E. This Agreement is entered into contemporaneously with the execution of the Stock Purchase Agreements by each Stockholder and the Founders' Agreement among the parties.
+E. This Agreement is entered into contemporaneously with the execution of the Stock Subscription Agreement by each Stockholder and in connection with the Founders' Agreement dated March 24, 2026 among the parties.
 
 F. The principal office of the Company is located at **10 River Rd Apt 10C, New York, NY 10044**.
 
@@ -42,7 +42,7 @@ G. The Stockholders desire to set forth their agreements regarding the transfer 
 
 **"Equity Incentive Plan"** or **"EIP"** means any equity incentive plan of TMS, or any equity compensation plan of the Company or TMS approved by the Board of Directors.
 
-**"Founders' Agreement"** means the Founders' Agreement entered into among the Stockholders and the Company, dated as of the same date as this Agreement.
+**"Founders' Agreement"** means the Founders' Agreement entered into among the Stockholders and the Company, dated March 24, 2026.
 
 **"Shares"** means shares of Common Stock of the Company, par value $0.00001 per share, whether now held or hereafter acquired by a Stockholder.
 
@@ -146,7 +146,7 @@ Before the Company issues any new Shares or securities convertible into Shares (
 
 ### 5.2 Exercise Period
 
-Each Stockholder shall have **thirty (30) days** from receipt of the New Issuance Notice to exercise its preemptive rights by delivering written notice to the Company specifying the number of Shares such Stockholder elects to purchase.
+Each Stockholder shall have **fifteen (15) days** from receipt of the New Issuance Notice to exercise its preemptive rights by delivering written notice to the Company specifying the number of Shares such Stockholder elects to purchase.
 
 ### 5.3 Exceptions
 
@@ -186,7 +186,7 @@ Notwithstanding Section 6.1, the following Transfers shall be permitted during t
 
 All certificates representing Shares, or book-entry notations with respect to Shares, shall bear the following legend (or substantially similar language):
 
-> "THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO THE TERMS AND CONDITIONS OF A STOCKHOLDERS' AGREEMENT DATED _________, 2026, BY AND AMONG THE COMPANY AND ITS STOCKHOLDERS, AS MAY BE AMENDED FROM TIME TO TIME. COPIES OF SUCH AGREEMENT MAY BE OBTAINED FROM THE SECRETARY OF THE COMPANY. ANY TRANSFER OF THESE SHARES IN VIOLATION OF SUCH AGREEMENT SHALL BE VOID."
+> "THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO THE TERMS AND CONDITIONS OF A STOCKHOLDERS' AGREEMENT DATED MARCH 27, 2026, BY AND AMONG THE COMPANY AND ITS STOCKHOLDERS, AS MAY BE AMENDED FROM TIME TO TIME. COPIES OF SUCH AGREEMENT MAY BE OBTAINED FROM THE SECRETARY OF THE COMPANY. ANY TRANSFER OF THESE SHARES IN VIOLATION OF SUCH AGREEMENT SHALL BE VOID."
 
 ### 7.2 Additional Legends
 
@@ -275,15 +275,19 @@ This Agreement shall terminate upon the earliest to occur of:
 
 (c) The mutual written consent of all Stockholders.
 
-### 11.8 Counterparts
+### 11.8 Joinder
+
+Any person who acquires Shares after the date of this Agreement, whether pursuant to the Equity Incentive Plan, a stock purchase agreement, or otherwise, shall, as a condition to the issuance or transfer of such Shares, execute and deliver a joinder agreement in a form approved by the Board of Directors, agreeing to be bound by all terms and conditions of this Agreement as a "Stockholder" hereunder. The Company shall not issue or register the transfer of any Shares to any person who has not executed such joinder agreement. Any person who executes a joinder agreement shall be deemed a party to this Agreement and shall have all rights and obligations of a Stockholder hereunder with respect to the Shares held by such person, subject to any limitations applicable to the class of Shares held (including, without limitation, the absence of voting rights for Class B Common Stock).
+
+### 11.9 Counterparts
 
 This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument.
 
-### 11.9 Waiver
+### 11.10 Waiver
 
 No waiver of any provision of this Agreement shall be effective unless in writing and signed by the waiving party. No failure or delay in exercising any right shall operate as a waiver thereof.
 
-### 11.10 Conflict with Founders' Agreement
+### 11.11 Conflict with Founders' Agreement
 
 In the event of any conflict or inconsistency between the terms of this Agreement and the terms of the Founders' Agreement, the Founders' Agreement shall govern and control.
 
@@ -314,3 +318,4 @@ By: Altin Lecaj, President and CEO
 ________________________________________
 By: Eric Garcia, Secretary, Treasurer, and CTO
 ```
+

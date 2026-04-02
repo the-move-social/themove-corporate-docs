@@ -2,7 +2,7 @@
 
 ---
 
-**Date:** _________, 2026
+**Date:** March 27, 2026
 
 This Intellectual Property Assignment Agreement (the "Agreement") is entered into between:
 
@@ -23,8 +23,6 @@ A. The Company is a Delaware C-Corporation. The Move Social Inc. ("TMS") is a De
 B. The Assignors are the founders of the Company and have been developing technology for "The Move" — an IRL social/adventure application — including the Reputation Engine, Vector Matching system, Experience Generation system, Safety Layer, and related infrastructure (collectively, the "Technology").
 
 C. The Assignors desire to assign to the Company all right, title, and interest in and to all pre-existing intellectual property relating to the Company's business, and the Company desires to accept such assignment, on the terms and conditions set forth herein.
-
-D. The Company intends to license certain intellectual property to TMS pursuant to a separate Intellectual Property License Agreement.
 
 ---
 
@@ -126,7 +124,7 @@ Each Assignor acknowledges that the consideration described in Section 5.1 is ad
 
 ## 6. Future IP
 
-The parties acknowledge that intellectual property conceived, created, or developed by either Assignor during the course of service to the Company following the date of this Agreement is governed by the Founders' Agreement (Section 10) and is not the subject of this Agreement. This Agreement covers only pre-existing intellectual property created prior to the date hereof.
+The parties acknowledge that intellectual property conceived, created, or developed by either Assignor during the course of service to the Company following the date of this Agreement is governed by the Founders' Agreement (Section 14) and is not the subject of this Agreement. This Agreement covers only pre-existing intellectual property created prior to the date hereof.
 
 ---
 
