@@ -110,7 +110,7 @@ If the Purchaser's Service terminates due to death or disability, vested Shares 
 
 ### 5.4 Definition of Cause
 
-For purposes of this Agreement, "Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement, the CIIA, or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties after written notice and a reasonable cure period.
+For purposes of this Agreement, "Cause" means (a) conviction of, or plea of guilty or no contest to, a felony or any crime involving fraud, dishonesty, or moral turpitude; (b) willful misconduct or gross negligence in the performance of duties; (c) material breach of this Agreement, the CIIA, or any other agreement with the Company that remains uncured for thirty (30) days after written notice; or (d) willful failure to perform duties that remains uncured for thirty (30) days after written notice specifying the failure in reasonable detail.
 
 ### 5.5 Definition of Service
 
